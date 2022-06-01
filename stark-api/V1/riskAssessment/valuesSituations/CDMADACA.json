@@ -1,0 +1,24 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "N",
+      "descripcionElementoCobertura": "NO CONTRATADA                                     0"
+    },
+    {
+      "codigoElementoCobertura": "0",
+      "descripcionElementoCobertura": "5%                                                5"
+    },
+    {
+      "codigoElementoCobertura": "1",
+      "descripcionElementoCobertura": "10%                                               10"
+    },
+    {
+      "codigoElementoCobertura": "4",
+      "descripcionElementoCobertura": "15%                                               15"
+    },
+    {
+      "codigoElementoCobertura": "5",
+      "descripcionElementoCobertura": "20%                                               20"
+    }
+  ]
+}

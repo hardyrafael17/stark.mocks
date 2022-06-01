@@ -1,0 +1,46 @@
+{
+  "accidentsRate": [
+    {
+      "year": 2021,
+      "netPremium": 21150.19,
+      "payments": 0,
+      "expenses": 0.143,
+      "reservations": 0,
+      "incurred": 0,
+      "lossRatio": 0,
+      "ibnr": 0.0862,
+      "commissions": 0.10400000000000001,
+      "combinedRatio": 0.333,
+      "numberIncidents": 0
+    },
+    {
+      "year": 2020,
+      "netPremium": 36476.89,
+      "payments": 200.69,
+      "expenses": 0,
+      "reservations": 1,
+      "incurred": 201.69,
+      "lossRatio": 0.005,
+      "ibnr": 0,
+      "commissions": 0.244,
+      "combinedRatio": 0.249,
+      "numberIncidents": 3
+    },
+    {
+      "year": 2019,
+      "netPremium": 35859.729999999996,
+      "payments": 1541.19,
+      "expenses": 0,
+      "reservations": 0,
+      "incurred": 1541.19,
+      "lossRatio": 0.043000000000000003,
+      "ibnr": 0,
+      "commissions": 0.244,
+      "combinedRatio": 0.287,
+      "numberIncidents": 1
+    }
+  ],
+  "broker": "BARCELONA-FERRER Y OJEDA",
+  "effectiveDate": 20120701,
+  "expiryDate": 20220331
+}

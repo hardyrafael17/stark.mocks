@@ -1,0 +1,4020 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "111110",
+      "descripcionElementoCobertura": "Explotación de Soja"
+    },
+    {
+      "codigoElementoCobertura": "111120",
+      "descripcionElementoCobertura": "Explotación de grano para aceite (excepto soja)"
+    },
+    {
+      "codigoElementoCobertura": "111140",
+      "descripcionElementoCobertura": "Explotación de trigo"
+    },
+    {
+      "codigoElementoCobertura": "111150",
+      "descripcionElementoCobertura": "Explotación de maíz"
+    },
+    {
+      "codigoElementoCobertura": "111160",
+      "descripcionElementoCobertura": "Explotación de Arroz"
+    },
+    {
+      "codigoElementoCobertura": "111211",
+      "descripcionElementoCobertura": "Explotación de patata"
+    },
+    {
+      "codigoElementoCobertura": "111219",
+      "descripcionElementoCobertura": "Explotación de vegetales (excepto patata), melón"
+    },
+    {
+      "codigoElementoCobertura": "111320",
+      "descripcionElementoCobertura": "Explotación de cítricos"
+    },
+    {
+      "codigoElementoCobertura": "111331",
+      "descripcionElementoCobertura": "Explotación de manzanas"
+    },
+    {
+      "codigoElementoCobertura": "111332",
+      "descripcionElementoCobertura": "Explotación vitícola (viña)"
+    },
+    {
+      "codigoElementoCobertura": "111334",
+      "descripcionElementoCobertura": "Explotación de frutas silverstres (bayas)"
+    },
+    {
+      "codigoElementoCobertura": "111335",
+      "descripcionElementoCobertura": "Explotación de nueces"
+    },
+    {
+      "codigoElementoCobertura": "111336",
+      "descripcionElementoCobertura": "Explotación de frutas y frutos secos combinado"
+    },
+    {
+      "codigoElementoCobertura": "111339",
+      "descripcionElementoCobertura": "Otros cultivos frutales diferentes de cítricos"
+    },
+    {
+      "codigoElementoCobertura": "111412",
+      "descripcionElementoCobertura": "Explotación de cannabis bajo techo"
+    },
+    {
+      "codigoElementoCobertura": "111419",
+      "descripcionElementoCobertura": "Explotación agraria bajo techo"
+    },
+    {
+      "codigoElementoCobertura": "111421",
+      "descripcionElementoCobertura": "Explotación floricultura (flores), producción de árboles"
+    },
+    {
+      "codigoElementoCobertura": "111910",
+      "descripcionElementoCobertura": "Explotación de tabaco"
+    },
+    {
+      "codigoElementoCobertura": "111920",
+      "descripcionElementoCobertura": "Explotación de algodón"
+    },
+    {
+      "codigoElementoCobertura": "111930",
+      "descripcionElementoCobertura": "Explotación de caña de azúcar, remolacha, azúcar"
+    },
+    {
+      "codigoElementoCobertura": "111940",
+      "descripcionElementoCobertura": "Explotación de heno"
+    },
+    {
+      "codigoElementoCobertura": "111998",
+      "descripcionElementoCobertura": "Otras explotaciones agrícolas"
+    },
+    {
+      "codigoElementoCobertura": "112111",
+      "descripcionElementoCobertura": "Producción y engorde de ganado bovino o vacuno"
+    },
+    {
+      "codigoElementoCobertura": "112112",
+      "descripcionElementoCobertura": "Engorde en establo de ganado bovino o vacuno"
+    },
+    {
+      "codigoElementoCobertura": "112120",
+      "descripcionElementoCobertura": "Granjas lecheras"
+    },
+    {
+      "codigoElementoCobertura": "112130",
+      "descripcionElementoCobertura": "Ganadería y ganadería de doble uso"
+    },
+    {
+      "codigoElementoCobertura": "112210",
+      "descripcionElementoCobertura": "Producción y engorde de ganado porcino"
+    },
+    {
+      "codigoElementoCobertura": "112310",
+      "descripcionElementoCobertura": "Producción de huevos de pollo"
+    },
+    {
+      "codigoElementoCobertura": "112320",
+      "descripcionElementoCobertura": "Procesado de carne de pollo"
+    },
+    {
+      "codigoElementoCobertura": "112330",
+      "descripcionElementoCobertura": "Producción y engorde de pavo y huevos de pavo"
+    },
+    {
+      "codigoElementoCobertura": "112340",
+      "descripcionElementoCobertura": "Criaderos de ganado avícola"
+    },
+    {
+      "codigoElementoCobertura": "112390",
+      "descripcionElementoCobertura": "Otras explotaciones avícolas"
+    },
+    {
+      "codigoElementoCobertura": "112410",
+      "descripcionElementoCobertura": "Producción y engorde de ganado ovino y caprino"
+    },
+    {
+      "codigoElementoCobertura": "112511",
+      "descripcionElementoCobertura": "Acuicultura"
+    },
+    {
+      "codigoElementoCobertura": "112910",
+      "descripcionElementoCobertura": "Apicultura"
+    },
+    {
+      "codigoElementoCobertura": "112920",
+      "descripcionElementoCobertura": "Caballos y otra producción equina"
+    },
+    {
+      "codigoElementoCobertura": "112930",
+      "descripcionElementoCobertura": "Explotación de animales para pieles"
+    },
+    {
+      "codigoElementoCobertura": "112990",
+      "descripcionElementoCobertura": "Ganadería en general, excepto lechería y explotación avícola"
+    },
+    {
+      "codigoElementoCobertura": "113110",
+      "descripcionElementoCobertura": "Explotación de zonas madereras"
+    },
+    {
+      "codigoElementoCobertura": "113210",
+      "descripcionElementoCobertura": "Viveros forestales y equipamiento"
+    },
+    {
+      "codigoElementoCobertura": "113310",
+      "descripcionElementoCobertura": "Explotación forestal"
+    },
+    {
+      "codigoElementoCobertura": "114119",
+      "descripcionElementoCobertura": "Otros, pesca marina"
+    },
+    {
+      "codigoElementoCobertura": "114210",
+      "descripcionElementoCobertura": "Caza y captura de animales"
+    },
+    {
+      "codigoElementoCobertura": "115111",
+      "descripcionElementoCobertura": "Desmotadora de algodón"
+    },
+    {
+      "codigoElementoCobertura": "115112",
+      "descripcionElementoCobertura": "Servicios de preparación de tierra"
+    },
+    {
+      "codigoElementoCobertura": "115113",
+      "descripcionElementoCobertura": "Labores cosecheras"
+    },
+    {
+      "codigoElementoCobertura": "115114",
+      "descripcionElementoCobertura": "Servicio de tratamiento de cosechas (excepto desmontado de algodón)"
+    },
+    {
+      "codigoElementoCobertura": "115115",
+      "descripcionElementoCobertura": "Contratistas de mano de obra agroganadera"
+    },
+    {
+      "codigoElementoCobertura": "115116",
+      "descripcionElementoCobertura": "Recolección de cultivos"
+    },
+    {
+      "codigoElementoCobertura": "115210",
+      "descripcionElementoCobertura": "Actividades de apoyo para la cría de animales"
+    },
+    {
+      "codigoElementoCobertura": "115310",
+      "descripcionElementoCobertura": "Actividades de apoyo a la silvicultura"
+    },
+    {
+      "codigoElementoCobertura": "211120",
+      "descripcionElementoCobertura": "Extracción de petroleo crudo o gas natural"
+    },
+    {
+      "codigoElementoCobertura": "211130A",
+      "descripcionElementoCobertura": "Extracción de petroleo crudo o gas natural"
+    },
+    {
+      "codigoElementoCobertura": "211130B",
+      "descripcionElementoCobertura": "Extracción de gas natural líquido - Plantas de gas gas natural líquido"
+    },
+    {
+      "codigoElementoCobertura": "211130C",
+      "descripcionElementoCobertura": "Extracción de gas natural líquido - Fraccionamiento de gas natural líquido"
+    },
+    {
+      "codigoElementoCobertura": "211130D",
+      "descripcionElementoCobertura": "Extracción de gas natural líquido - Plantas de gas natural licuado"
+    },
+    {
+      "codigoElementoCobertura": "212111",
+      "descripcionElementoCobertura": "Minería de Carbón bituminoso o Lignito. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212112",
+      "descripcionElementoCobertura": "Minería de Carbón bituminoso o Lignito. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212113A",
+      "descripcionElementoCobertura": "Minería de Antracita. En superficie"
+    },
+    {
+      "codigoElementoCobertura": "212113B",
+      "descripcionElementoCobertura": "Minería de Antracita. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212210A",
+      "descripcionElementoCobertura": "Minería de hierro. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212210B",
+      "descripcionElementoCobertura": "Minería de hierro. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212221A",
+      "descripcionElementoCobertura": "Minería de Oro. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212221C",
+      "descripcionElementoCobertura": "Minería de Oro. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212222A",
+      "descripcionElementoCobertura": "Minería de plata. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212222C",
+      "descripcionElementoCobertura": "Minería de plata. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212230I",
+      "descripcionElementoCobertura": "Minería de Cobre, Plomo y Zinc. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212230J",
+      "descripcionElementoCobertura": "Minería de Cobre, Plomo y Zinc. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212291A",
+      "descripcionElementoCobertura": "Minería de Uranio, Radio, Vanario. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212291B",
+      "descripcionElementoCobertura": "Minería de Uranio, Radio, Vanario. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212299A",
+      "descripcionElementoCobertura": "Extracción y tratamiento de Mineríaes a cielo abierto (excepto antracita, hulla, lignito, sal, turba y canteras)."
+    },
+    {
+      "codigoElementoCobertura": "212299E",
+      "descripcionElementoCobertura": "Extracción y tratamiento de Mineríaes a cielo abierto (excepto antracita, hulla, lignito, sal, turba y canteras)."
+    },
+    {
+      "codigoElementoCobertura": "212311A",
+      "descripcionElementoCobertura": "Canteras de mármol y piedra dimensionada. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212311B",
+      "descripcionElementoCobertura": "Canteras de mármol y piedra dimensionada. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212312A",
+      "descripcionElementoCobertura": "Canteras de piedra caliza y triturada. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212312B",
+      "descripcionElementoCobertura": "Canteras de piedra caliza y triturada. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212313A",
+      "descripcionElementoCobertura": "Canteras de granito en piedra y triturad. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212313B",
+      "descripcionElementoCobertura": "Canteras de granito en piedra y triturad. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212319A",
+      "descripcionElementoCobertura": "Otras. Canteras de piedra y triturad. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212319B",
+      "descripcionElementoCobertura": "Otras. Canteras de piedra y triturad. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212321A",
+      "descripcionElementoCobertura": "Cantera de piedra, gravera y/o arenería. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212321B",
+      "descripcionElementoCobertura": "Cantera de piedra, gravera y/o arenería. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212322A",
+      "descripcionElementoCobertura": "Cantera de arena industrial. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212322B",
+      "descripcionElementoCobertura": "Cantera de arena industrial. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212324A",
+      "descripcionElementoCobertura": "Cantera de Caolín y arcilla. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212324B",
+      "descripcionElementoCobertura": "Cantera de Caolín y arcilla. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212325A",
+      "descripcionElementoCobertura": "Cantera de Arcilla, cerámica y materiales refractarios. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212325B",
+      "descripcionElementoCobertura": "Cantera de Arcilla, cerámica y materiales refractarios. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212391A",
+      "descripcionElementoCobertura": "Mineria de potasa, sosa y minerales de borato. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212391B",
+      "descripcionElementoCobertura": "Mineria de potasa, sosa y minerales de borato. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212392A",
+      "descripcionElementoCobertura": "Minería de roca de fosfato. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212392B",
+      "descripcionElementoCobertura": "Minería de roca de fosfato. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212393A",
+      "descripcionElementoCobertura": "Otras. Minería química y de fertilizantes minerales. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212393B",
+      "descripcionElementoCobertura": "Otras. Minería química y de fertilizantes minerales. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "212399A",
+      "descripcionElementoCobertura": "Otras. Minería no metálica. En superfície"
+    },
+    {
+      "codigoElementoCobertura": "212399B",
+      "descripcionElementoCobertura": "Otras. Minería no metálica. Bajo tierra"
+    },
+    {
+      "codigoElementoCobertura": "213111",
+      "descripcionElementoCobertura": "Perforación de pozos de petróleo y gas"
+    },
+    {
+      "codigoElementoCobertura": "213112",
+      "descripcionElementoCobertura": "Servicios para actividades de extracción de petroleo y gas"
+    },
+    {
+      "codigoElementoCobertura": "213113",
+      "descripcionElementoCobertura": "Servicios para la minería de carbón"
+    },
+    {
+      "codigoElementoCobertura": "213114",
+      "descripcionElementoCobertura": "Servicios para la minería de materiales metálicos"
+    },
+    {
+      "codigoElementoCobertura": "213115",
+      "descripcionElementoCobertura": "Servicios para la minería de materiales no  metálicos (excepto petróleo y gas natural)"
+    },
+    {
+      "codigoElementoCobertura": "221111",
+      "descripcionElementoCobertura": "Generación hidroeléctrica"
+    },
+    {
+      "codigoElementoCobertura": "221112A",
+      "descripcionElementoCobertura": "Generación eléctrica con turbinas de vapor alimentadas con carbón (por debajo de 1000 MW de potencia)"
+    },
+    {
+      "codigoElementoCobertura": "221112B",
+      "descripcionElementoCobertura": "Generación eléctrica con turbinas de vapor alimentadas con carbón (entre 1000MW - 2500 MW de potencia)"
+    },
+    {
+      "codigoElementoCobertura": "221112C",
+      "descripcionElementoCobertura": "Generación eléctrica con turbinas de vapor alimentadas con carbón (por encima de 2500 MW de potencia)"
+    },
+    {
+      "codigoElementoCobertura": "221112D",
+      "descripcionElementoCobertura": "Generación eléctrica Ciclo simple alimentado por petróleo y gas"
+    },
+    {
+      "codigoElementoCobertura": "221112E",
+      "descripcionElementoCobertura": "Generación eléctrica a base de combustibles fósiles - Ciclo combinado"
+    },
+    {
+      "codigoElementoCobertura": "221112F",
+      "descripcionElementoCobertura": "Generación eléctrica: Planta de motor alternativo (por ejemplo, un motor diesel)"
+    },
+    {
+      "codigoElementoCobertura": "221114A",
+      "descripcionElementoCobertura": "Generación eléctrica solar - Fotovoltaica solar"
+    },
+    {
+      "codigoElementoCobertura": "221114B",
+      "descripcionElementoCobertura": "Generación eléctrica solar - Termo Solar"
+    },
+    {
+      "codigoElementoCobertura": "221115",
+      "descripcionElementoCobertura": "Generación eléctrica eólica"
+    },
+    {
+      "codigoElementoCobertura": "221116",
+      "descripcionElementoCobertura": "Generación eléctrica geotérmica"
+    },
+    {
+      "codigoElementoCobertura": "221117A",
+      "descripcionElementoCobertura": "Otra generación eléctrica: biomasa, astillas de madera, papel, paja"
+    },
+    {
+      "codigoElementoCobertura": "221117B",
+      "descripcionElementoCobertura": "Otra generación eléctrica - Incineración de residuos"
+    },
+    {
+      "codigoElementoCobertura": "221118A",
+      "descripcionElementoCobertura": "Otra generación eléctrica - Celdas de combustible"
+    },
+    {
+      "codigoElementoCobertura": "221118B",
+      "descripcionElementoCobertura": "Otra generación eléctrica - Generación por mareas"
+    },
+    {
+      "codigoElementoCobertura": "221121A",
+      "descripcionElementoCobertura": "Transmisión y control de energía eléctrica, incluidas las subestaciones, pero excluyendo líneas de transmisión y distribución"
+    },
+    {
+      "codigoElementoCobertura": "221121B",
+      "descripcionElementoCobertura": "Transmisión y control de energía eléctrica - Líneas de Transmisión y distribución"
+    },
+    {
+      "codigoElementoCobertura": "221122A",
+      "descripcionElementoCobertura": "Distribución de energía eléctrica, incluidas las subestaciones, pero excluyendo las líneas de transmisión y distribución"
+    },
+    {
+      "codigoElementoCobertura": "221122B",
+      "descripcionElementoCobertura": "Distribución de energía eléctrica - Líneas de Transmisión y Distribución"
+    },
+    {
+      "codigoElementoCobertura": "221210A",
+      "descripcionElementoCobertura": "Distribución de gas natural"
+    },
+    {
+      "codigoElementoCobertura": "221210B",
+      "descripcionElementoCobertura": "Transmisión de gas natural"
+    },
+    {
+      "codigoElementoCobertura": "221210C",
+      "descripcionElementoCobertura": "Transmisión y distribución de gas natural"
+    },
+    {
+      "codigoElementoCobertura": "221210D",
+      "descripcionElementoCobertura": "Gas Natural y otros servicios combinados"
+    },
+    {
+      "codigoElementoCobertura": "221210E",
+      "descripcionElementoCobertura": "Producción y distribución de GLP de fabricación mixta"
+    },
+    {
+      "codigoElementoCobertura": "221310",
+      "descripcionElementoCobertura": "Suministro de agua y sistemas de riego."
+    },
+    {
+      "codigoElementoCobertura": "221320",
+      "descripcionElementoCobertura": "Instalaciones de tratamiento de aguas residuales"
+    },
+    {
+      "codigoElementoCobertura": "221330",
+      "descripcionElementoCobertura": "Suministro de vapor y aire acondicionado"
+    },
+    {
+      "codigoElementoCobertura": "236115",
+      "descripcionElementoCobertura": "Contratistas de viviendas unifamiliares (excepto edificios)"
+    },
+    {
+      "codigoElementoCobertura": "236116",
+      "descripcionElementoCobertura": "Contratistas generales de edificios residenciales"
+    },
+    {
+      "codigoElementoCobertura": "236210",
+      "descripcionElementoCobertura": "Promotores de obras"
+    },
+    {
+      "codigoElementoCobertura": "236220",
+      "descripcionElementoCobertura": "Promotores de obras institucionales"
+    },
+    {
+      "codigoElementoCobertura": "237110",
+      "descripcionElementoCobertura": "Alcantarillados, conducciones de agua y electricidad"
+    },
+    {
+      "codigoElementoCobertura": "237210",
+      "descripcionElementoCobertura": "Subdivisión de terrenos -"
+    },
+    {
+      "codigoElementoCobertura": "237310",
+      "descripcionElementoCobertura": "Construcción de Autopistas, carreteras, calzadas y pistas"
+    },
+    {
+      "codigoElementoCobertura": "237990",
+      "descripcionElementoCobertura": "Construcción civil pesada"
+    },
+    {
+      "codigoElementoCobertura": "238110",
+      "descripcionElementoCobertura": "Cimientos, hormigón armado"
+    },
+    {
+      "codigoElementoCobertura": "238120",
+      "descripcionElementoCobertura": "Hormigón estructural y acero prefabricado"
+    },
+    {
+      "codigoElementoCobertura": "238130",
+      "descripcionElementoCobertura": "Carpintero de obra. Trabajos de madera. Puertas y ventanas"
+    },
+    {
+      "codigoElementoCobertura": "238140",
+      "descripcionElementoCobertura": "Albañilería"
+    },
+    {
+      "codigoElementoCobertura": "238150",
+      "descripcionElementoCobertura": "Trabajos de cristalería y vidrería"
+    },
+    {
+      "codigoElementoCobertura": "238160",
+      "descripcionElementoCobertura": "Techados y trabajos en chapa metálica"
+    },
+    {
+      "codigoElementoCobertura": "238290",
+      "descripcionElementoCobertura": "Contratistas de instalaciones generales para edificios"
+    },
+    {
+      "codigoElementoCobertura": "238310A",
+      "descripcionElementoCobertura": "Contratistas de Paneles de yeso (pladur) y aislante. Baja combustibilidad"
+    },
+    {
+      "codigoElementoCobertura": "238310B",
+      "descripcionElementoCobertura": "Contratistas de Paneles aislantes. Alta combustibilidad"
+    },
+    {
+      "codigoElementoCobertura": "238310C",
+      "descripcionElementoCobertura": "Contratistas de acabado para edificios"
+    },
+    {
+      "codigoElementoCobertura": "238350",
+      "descripcionElementoCobertura": "Contratistas Carpintero de obra. Trabajos de madera. Puertas y ventanas"
+    },
+    {
+      "codigoElementoCobertura": "238390",
+      "descripcionElementoCobertura": "Contratistas de acabado para edificios"
+    },
+    {
+      "codigoElementoCobertura": "238910",
+      "descripcionElementoCobertura": "Contratistas de limpieza, preparación del terreno y/o demolición"
+    },
+    {
+      "codigoElementoCobertura": "311111",
+      "descripcionElementoCobertura": "Fabricación de Alimentos para animales domésticos. Perros y gatos"
+    },
+    {
+      "codigoElementoCobertura": "311119",
+      "descripcionElementoCobertura": "Fabricación de  Alimentos para animales domésticos"
+    },
+    {
+      "codigoElementoCobertura": "311211",
+      "descripcionElementoCobertura": "Molino de harinas de cereales, huesos, pescado, sémola de patata o piensos compuestos"
+    },
+    {
+      "codigoElementoCobertura": "311212",
+      "descripcionElementoCobertura": "Molinos de arroz"
+    },
+    {
+      "codigoElementoCobertura": "311213",
+      "descripcionElementoCobertura": "Molino de malta."
+    },
+    {
+      "codigoElementoCobertura": "311221",
+      "descripcionElementoCobertura": "Molino de maíz, almidón, glucosa y féculas"
+    },
+    {
+      "codigoElementoCobertura": "311225A",
+      "descripcionElementoCobertura": "Fabricación y molinos de aceites comestibles únicamente por acción mecánica"
+    },
+    {
+      "codigoElementoCobertura": "311225B",
+      "descripcionElementoCobertura": "Fabricación y molinos de aceites comestibles excepto por acción de disolventes"
+    },
+    {
+      "codigoElementoCobertura": "311225D",
+      "descripcionElementoCobertura": "Fabricación y molinos de aceites comestibles por acción de disolventes"
+    },
+    {
+      "codigoElementoCobertura": "311230",
+      "descripcionElementoCobertura": "Fabricación de alimentos de base cereales"
+    },
+    {
+      "codigoElementoCobertura": "311313",
+      "descripcionElementoCobertura": "Fabricación de azúcar proveniente de la remolacha"
+    },
+    {
+      "codigoElementoCobertura": "311314A",
+      "descripcionElementoCobertura": "Molino para fabricación de azúcar proveniente de caña"
+    },
+    {
+      "codigoElementoCobertura": "311314B",
+      "descripcionElementoCobertura": "Fabrica y refinería de azúcar proveniente de caña"
+    },
+    {
+      "codigoElementoCobertura": "311340",
+      "descripcionElementoCobertura": "Fabricación de caramelos y confituras"
+    },
+    {
+      "codigoElementoCobertura": "311351",
+      "descripcionElementoCobertura": "Fabricación de chocolate proviniente de granos de cacao"
+    },
+    {
+      "codigoElementoCobertura": "311352",
+      "descripcionElementoCobertura": "Fabricación de dulces de chocolate"
+    },
+    {
+      "codigoElementoCobertura": "311411",
+      "descripcionElementoCobertura": "Fabricación de jugos de frutas sin extracción de aceites."
+    },
+    {
+      "codigoElementoCobertura": "311412",
+      "descripcionElementoCobertura": "Especialidades congeladas"
+    },
+    {
+      "codigoElementoCobertura": "311421",
+      "descripcionElementoCobertura": "Elaboración de conservas de frutas y verduras"
+    },
+    {
+      "codigoElementoCobertura": "311422",
+      "descripcionElementoCobertura": "Elaboración de productos enlatados"
+    },
+    {
+      "codigoElementoCobertura": "311423",
+      "descripcionElementoCobertura": "Fabricación de alimentos secos o deshidratados"
+    },
+    {
+      "codigoElementoCobertura": "311511",
+      "descripcionElementoCobertura": "Fabricación Leche líquida, yogures y productos lácteos en general"
+    },
+    {
+      "codigoElementoCobertura": "311512",
+      "descripcionElementoCobertura": "Fabricación de mantequilla"
+    },
+    {
+      "codigoElementoCobertura": "311513",
+      "descripcionElementoCobertura": "Fabricacion de queso"
+    },
+    {
+      "codigoElementoCobertura": "311514A",
+      "descripcionElementoCobertura": "Fabricación de leche en polvo, evaporada. Proceso húmedo"
+    },
+    {
+      "codigoElementoCobertura": "311514B",
+      "descripcionElementoCobertura": "Fabricación de leche en polvo, evaporada. Proceso seco"
+    },
+    {
+      "codigoElementoCobertura": "311520",
+      "descripcionElementoCobertura": "Fabricación de helados y postres congelados"
+    },
+    {
+      "codigoElementoCobertura": "311611",
+      "descripcionElementoCobertura": "Mataderos y salas de despiece , excepto avícola"
+    },
+    {
+      "codigoElementoCobertura": "311612",
+      "descripcionElementoCobertura": "Procesado y conservación de carne (embutidos, jamones...)"
+    },
+    {
+      "codigoElementoCobertura": "311613",
+      "descripcionElementoCobertura": "Procesado de subproductos cárnicos"
+    },
+    {
+      "codigoElementoCobertura": "311615",
+      "descripcionElementoCobertura": "Procesado de carne avícola"
+    },
+    {
+      "codigoElementoCobertura": "311710A",
+      "descripcionElementoCobertura": "Procesado y envasado de pescado y marisco cocido - sin aportacion de calor mas alla de hervir agua"
+    },
+    {
+      "codigoElementoCobertura": "311710B",
+      "descripcionElementoCobertura": "Procesado y envasado de pescado y marisco frito"
+    },
+    {
+      "codigoElementoCobertura": "311710C",
+      "descripcionElementoCobertura": "Procesado y envasado de pescado y marisco frito sin inmersión de aceite"
+    },
+    {
+      "codigoElementoCobertura": "311710D",
+      "descripcionElementoCobertura": "Procesado y envasado de pescado y marisco horneado"
+    },
+    {
+      "codigoElementoCobertura": "311710E",
+      "descripcionElementoCobertura": "Procesado y envasado de pescado y marisco frito"
+    },
+    {
+      "codigoElementoCobertura": "311811",
+      "descripcionElementoCobertura": "Panaderías al por menor"
+    },
+    {
+      "codigoElementoCobertura": "311812A",
+      "descripcionElementoCobertura": "Fabricación de productos de panadería. Sin aporte de calor excepto cocción en agua"
+    },
+    {
+      "codigoElementoCobertura": "311812D",
+      "descripcionElementoCobertura": "Fabricación de Productos de panadería con aporte de calor"
+    },
+    {
+      "codigoElementoCobertura": "311813A",
+      "descripcionElementoCobertura": "Fabricación de pasteles y postres. Sin aporte de calor (excepto cocina en agua)"
+    },
+    {
+      "codigoElementoCobertura": "311813D",
+      "descripcionElementoCobertura": "Fabricación de pasteles y postres. Con aporte de calor"
+    },
+    {
+      "codigoElementoCobertura": "311821A",
+      "descripcionElementoCobertura": "Fabricación de galletas sin aporte de calor (excepto cocina con agua)"
+    },
+    {
+      "codigoElementoCobertura": "311821D",
+      "descripcionElementoCobertura": "Fabricación de galletas con aporte de calor"
+    },
+    {
+      "codigoElementoCobertura": "311824A",
+      "descripcionElementoCobertura": "Fabricación de masa de harina"
+    },
+    {
+      "codigoElementoCobertura": "311824B",
+      "descripcionElementoCobertura": "Fabricación de pastas secas alimenticias."
+    },
+    {
+      "codigoElementoCobertura": "311830A",
+      "descripcionElementoCobertura": "Elaboración de tortas.  Cocción"
+    },
+    {
+      "codigoElementoCobertura": "311830B",
+      "descripcionElementoCobertura": "Elaboración de tortas. Fritura"
+    },
+    {
+      "codigoElementoCobertura": "311911",
+      "descripcionElementoCobertura": "Fabricación de nueces tostadas y mantequilla de cacahuete - excluyendo fritura"
+    },
+    {
+      "codigoElementoCobertura": "311919",
+      "descripcionElementoCobertura": "Fabricación de snacks con fritura"
+    },
+    {
+      "codigoElementoCobertura": "311920",
+      "descripcionElementoCobertura": "Fabricación de Te o café"
+    },
+    {
+      "codigoElementoCobertura": "311930A",
+      "descripcionElementoCobertura": "Fabricación de sirope concentrado sin polvo ni disolvente"
+    },
+    {
+      "codigoElementoCobertura": "311930B",
+      "descripcionElementoCobertura": "Fabricación de sirope concentrado"
+    },
+    {
+      "codigoElementoCobertura": "311930C",
+      "descripcionElementoCobertura": "Fabricación de sirope concentrado con disolvente"
+    },
+    {
+      "codigoElementoCobertura": "311941",
+      "descripcionElementoCobertura": "Fabricación de mayonesa y otros condimentos (salsas)"
+    },
+    {
+      "codigoElementoCobertura": "311942A",
+      "descripcionElementoCobertura": "Elaboración de sazones y especias"
+    },
+    {
+      "codigoElementoCobertura": "311942B",
+      "descripcionElementoCobertura": "Elaboración de sazones y especias"
+    },
+    {
+      "codigoElementoCobertura": "311991A",
+      "descripcionElementoCobertura": "Elaboración de comida preparada perecedera. Sin aporte de calor excepto cocción"
+    },
+    {
+      "codigoElementoCobertura": "311991B",
+      "descripcionElementoCobertura": "Elaboración de comida preparada perecedera. Con aporte de calor"
+    },
+    {
+      "codigoElementoCobertura": "311999A",
+      "descripcionElementoCobertura": "Elaboración de comida preparada. Sin aporte de calor excepto cocción"
+    },
+    {
+      "codigoElementoCobertura": "311999B",
+      "descripcionElementoCobertura": "Elaboración de comida preparada. Con aporte de calor"
+    },
+    {
+      "codigoElementoCobertura": "312111",
+      "descripcionElementoCobertura": "Fabricación refrescos y bebidas no alcohólicas"
+    },
+    {
+      "codigoElementoCobertura": "312112",
+      "descripcionElementoCobertura": "Planta embotelladora de aguas minerales, de manantial y potable preparada."
+    },
+    {
+      "codigoElementoCobertura": "312113",
+      "descripcionElementoCobertura": "Fabricación de hielo."
+    },
+    {
+      "codigoElementoCobertura": "312120A",
+      "descripcionElementoCobertura": "Fabricación de cerveza. Sin malta"
+    },
+    {
+      "codigoElementoCobertura": "312120B",
+      "descripcionElementoCobertura": "Fabricación de cerveza. Con malta"
+    },
+    {
+      "codigoElementoCobertura": "312130",
+      "descripcionElementoCobertura": "Bodegas"
+    },
+    {
+      "codigoElementoCobertura": "312140",
+      "descripcionElementoCobertura": "Destilería"
+    },
+    {
+      "codigoElementoCobertura": "312230",
+      "descripcionElementoCobertura": "Fabricación de puros y cigarrillos"
+    },
+    {
+      "codigoElementoCobertura": "312310",
+      "descripcionElementoCobertura": "Fabricación de productos de cannabis o cáñamo"
+    },
+    {
+      "codigoElementoCobertura": "313110",
+      "descripcionElementoCobertura": "Hilatura de fibras e hilos"
+    },
+    {
+      "codigoElementoCobertura": "313210",
+      "descripcionElementoCobertura": "Hilatura de tela"
+    },
+    {
+      "codigoElementoCobertura": "313220",
+      "descripcionElementoCobertura": "Fabricación de pasamanería, cintas y vendas"
+    },
+    {
+      "codigoElementoCobertura": "313230",
+      "descripcionElementoCobertura": "Textiles sin tejer"
+    },
+    {
+      "codigoElementoCobertura": "313240",
+      "descripcionElementoCobertura": "Hilatura de punto"
+    },
+    {
+      "codigoElementoCobertura": "313310",
+      "descripcionElementoCobertura": "Hilatura de acabado y pasamanería"
+    },
+    {
+      "codigoElementoCobertura": "313320",
+      "descripcionElementoCobertura": "Recubrimientos de tela"
+    },
+    {
+      "codigoElementoCobertura": "314110",
+      "descripcionElementoCobertura": "Fabricación de alfombras y tapices"
+    },
+    {
+      "codigoElementoCobertura": "314120",
+      "descripcionElementoCobertura": "Fabricación de Cortinas y ropa blanca"
+    },
+    {
+      "codigoElementoCobertura": "314910",
+      "descripcionElementoCobertura": "Fábrica de bolsos de tela y lona"
+    },
+    {
+      "codigoElementoCobertura": "314994",
+      "descripcionElementoCobertura": "Fabricación de cuerdas, cordaje y bramante"
+    },
+    {
+      "codigoElementoCobertura": "314999",
+      "descripcionElementoCobertura": "Otros, productos textiles diversos"
+    },
+    {
+      "codigoElementoCobertura": "315110",
+      "descripcionElementoCobertura": "Hilatura (fabricación) de calcetería y calcetines"
+    },
+    {
+      "codigoElementoCobertura": "315190",
+      "descripcionElementoCobertura": "Hilatura (fábrica) de prendas de punto"
+    },
+    {
+      "codigoElementoCobertura": "315210",
+      "descripcionElementoCobertura": "Contratista de corte y costura de prendas de vestir"
+    },
+    {
+      "codigoElementoCobertura": "315220",
+      "descripcionElementoCobertura": "Fabricación de ropa de vestir de niños y hombres"
+    },
+    {
+      "codigoElementoCobertura": "315240",
+      "descripcionElementoCobertura": "Fabricación de ropa de vestir de niñas y mujeres"
+    },
+    {
+      "codigoElementoCobertura": "315280",
+      "descripcionElementoCobertura": "Otros, fabricación de prendas de vestir"
+    },
+    {
+      "codigoElementoCobertura": "315990",
+      "descripcionElementoCobertura": "Fabricación de sombreros y gorras"
+    },
+    {
+      "codigoElementoCobertura": "316110",
+      "descripcionElementoCobertura": "Curtición de pieles"
+    },
+    {
+      "codigoElementoCobertura": "316210",
+      "descripcionElementoCobertura": "Fabricación de calzado"
+    },
+    {
+      "codigoElementoCobertura": "316992",
+      "descripcionElementoCobertura": "Fabricació de bolsos y carteras"
+    },
+    {
+      "codigoElementoCobertura": "316998",
+      "descripcionElementoCobertura": "Fabricación de productos de cuero"
+    },
+    {
+      "codigoElementoCobertura": "321113",
+      "descripcionElementoCobertura": "Asserradero de madera en bruto"
+    },
+    {
+      "codigoElementoCobertura": "321114",
+      "descripcionElementoCobertura": "Conservación de la madera"
+    },
+    {
+      "codigoElementoCobertura": "321211",
+      "descripcionElementoCobertura": "Fabricación de tableros contrachapados de madera dura"
+    },
+    {
+      "codigoElementoCobertura": "321212",
+      "descripcionElementoCobertura": "Fabricación de tableros contrachapados de madera blanda"
+    },
+    {
+      "codigoElementoCobertura": "321213",
+      "descripcionElementoCobertura": "Fabricación de piezas estructurales de madera excepto vigas (cerchas)"
+    },
+    {
+      "codigoElementoCobertura": "321214",
+      "descripcionElementoCobertura": "Fabricación de vigas (cerchas)  de madera"
+    },
+    {
+      "codigoElementoCobertura": "321219",
+      "descripcionElementoCobertura": "Fabricación de productos de madera reconstruida"
+    },
+    {
+      "codigoElementoCobertura": "321219B",
+      "descripcionElementoCobertura": "Fabricación de productos de madera reconstruida, Fibras orientadas"
+    },
+    {
+      "codigoElementoCobertura": "321911",
+      "descripcionElementoCobertura": "Fabricación de puertas y ventanas de madera"
+    },
+    {
+      "codigoElementoCobertura": "321912",
+      "descripcionElementoCobertura": "Asserradero de madera procesada"
+    },
+    {
+      "codigoElementoCobertura": "321918",
+      "descripcionElementoCobertura": "Otros trabajos de madera. Incluyendo suelos"
+    },
+    {
+      "codigoElementoCobertura": "321920",
+      "descripcionElementoCobertura": "Fabricación de contenedores y palets de madera"
+    },
+    {
+      "codigoElementoCobertura": "321991",
+      "descripcionElementoCobertura": "Fabricación de casas móviles de madera"
+    },
+    {
+      "codigoElementoCobertura": "321992",
+      "descripcionElementoCobertura": "Casas prefabricadas de madera y sus elementos"
+    },
+    {
+      "codigoElementoCobertura": "321999",
+      "descripcionElementoCobertura": "Fabricación de productos de madera"
+    },
+    {
+      "codigoElementoCobertura": "322110A",
+      "descripcionElementoCobertura": "Fabricación de pulpa (pasta de papel) mediante proceso químico"
+    },
+    {
+      "codigoElementoCobertura": "322110B",
+      "descripcionElementoCobertura": "Fabricación de pulpa (pasta de papel) mediante proceso mecánico"
+    },
+    {
+      "codigoElementoCobertura": "322121A",
+      "descripcionElementoCobertura": "Fabricación de papel (excepto papel de periódico y papel de seda)"
+    },
+    {
+      "codigoElementoCobertura": "322121B",
+      "descripcionElementoCobertura": "Fabricación de papel (excepto papel de peródico y papel de seda) Incluye el molino de pulpa químico adjunto"
+    },
+    {
+      "codigoElementoCobertura": "322121C",
+      "descripcionElementoCobertura": "Fabricación de papel (excepto papel de peródico y papel de seda) Incluye el molino de pulpa mecánico adjunto"
+    },
+    {
+      "codigoElementoCobertura": "322121D",
+      "descripcionElementoCobertura": "Fabricación papel de seda"
+    },
+    {
+      "codigoElementoCobertura": "322122",
+      "descripcionElementoCobertura": "Fabricación de papel de periódico"
+    },
+    {
+      "codigoElementoCobertura": "322130A",
+      "descripcionElementoCobertura": "Fabricación de cartulina, incluyendo el molino químico adjunto"
+    },
+    {
+      "codigoElementoCobertura": "322130B",
+      "descripcionElementoCobertura": "Fabricación de cartulina"
+    },
+    {
+      "codigoElementoCobertura": "322211",
+      "descripcionElementoCobertura": "Fabricación de cajas de cartón corrugado"
+    },
+    {
+      "codigoElementoCobertura": "322212",
+      "descripcionElementoCobertura": "Fabricación de cajas de cartón plegado"
+    },
+    {
+      "codigoElementoCobertura": "322219A",
+      "descripcionElementoCobertura": "Fabricación de contenedores de cartón. Cajas"
+    },
+    {
+      "codigoElementoCobertura": "322219B",
+      "descripcionElementoCobertura": "Fabricación de contenedores de cartón. Tubos, botes y similares"
+    },
+    {
+      "codigoElementoCobertura": "322219C",
+      "descripcionElementoCobertura": "Fabricación de contenedores de cartón sanitario y de comida"
+    },
+    {
+      "codigoElementoCobertura": "322220A",
+      "descripcionElementoCobertura": "Fabricación de embalaje de papel laminado y recubierto"
+    },
+    {
+      "codigoElementoCobertura": "322220B",
+      "descripcionElementoCobertura": "Fabricación de papel laminado y recubierto"
+    },
+    {
+      "codigoElementoCobertura": "322220C",
+      "descripcionElementoCobertura": "Fabricación de bolsas de papel recubiertas"
+    },
+    {
+      "codigoElementoCobertura": "322220D",
+      "descripcionElementoCobertura": "Fabricación de bolsas de papel sin recubrimiento"
+    },
+    {
+      "codigoElementoCobertura": "322220E",
+      "descripcionElementoCobertura": "Fabricación de hojas de láminas de aluminio para embalajes"
+    },
+    {
+      "codigoElementoCobertura": "322220F",
+      "descripcionElementoCobertura": "Fabricación de cartulina con recubrimiento"
+    },
+    {
+      "codigoElementoCobertura": "322230A",
+      "descripcionElementoCobertura": "Fabricación de productos de papelería troquelado y cartulina"
+    },
+    {
+      "codigoElementoCobertura": "322230B",
+      "descripcionElementoCobertura": "Fabricación de sobres"
+    },
+    {
+      "codigoElementoCobertura": "322230C",
+      "descripcionElementoCobertura": "Fabricación de productos de papelería (excepto papelería troquelado y cartulina)"
+    },
+    {
+      "codigoElementoCobertura": "322291A",
+      "descripcionElementoCobertura": "Fabricación de pañales, compresas"
+    },
+    {
+      "codigoElementoCobertura": "322291B",
+      "descripcionElementoCobertura": "Fabricación  papel higiénico, servilletas y/o pañuelos de papel"
+    },
+    {
+      "codigoElementoCobertura": "322299",
+      "descripcionElementoCobertura": "Fabricación de productos de papel"
+    },
+    {
+      "codigoElementoCobertura": "323111A",
+      "descripcionElementoCobertura": "Imprentas comerciales (excepto serigrafia y libros). Huecogravado"
+    },
+    {
+      "codigoElementoCobertura": "323111B",
+      "descripcionElementoCobertura": "Imprentas comerciales (excepto serigrafia y libros)"
+    },
+    {
+      "codigoElementoCobertura": "323113",
+      "descripcionElementoCobertura": "Imprentas. Serigrafía comercial"
+    },
+    {
+      "codigoElementoCobertura": "323117",
+      "descripcionElementoCobertura": "Imprentas de libros"
+    },
+    {
+      "codigoElementoCobertura": "323120A",
+      "descripcionElementoCobertura": "Taller de encuadernación."
+    },
+    {
+      "codigoElementoCobertura": "323120B",
+      "descripcionElementoCobertura": "Composición tipográfica"
+    },
+    {
+      "codigoElementoCobertura": "324110",
+      "descripcionElementoCobertura": "Refinerías de petroleo"
+    },
+    {
+      "codigoElementoCobertura": "324121",
+      "descripcionElementoCobertura": "Bloques y preparados de alquitrán"
+    },
+    {
+      "codigoElementoCobertura": "324122",
+      "descripcionElementoCobertura": "Productos asfálticos"
+    },
+    {
+      "codigoElementoCobertura": "324191",
+      "descripcionElementoCobertura": "Fabricación y/o envasado de productos de engrase, aceites y grasas industriales"
+    },
+    {
+      "codigoElementoCobertura": "324199",
+      "descripcionElementoCobertura": "Otros. Derivados del petroleo y carbón"
+    },
+    {
+      "codigoElementoCobertura": "325110C",
+      "descripcionElementoCobertura": "Fabricación petroquímica"
+    },
+    {
+      "codigoElementoCobertura": "325110D",
+      "descripcionElementoCobertura": "Fabricación petroquímica"
+    },
+    {
+      "codigoElementoCobertura": "325110E",
+      "descripcionElementoCobertura": "Fabricación petroquímica"
+    },
+    {
+      "codigoElementoCobertura": "325120A",
+      "descripcionElementoCobertura": "Fabrifación de Gas industrial"
+    },
+    {
+      "codigoElementoCobertura": "325120B",
+      "descripcionElementoCobertura": "Fabrifación de Gas industrial"
+    },
+    {
+      "codigoElementoCobertura": "325120C",
+      "descripcionElementoCobertura": "Fabrifación de Gas industrial"
+    },
+    {
+      "codigoElementoCobertura": "325120D",
+      "descripcionElementoCobertura": "Fabrifación de Gas industrial"
+    },
+    {
+      "codigoElementoCobertura": "325120E",
+      "descripcionElementoCobertura": "Fabrifación de Gas industrial"
+    },
+    {
+      "codigoElementoCobertura": "325130",
+      "descripcionElementoCobertura": "Crudos e intermedios orgánicos cíclicos, y colorantes y pigmentos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180A",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180B",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180C",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180D",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180E",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325180F",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos. Álcalis y Cloros"
+    },
+    {
+      "codigoElementoCobertura": "325180G",
+      "descripcionElementoCobertura": "Fabricación de productos químicos inorgánicos. Carbón Negro"
+    },
+    {
+      "codigoElementoCobertura": "325193C",
+      "descripcionElementoCobertura": "Fabricación de alcohol Etílico"
+    },
+    {
+      "codigoElementoCobertura": "325193D",
+      "descripcionElementoCobertura": "Fabricación de alcohol Etílico"
+    },
+    {
+      "codigoElementoCobertura": "325193E",
+      "descripcionElementoCobertura": "Fabricación de alcohol Etílico"
+    },
+    {
+      "codigoElementoCobertura": "325194",
+      "descripcionElementoCobertura": "Productos químicos destilados de resina y madera"
+    },
+    {
+      "codigoElementoCobertura": "325199A",
+      "descripcionElementoCobertura": "Fabricación de productos químicos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325199B",
+      "descripcionElementoCobertura": "Fabricación de productos químicos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325199C",
+      "descripcionElementoCobertura": "Fabricación de productos químicos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325199D",
+      "descripcionElementoCobertura": "Fabricación de productos químicos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325199E",
+      "descripcionElementoCobertura": "Fabricación de productos químicos orgánicos"
+    },
+    {
+      "codigoElementoCobertura": "325211B",
+      "descripcionElementoCobertura": "Fabricación de plásticos, resinas sintéticas"
+    },
+    {
+      "codigoElementoCobertura": "325211C",
+      "descripcionElementoCobertura": "Fabricación de plásticos, resinas sintéticas"
+    },
+    {
+      "codigoElementoCobertura": "325211D",
+      "descripcionElementoCobertura": "Fabricación de plásticos, resinas sintéticas"
+    },
+    {
+      "codigoElementoCobertura": "325211E",
+      "descripcionElementoCobertura": "Fabricación de plásticos, resinas sintéticas"
+    },
+    {
+      "codigoElementoCobertura": "325212B",
+      "descripcionElementoCobertura": "Fabricación de goma sintética"
+    },
+    {
+      "codigoElementoCobertura": "325212C",
+      "descripcionElementoCobertura": "Fabricación de goma sintética"
+    },
+    {
+      "codigoElementoCobertura": "325212D",
+      "descripcionElementoCobertura": "Fabricación de goma sintética"
+    },
+    {
+      "codigoElementoCobertura": "325212E",
+      "descripcionElementoCobertura": "Fabricación de goma sintética"
+    },
+    {
+      "codigoElementoCobertura": "325220",
+      "descripcionElementoCobertura": "Fabricación de fibras sintéticas de celulosa para textil"
+    },
+    {
+      "codigoElementoCobertura": "325311B",
+      "descripcionElementoCobertura": "Fabricación de fertilizante de Nitrógeno"
+    },
+    {
+      "codigoElementoCobertura": "325311C",
+      "descripcionElementoCobertura": "Fabricación de fertilizante de Nitrógeno"
+    },
+    {
+      "codigoElementoCobertura": "325311D",
+      "descripcionElementoCobertura": "Fabricación de fertilizante de Nitrógeno"
+    },
+    {
+      "codigoElementoCobertura": "325311E",
+      "descripcionElementoCobertura": "Fabricación de fertilizante de Nitrógeno"
+    },
+    {
+      "codigoElementoCobertura": "325312A",
+      "descripcionElementoCobertura": "Fabricación de Fertilizante Fosfatos"
+    },
+    {
+      "codigoElementoCobertura": "325312B",
+      "descripcionElementoCobertura": "Fabricación de Fertilizante Fosfatos"
+    },
+    {
+      "codigoElementoCobertura": "325312C",
+      "descripcionElementoCobertura": "Fabricación de Fertilizante Fosfatos"
+    },
+    {
+      "codigoElementoCobertura": "325312D",
+      "descripcionElementoCobertura": "Fabricación de Fertilizante Fosfatos"
+    },
+    {
+      "codigoElementoCobertura": "325312E",
+      "descripcionElementoCobertura": "Fabricación de Fertilizante Fosfatos"
+    },
+    {
+      "codigoElementoCobertura": "325314A",
+      "descripcionElementoCobertura": "Fabricación de Fertilizantes (solo mezcla). Bajo riesgo"
+    },
+    {
+      "codigoElementoCobertura": "325314D",
+      "descripcionElementoCobertura": "Fabricación de Fertilizantes (solo mezcla). Alto riesgo"
+    },
+    {
+      "codigoElementoCobertura": "325320A",
+      "descripcionElementoCobertura": "Fabricación de abonos químicos y/o fitosanitarios no inflamables"
+    },
+    {
+      "codigoElementoCobertura": "325320B",
+      "descripcionElementoCobertura": "Fabricación de abonos químicos y/o fitosanitarios. Inflamables, alto riesgo"
+    },
+    {
+      "codigoElementoCobertura": "325411A",
+      "descripcionElementoCobertura": "Fabricación de productos medicinales y botánicos"
+    },
+    {
+      "codigoElementoCobertura": "325411B",
+      "descripcionElementoCobertura": "Fabricación de productos medicinales y botánicos"
+    },
+    {
+      "codigoElementoCobertura": "325411C",
+      "descripcionElementoCobertura": "Fabricación de productos medicinales y botánicos"
+    },
+    {
+      "codigoElementoCobertura": "325411D",
+      "descripcionElementoCobertura": "Fabricación de productos medicinales y botánicos"
+    },
+    {
+      "codigoElementoCobertura": "325412A",
+      "descripcionElementoCobertura": "Fabricación de Especialidades farmacéuticas"
+    },
+    {
+      "codigoElementoCobertura": "325412B",
+      "descripcionElementoCobertura": "Fabricación de Especialidades farmacéuticas"
+    },
+    {
+      "codigoElementoCobertura": "325412C",
+      "descripcionElementoCobertura": "Fabricación de Especialidades farmacéuticas"
+    },
+    {
+      "codigoElementoCobertura": "325412D",
+      "descripcionElementoCobertura": "Fabricación de Especialidades farmacéuticas"
+    },
+    {
+      "codigoElementoCobertura": "325413A",
+      "descripcionElementoCobertura": "Fabricación de Sustancias de diagnóstico in vitro"
+    },
+    {
+      "codigoElementoCobertura": "325413B",
+      "descripcionElementoCobertura": "Fabricación de Sustancias de diagnóstico in vitro"
+    },
+    {
+      "codigoElementoCobertura": "325413C",
+      "descripcionElementoCobertura": "Fabricación de Sustancias de diagnóstico in vitro"
+    },
+    {
+      "codigoElementoCobertura": "325413D",
+      "descripcionElementoCobertura": "Fabricación de Sustancias de diagnóstico in vitro"
+    },
+    {
+      "codigoElementoCobertura": "325414A",
+      "descripcionElementoCobertura": "Fabricación de productos biológicos (excepto de diagnóstico)"
+    },
+    {
+      "codigoElementoCobertura": "325414B",
+      "descripcionElementoCobertura": "Fabricación de productos biológicos (excepto de diagnóstico)"
+    },
+    {
+      "codigoElementoCobertura": "325414C",
+      "descripcionElementoCobertura": "Fabricación de productos biológicos (excepto de diagnóstico)"
+    },
+    {
+      "codigoElementoCobertura": "325414D",
+      "descripcionElementoCobertura": "Fabricación de productos biológicos (excepto de diagnóstico)"
+    },
+    {
+      "codigoElementoCobertura": "325510A",
+      "descripcionElementoCobertura": "Fabricación de pinturas, barnices, lacas y esmaltes (en base agua)"
+    },
+    {
+      "codigoElementoCobertura": "325510B",
+      "descripcionElementoCobertura": "Fabricación de Pinturas, barnices, lacas y esmaltes (con disolvente)"
+    },
+    {
+      "codigoElementoCobertura": "325520",
+      "descripcionElementoCobertura": "Fabricación de adhesivos y selladores"
+    },
+    {
+      "codigoElementoCobertura": "325611",
+      "descripcionElementoCobertura": "Fabricación de jabón y detergentes"
+    },
+    {
+      "codigoElementoCobertura": "325612A",
+      "descripcionElementoCobertura": "Fabricación de esmaltes y pulimento. No combustibles"
+    },
+    {
+      "codigoElementoCobertura": "325612B",
+      "descripcionElementoCobertura": "Fabricación de esmaltes y pulimento. Combustibles"
+    },
+    {
+      "codigoElementoCobertura": "325613",
+      "descripcionElementoCobertura": "Fabricación de principios activos de limpiezas de superficies"
+    },
+    {
+      "codigoElementoCobertura": "325620A",
+      "descripcionElementoCobertura": "Fabricación de  perfumes, cremas y productos cosméticos. No combustible"
+    },
+    {
+      "codigoElementoCobertura": "325620B",
+      "descripcionElementoCobertura": "Fabricación de  perfumes, cremas y productos cosméticos. Combustible"
+    },
+    {
+      "codigoElementoCobertura": "325910A",
+      "descripcionElementoCobertura": "Fabricación de tintas. No combustible"
+    },
+    {
+      "codigoElementoCobertura": "325910B",
+      "descripcionElementoCobertura": "Fabricación de tintas. Combustible"
+    },
+    {
+      "codigoElementoCobertura": "325920",
+      "descripcionElementoCobertura": "Fabricación de explosivos"
+    },
+    {
+      "codigoElementoCobertura": "325991",
+      "descripcionElementoCobertura": "Mezcla y unión de resinas personalizada"
+    },
+    {
+      "codigoElementoCobertura": "325992",
+      "descripcionElementoCobertura": "Fabricación de películas fotográficas, papel, placas y productos químicos."
+    },
+    {
+      "codigoElementoCobertura": "325998",
+      "descripcionElementoCobertura": "Fabricación de productos químicos y preparados"
+    },
+    {
+      "codigoElementoCobertura": "326111",
+      "descripcionElementoCobertura": "Fabricación de bolsas de plástico"
+    },
+    {
+      "codigoElementoCobertura": "326112",
+      "descripcionElementoCobertura": "Fabricación de film de plastico (incluido laminado)"
+    },
+    {
+      "codigoElementoCobertura": "326113",
+      "descripcionElementoCobertura": "Fabricación de láminas y de plastico sin laminar (excepto embalajes)"
+    },
+    {
+      "codigoElementoCobertura": "326121",
+      "descripcionElementoCobertura": "Fabricación de perfiles de plástico"
+    },
+    {
+      "codigoElementoCobertura": "326122",
+      "descripcionElementoCobertura": "Fabricación de plástico por extrusión (por ejemplo  tuberías)"
+    },
+    {
+      "codigoElementoCobertura": "326130",
+      "descripcionElementoCobertura": "Fabricación de placas de plásticos laminados"
+    },
+    {
+      "codigoElementoCobertura": "326140",
+      "descripcionElementoCobertura": "Fabricación de espuma de poliestiereno"
+    },
+    {
+      "codigoElementoCobertura": "326150",
+      "descripcionElementoCobertura": "Fabricación de espumas de Uretano u otros materiales (excepto poliestireno)"
+    },
+    {
+      "codigoElementoCobertura": "326160",
+      "descripcionElementoCobertura": "Fabricación de plásticos por moldeo por soplado  (por ejemplo Botellas de plástico)"
+    },
+    {
+      "codigoElementoCobertura": "326191",
+      "descripcionElementoCobertura": "Fabricación de accesorios de fontanería"
+    },
+    {
+      "codigoElementoCobertura": "326199A",
+      "descripcionElementoCobertura": "Fabricación de recubrimiento resiliente de suelos (plástico)"
+    },
+    {
+      "codigoElementoCobertura": "326199B",
+      "descripcionElementoCobertura": "Fabricación de plásticos por inyección."
+    },
+    {
+      "codigoElementoCobertura": "326211",
+      "descripcionElementoCobertura": "Fabricación de neumáticos (excepto recauchutado)"
+    },
+    {
+      "codigoElementoCobertura": "326212",
+      "descripcionElementoCobertura": "Recauchutado de neumáticos"
+    },
+    {
+      "codigoElementoCobertura": "326220",
+      "descripcionElementoCobertura": "Fabricación de correas de caucho y plástico"
+    },
+    {
+      "codigoElementoCobertura": "326291",
+      "descripcionElementoCobertura": "Fabricación de productos de goma para usos mecánicos"
+    },
+    {
+      "codigoElementoCobertura": "326299",
+      "descripcionElementoCobertura": "Fabricación  de productos de goma"
+    },
+    {
+      "codigoElementoCobertura": "327110",
+      "descripcionElementoCobertura": "Fabricación de accesorios de baño de porcelana y loza"
+    },
+    {
+      "codigoElementoCobertura": "327120",
+      "descripcionElementoCobertura": "Fabricación de materiales de arcilla y refractarios"
+    },
+    {
+      "codigoElementoCobertura": "327211",
+      "descripcionElementoCobertura": "Fabricación de vidrio plano"
+    },
+    {
+      "codigoElementoCobertura": "327212",
+      "descripcionElementoCobertura": "Fabricación de vidrio prensado y soplado"
+    },
+    {
+      "codigoElementoCobertura": "327213",
+      "descripcionElementoCobertura": "Fabricación de vidrio contenedores de vidrio"
+    },
+    {
+      "codigoElementoCobertura": "327215",
+      "descripcionElementoCobertura": "Fabricación de productos de vidrio (sin fabricación del vidrio)."
+    },
+    {
+      "codigoElementoCobertura": "327310",
+      "descripcionElementoCobertura": "Fabricación de cemento"
+    },
+    {
+      "codigoElementoCobertura": "327320",
+      "descripcionElementoCobertura": "Fabricación de hormigón"
+    },
+    {
+      "codigoElementoCobertura": "327331",
+      "descripcionElementoCobertura": "Fabricación de bloques de hormigón prefabricado y ladrillos"
+    },
+    {
+      "codigoElementoCobertura": "327390",
+      "descripcionElementoCobertura": "Fabricación de productos de hormigón"
+    },
+    {
+      "codigoElementoCobertura": "327410",
+      "descripcionElementoCobertura": "Fabricación de cal"
+    },
+    {
+      "codigoElementoCobertura": "327420",
+      "descripcionElementoCobertura": "Fabricación de productos de yeso"
+    },
+    {
+      "codigoElementoCobertura": "327910",
+      "descripcionElementoCobertura": "Fabricación de productos abrasivos."
+    },
+    {
+      "codigoElementoCobertura": "327991",
+      "descripcionElementoCobertura": "Fabricación de productos de priedra y corte de piedra"
+    },
+    {
+      "codigoElementoCobertura": "327992",
+      "descripcionElementoCobertura": "Fabricación de minerales y tierra molida o tratada"
+    },
+    {
+      "codigoElementoCobertura": "327993",
+      "descripcionElementoCobertura": "Fabricación de lana de roca"
+    },
+    {
+      "codigoElementoCobertura": "327999",
+      "descripcionElementoCobertura": "Fabricación de productos no metálicos minerales"
+    },
+    {
+      "codigoElementoCobertura": "331110A",
+      "descripcionElementoCobertura": "Fabricación de acero y ferroaleaciones: altos hornos que incluyen hornos de coque y laminadores"
+    },
+    {
+      "codigoElementoCobertura": "331110B",
+      "descripcionElementoCobertura": "Fabricación de acero y ferroaleaciones: Horno de arco eléctrico o reducción directa e incluyendo laminadores"
+    },
+    {
+      "codigoElementoCobertura": "331110C",
+      "descripcionElementoCobertura": "Fabricación de acero y ferroaleaciones - Fabricación de productos de ferroaleaciones electro-metalúrgicas"
+    },
+    {
+      "codigoElementoCobertura": "331210",
+      "descripcionElementoCobertura": "Fabricación de tuberias de hierro y acero a partir de acero comprado"
+    },
+    {
+      "codigoElementoCobertura": "331221A",
+      "descripcionElementoCobertura": "Fabricación de acero laminado. Operación en frío"
+    },
+    {
+      "codigoElementoCobertura": "331221B",
+      "descripcionElementoCobertura": "Fabricación de acero laminado. Operación en caliente"
+    },
+    {
+      "codigoElementoCobertura": "331222",
+      "descripcionElementoCobertura": "Fabricación de alambre de acero"
+    },
+    {
+      "codigoElementoCobertura": "331313",
+      "descripcionElementoCobertura": "Refinado de alumina y producción de aluminio"
+    },
+    {
+      "codigoElementoCobertura": "331314",
+      "descripcionElementoCobertura": "Fundición y aleación secundaria de aluminio"
+    },
+    {
+      "codigoElementoCobertura": "331315A",
+      "descripcionElementoCobertura": "Fabricación de papel de aluminio (espesor de menos de 0,20mm)"
+    },
+    {
+      "codigoElementoCobertura": "331315B",
+      "descripcionElementoCobertura": "Fabricación de planchas de aluminio. Espesor desde 0,20mm hasta 6,32 mm"
+    },
+    {
+      "codigoElementoCobertura": "331315C",
+      "descripcionElementoCobertura": "Fabricación de placas de aluminio. Espesor mayor a 6,32mm"
+    },
+    {
+      "codigoElementoCobertura": "331318A",
+      "descripcionElementoCobertura": "Fabricación de productos extruidos de aluminio"
+    },
+    {
+      "codigoElementoCobertura": "331318B",
+      "descripcionElementoCobertura": "Fabricación de productos laminados (excepto papel de aluminio y planchas) y trefilado"
+    },
+    {
+      "codigoElementoCobertura": "331410A",
+      "descripcionElementoCobertura": "Fundición y refinado de materiales no ferrosos (excepto aluminio y cobre)"
+    },
+    {
+      "codigoElementoCobertura": "331410B",
+      "descripcionElementoCobertura": "Fundición y refinado de cobre"
+    },
+    {
+      "codigoElementoCobertura": "331420A",
+      "descripcionElementoCobertura": "Laminado, estirado y extrusión de aleaciones de cobre"
+    },
+    {
+      "codigoElementoCobertura": "331420B",
+      "descripcionElementoCobertura": "Trefilería, estiramiento y calibrado de cobre"
+    },
+    {
+      "codigoElementoCobertura": "331420C",
+      "descripcionElementoCobertura": "Trefilería y segunda fundición de aleaciones de cobre"
+    },
+    {
+      "codigoElementoCobertura": "331491",
+      "descripcionElementoCobertura": "Laminado, estirado y extrusion de materiales no ferroros"
+    },
+    {
+      "codigoElementoCobertura": "331492",
+      "descripcionElementoCobertura": "Segunda fundición de materiales no ferrosos (excepto aluminio y cobre)"
+    },
+    {
+      "codigoElementoCobertura": "331511",
+      "descripcionElementoCobertura": "Fundición de hierro"
+    },
+    {
+      "codigoElementoCobertura": "331512",
+      "descripcionElementoCobertura": "Funfición de inversión de acero"
+    },
+    {
+      "codigoElementoCobertura": "331513",
+      "descripcionElementoCobertura": "Fundición de acero"
+    },
+    {
+      "codigoElementoCobertura": "331523A",
+      "descripcionElementoCobertura": "Fundición de aluminio en estampación"
+    },
+    {
+      "codigoElementoCobertura": "331523B",
+      "descripcionElementoCobertura": "Fundición de metales no ferrosos por estampación (excepto aluminio)"
+    },
+    {
+      "codigoElementoCobertura": "331524",
+      "descripcionElementoCobertura": "Fundición de aluminio (excepto fundición en estampación)"
+    },
+    {
+      "codigoElementoCobertura": "331529A",
+      "descripcionElementoCobertura": "Fundiciones de metales no ferrosos (excepto fundición en estampación) - cobre"
+    },
+    {
+      "codigoElementoCobertura": "331529B",
+      "descripcionElementoCobertura": "Otras fundiciones no ferrosas (excepto fundición a presión)"
+    },
+    {
+      "codigoElementoCobertura": "332111",
+      "descripcionElementoCobertura": "Forja y estampado de acero y hierro"
+    },
+    {
+      "codigoElementoCobertura": "332112",
+      "descripcionElementoCobertura": "Forja de material no ferroso"
+    },
+    {
+      "codigoElementoCobertura": "332114",
+      "descripcionElementoCobertura": "Trabajos metálicos diversos"
+    },
+    {
+      "codigoElementoCobertura": "332117A",
+      "descripcionElementoCobertura": "Fabricación de piezas de pulvimetalurgia - metales combustibles"
+    },
+    {
+      "codigoElementoCobertura": "332117B",
+      "descripcionElementoCobertura": "Fabricación de piezas de pulvimetalurgia - metales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "332119",
+      "descripcionElementoCobertura": "Cierres de metal y tampones corona (excepto elementos de automóviles)"
+    },
+    {
+      "codigoElementoCobertura": "332215A",
+      "descripcionElementoCobertura": "Fabricación de cubertería (excepto metales preciosos)"
+    },
+    {
+      "codigoElementoCobertura": "332215B",
+      "descripcionElementoCobertura": "Fabricación de utensilios de cocina, cazuelas y sartenes"
+    },
+    {
+      "codigoElementoCobertura": "332216A",
+      "descripcionElementoCobertura": "Fabricación de herramientas manuales"
+    },
+    {
+      "codigoElementoCobertura": "332216B",
+      "descripcionElementoCobertura": "Fabricación de hojas de sierra y herramientas manuales cortantes"
+    },
+    {
+      "codigoElementoCobertura": "332311",
+      "descripcionElementoCobertura": "Fabricación de elementos de metal prefabricados"
+    },
+    {
+      "codigoElementoCobertura": "332312",
+      "descripcionElementoCobertura": "Fabricación de Estructuras de metal"
+    },
+    {
+      "codigoElementoCobertura": "332313",
+      "descripcionElementoCobertura": "Fabricados de planchas de metal (calderería)"
+    },
+    {
+      "codigoElementoCobertura": "332321",
+      "descripcionElementoCobertura": "Fabricación de Puertas, marcos, bastidores y molduras de metal"
+    },
+    {
+      "codigoElementoCobertura": "332322",
+      "descripcionElementoCobertura": "Carpintería de aluminio y/o metálica."
+    },
+    {
+      "codigoElementoCobertura": "332323",
+      "descripcionElementoCobertura": "Trabajos metálicos de ornamentación y arquitectura"
+    },
+    {
+      "codigoElementoCobertura": "332410",
+      "descripcionElementoCobertura": "Fabricación de calderas eléctricas e intercambiadores de calor"
+    },
+    {
+      "codigoElementoCobertura": "332420",
+      "descripcionElementoCobertura": "Fabricaciones de calderas de grueso elevado"
+    },
+    {
+      "codigoElementoCobertura": "332431",
+      "descripcionElementoCobertura": "Fabricación de latas metálicas"
+    },
+    {
+      "codigoElementoCobertura": "332439",
+      "descripcionElementoCobertura": "Fabricación de contenedores metálilcos"
+    },
+    {
+      "codigoElementoCobertura": "332510",
+      "descripcionElementoCobertura": "Fabricación de equipos de ferretería"
+    },
+    {
+      "codigoElementoCobertura": "332613A",
+      "descripcionElementoCobertura": "Fabricación de muelles de espesor grueso"
+    },
+    {
+      "codigoElementoCobertura": "332613B",
+      "descripcionElementoCobertura": "Fabricación de muelles de espesor fino"
+    },
+    {
+      "codigoElementoCobertura": "332618",
+      "descripcionElementoCobertura": "Fabricación de otros productos de alambre trenzado"
+    },
+    {
+      "codigoElementoCobertura": "332710",
+      "descripcionElementoCobertura": "Taller de mecanizado"
+    },
+    {
+      "codigoElementoCobertura": "332721",
+      "descripcionElementoCobertura": "Fabricación de productos por torneado de precisión"
+    },
+    {
+      "codigoElementoCobertura": "332722",
+      "descripcionElementoCobertura": "Fabricación de tornillería, tuercas, arandelas"
+    },
+    {
+      "codigoElementoCobertura": "332811A",
+      "descripcionElementoCobertura": "Tratamiento térmico de metales - Con tratamiento de aceite"
+    },
+    {
+      "codigoElementoCobertura": "332811B",
+      "descripcionElementoCobertura": "Tratamiento térmico de metales - Sin tratamiento de aceite"
+    },
+    {
+      "codigoElementoCobertura": "332812A",
+      "descripcionElementoCobertura": "Revestimientos de metal, incluyendo material inflamables"
+    },
+    {
+      "codigoElementoCobertura": "332812B",
+      "descripcionElementoCobertura": "Revestimientos de metal, incluyendo material No inflamables"
+    },
+    {
+      "codigoElementoCobertura": "332813A",
+      "descripcionElementoCobertura": "Galvanizado, pulido, anonizado, cromado incluyendo materiales inflamables"
+    },
+    {
+      "codigoElementoCobertura": "332813B",
+      "descripcionElementoCobertura": "Galvanizado, pulido, anonizado, cromado incluyendo materiales No inflamables"
+    },
+    {
+      "codigoElementoCobertura": "332911",
+      "descripcionElementoCobertura": "Fabricación de valvulería industrial"
+    },
+    {
+      "codigoElementoCobertura": "332912",
+      "descripcionElementoCobertura": "Fabricación de bombas y accesorios de tuberías"
+    },
+    {
+      "codigoElementoCobertura": "332913",
+      "descripcionElementoCobertura": "Fabricación de productos de baño y adornos"
+    },
+    {
+      "codigoElementoCobertura": "332919",
+      "descripcionElementoCobertura": "Fabricación de accesorios para instalaciones"
+    },
+    {
+      "codigoElementoCobertura": "332991",
+      "descripcionElementoCobertura": "Fabricación de cojinetes y rodamientos"
+    },
+    {
+      "codigoElementoCobertura": "332992",
+      "descripcionElementoCobertura": "Fabricación de munición de calibre pequeño"
+    },
+    {
+      "codigoElementoCobertura": "332993",
+      "descripcionElementoCobertura": "Fabricación de munición (excepto calibre pequeño)"
+    },
+    {
+      "codigoElementoCobertura": "332994A",
+      "descripcionElementoCobertura": "Fabricación  de armas, excluídas municiones"
+    },
+    {
+      "codigoElementoCobertura": "332994B",
+      "descripcionElementoCobertura": "Fabricación de otros artefactos y accesorios -  sin presencia de explosivos"
+    },
+    {
+      "codigoElementoCobertura": "332996",
+      "descripcionElementoCobertura": "Fabricación de tuberías y accesorios"
+    },
+    {
+      "codigoElementoCobertura": "332999A",
+      "descripcionElementoCobertura": "Fabricación de todos los otros productos metálicos a partir de plantilla"
+    },
+    {
+      "codigoElementoCobertura": "332999B",
+      "descripcionElementoCobertura": "Fabricación de rtículos sanitarios de hierro y metal esmaltados"
+    },
+    {
+      "codigoElementoCobertura": "332999C",
+      "descripcionElementoCobertura": "Fabricación de todos los otros productos metálicos fabricados diversos"
+    },
+    {
+      "codigoElementoCobertura": "333111",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipamiento agrícola"
+    },
+    {
+      "codigoElementoCobertura": "333112",
+      "descripcionElementoCobertura": "Fabricación de equipos de césped y jardín para tractores y equipos de jardinería y para el hogar: suponga hasta un 25% de producción de plástico."
+    },
+    {
+      "codigoElementoCobertura": "333120",
+      "descripcionElementoCobertura": "Fabricación de maquinaria de construcción"
+    },
+    {
+      "codigoElementoCobertura": "333131",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipo minero"
+    },
+    {
+      "codigoElementoCobertura": "333132",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipos para yacimientos de petróleo y gas"
+    },
+    {
+      "codigoElementoCobertura": "333241",
+      "descripcionElementoCobertura": "Fabricación de maquinaria para productos alimenticios"
+    },
+    {
+      "codigoElementoCobertura": "333242",
+      "descripcionElementoCobertura": "Fabricación de maquinaria de semiconductores"
+    },
+    {
+      "codigoElementoCobertura": "333243A",
+      "descripcionElementoCobertura": "Fabricación de asserraderos y maquinaria de carpintería"
+    },
+    {
+      "codigoElementoCobertura": "333243B",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipamiento para la industria de papel"
+    },
+    {
+      "codigoElementoCobertura": "333244",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipos de impresión"
+    },
+    {
+      "codigoElementoCobertura": "333249A",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipos para la industria de plásticos y caucho"
+    },
+    {
+      "codigoElementoCobertura": "333249B",
+      "descripcionElementoCobertura": "Fabricación de maquinaria textil"
+    },
+    {
+      "codigoElementoCobertura": "333249C",
+      "descripcionElementoCobertura": "Fabricación de maquinaria industrial (excepto agrícola, alimenticia, semiconductores, carpintería, papel, impresión, plástico y caucho)"
+    },
+    {
+      "codigoElementoCobertura": "333314",
+      "descripcionElementoCobertura": "Fabricación de instrumentos ópticos y lentes"
+    },
+    {
+      "codigoElementoCobertura": "333316A",
+      "descripcionElementoCobertura": "Fabricación de equipos fotográficos y de fotocopiado"
+    },
+    {
+      "codigoElementoCobertura": "333318B",
+      "descripcionElementoCobertura": "Fabricación de maquinaria para otras industrias comerciales y de servicios: lavandería comercial, limpieza en seco y prensado"
+    },
+    {
+      "codigoElementoCobertura": "333318C",
+      "descripcionElementoCobertura": "Fabricación de maquinaria comercial y de servicios, incluida la venta"
+    },
+    {
+      "codigoElementoCobertura": "333318D",
+      "descripcionElementoCobertura": "Otros. Fabricación de maquinaria para otras industrias comerciales y de servicios"
+    },
+    {
+      "codigoElementoCobertura": "333413A",
+      "descripcionElementoCobertura": "Fabricación de equipos de purificación de aire y ventiladores industriales y comerciales."
+    },
+    {
+      "codigoElementoCobertura": "333414",
+      "descripcionElementoCobertura": "Fabricación de equipos de calefacción (excepto hornos de aire caliente)"
+    },
+    {
+      "codigoElementoCobertura": "333415",
+      "descripcionElementoCobertura": "Equipos de aire acondicionado y calefacción por aire caliente y fabricación de equipos de refrigeración comercial e industrial"
+    },
+    {
+      "codigoElementoCobertura": "333511",
+      "descripcionElementoCobertura": "Fabricación de moldes industriales"
+    },
+    {
+      "codigoElementoCobertura": "333514",
+      "descripcionElementoCobertura": "Fabricación de troqueles y herramientas especiales, juegos de troqueles, plantillas y accesorios"
+    },
+    {
+      "codigoElementoCobertura": "333515",
+      "descripcionElementoCobertura": "Herramientas de corte y fabricación de accesorios para máquinas herramienta"
+    },
+    {
+      "codigoElementoCobertura": "333517A",
+      "descripcionElementoCobertura": "Fabricación de máquinas herramienta (Máquinas de corte de metal)"
+    },
+    {
+      "codigoElementoCobertura": "333517B",
+      "descripcionElementoCobertura": "Fabricación de máquinas herramienta (Máquinas de conformado de metales)"
+    },
+    {
+      "codigoElementoCobertura": "333519A",
+      "descripcionElementoCobertura": "Fabricación de maquinaria y equipos de laminación"
+    },
+    {
+      "codigoElementoCobertura": "333519B",
+      "descripcionElementoCobertura": "Fabricación de otras máquinas para trabajar metales"
+    },
+    {
+      "codigoElementoCobertura": "333611",
+      "descripcionElementoCobertura": "Fabricación de unidades de grupos electrógenos de turbina y turbina"
+    },
+    {
+      "codigoElementoCobertura": "333612",
+      "descripcionElementoCobertura": "Fabricación de cajas de cambios, transmisión de alta velocidad industrial y fabricación de engranajes"
+    },
+    {
+      "codigoElementoCobertura": "333613",
+      "descripcionElementoCobertura": "Fabricación de equipos de transmisión de potencia mecánica"
+    },
+    {
+      "codigoElementoCobertura": "333618",
+      "descripcionElementoCobertura": "Fabricación de motores"
+    },
+    {
+      "codigoElementoCobertura": "333912",
+      "descripcionElementoCobertura": "Fabricación de compresores de aire y gas"
+    },
+    {
+      "codigoElementoCobertura": "333914",
+      "descripcionElementoCobertura": "Fabricación de equipos de medición, dispensación y otros equipos de bombeo"
+    },
+    {
+      "codigoElementoCobertura": "333921",
+      "descripcionElementoCobertura": "Fabricación de ascensores y escaleras móviles (escaleras mecánicas)"
+    },
+    {
+      "codigoElementoCobertura": "333922",
+      "descripcionElementoCobertura": "Fabricación de equipos de transporte"
+    },
+    {
+      "codigoElementoCobertura": "333923",
+      "descripcionElementoCobertura": "Fabricación de sistemas de grúas, montacargas y monoraíles aéreos"
+    },
+    {
+      "codigoElementoCobertura": "333924",
+      "descripcionElementoCobertura": "Fabricación de camiones, tractores, remolques y apiladores"
+    },
+    {
+      "codigoElementoCobertura": "333991",
+      "descripcionElementoCobertura": "Fabricación de herramientas manuales con motor"
+    },
+    {
+      "codigoElementoCobertura": "333992",
+      "descripcionElementoCobertura": "Fabricación de equipos de soldadura y soldadura."
+    },
+    {
+      "codigoElementoCobertura": "333993",
+      "descripcionElementoCobertura": "Fabricación de maquinaria de embalaje"
+    },
+    {
+      "codigoElementoCobertura": "333994",
+      "descripcionElementoCobertura": "Fabricación de hornos industriales y domésticos"
+    },
+    {
+      "codigoElementoCobertura": "333995",
+      "descripcionElementoCobertura": "Fabricación de actuadores y cilindros de hidráulicos"
+    },
+    {
+      "codigoElementoCobertura": "333996",
+      "descripcionElementoCobertura": "Fabricación de bombas de fluidos y fabricación de motores"
+    },
+    {
+      "codigoElementoCobertura": "333997",
+      "descripcionElementoCobertura": "Fabricación de balanzas y escalas"
+    },
+    {
+      "codigoElementoCobertura": "333999",
+      "descripcionElementoCobertura": "Fabricación de maquinaria de uso general"
+    },
+    {
+      "codigoElementoCobertura": "334111",
+      "descripcionElementoCobertura": "Fabricación electrónica de computadoras"
+    },
+    {
+      "codigoElementoCobertura": "334112",
+      "descripcionElementoCobertura": "Fabricación de dispositivos de almacenamiento informático"
+    },
+    {
+      "codigoElementoCobertura": "334118A",
+      "descripcionElementoCobertura": "Fabricación de terminales de dispositivos informáticos"
+    },
+    {
+      "codigoElementoCobertura": "334118B",
+      "descripcionElementoCobertura": "Fabricación de otros equipos periféricos informáticos (excepto computadoras, dispositivos de almacenamiento y terminales)"
+    },
+    {
+      "codigoElementoCobertura": "334210",
+      "descripcionElementoCobertura": "Fabricacion de aparatos telefónicos"
+    },
+    {
+      "codigoElementoCobertura": "334220",
+      "descripcionElementoCobertura": "Fabricación de equipos de transmisión de radio, televisión y comunicaciones inalámbricas"
+    },
+    {
+      "codigoElementoCobertura": "334290",
+      "descripcionElementoCobertura": "Fabricación de otros equipos de comunicaciones (excepto teléfoons y equipos de transmisión inhalambricos)"
+    },
+    {
+      "codigoElementoCobertura": "334310",
+      "descripcionElementoCobertura": "Fabricación de equipos de audio y video"
+    },
+    {
+      "codigoElementoCobertura": "334412",
+      "descripcionElementoCobertura": "Fabricación de placas base de circuito impreso"
+    },
+    {
+      "codigoElementoCobertura": "334413A",
+      "descripcionElementoCobertura": "Fabricación de dispositivos relacionados y semiconductores (con obleas / bancos húmedos)"
+    },
+    {
+      "codigoElementoCobertura": "334413B",
+      "descripcionElementoCobertura": "Fabricación de dispositivos relacionados y semiconductores (sin obleas / ni bancos húmedos)"
+    },
+    {
+      "codigoElementoCobertura": "334416A",
+      "descripcionElementoCobertura": "Fabricación de bobinas, transformadores y otros inductores electrónicos"
+    },
+    {
+      "codigoElementoCobertura": "334416B",
+      "descripcionElementoCobertura": "Fabricación de condensadores electrónicos"
+    },
+    {
+      "codigoElementoCobertura": "334416C",
+      "descripcionElementoCobertura": "Fabricación de resistencias electrónicas"
+    },
+    {
+      "codigoElementoCobertura": "334417",
+      "descripcionElementoCobertura": "Fabricación de conectores electrónicos"
+    },
+    {
+      "codigoElementoCobertura": "334418",
+      "descripcionElementoCobertura": "Fabricación  de circuito impreso (ensamblaje electrónico)"
+    },
+    {
+      "codigoElementoCobertura": "334419A",
+      "descripcionElementoCobertura": "Fabricación de tubos de electrones"
+    },
+    {
+      "codigoElementoCobertura": "334419B",
+      "descripcionElementoCobertura": "Fabricación de otros componentes electrónicos"
+    },
+    {
+      "codigoElementoCobertura": "334510",
+      "descripcionElementoCobertura": "Fabricación de aparatos electromecánicos y electroterapéuticos."
+    },
+    {
+      "codigoElementoCobertura": "334511",
+      "descripcionElementoCobertura": "Fabricación de sistemas de búsqueda, detección, navegación, guiado, sistemas aeronáuticos y náuticos e instrumentos"
+    },
+    {
+      "codigoElementoCobertura": "334512",
+      "descripcionElementoCobertura": "Fabricación de control ambiental automático para uso residencial, comercial y de electrodomésticos"
+    },
+    {
+      "codigoElementoCobertura": "334513",
+      "descripcionElementoCobertura": "Fabricación de instrumentos y productos relacionados para medir, visualizar y controlar variables de procesos industriales"
+    },
+    {
+      "codigoElementoCobertura": "334514",
+      "descripcionElementoCobertura": "Fabricación de medidores de fluidos y de dispositivos de conteo"
+    },
+    {
+      "codigoElementoCobertura": "334515",
+      "descripcionElementoCobertura": "Fabricación de instrumentos para medir y probar la electricidad y las señales eléctricas"
+    },
+    {
+      "codigoElementoCobertura": "334516",
+      "descripcionElementoCobertura": "Fabricación de instrumentos de laboratorio analítico"
+    },
+    {
+      "codigoElementoCobertura": "334517",
+      "descripcionElementoCobertura": "Fabricación de aparatos de irradiación"
+    },
+    {
+      "codigoElementoCobertura": "334519A",
+      "descripcionElementoCobertura": "Fabricación y/o reparación de relojes y/o piezas de relojería"
+    },
+    {
+      "codigoElementoCobertura": "334519B",
+      "descripcionElementoCobertura": "Fabricación de otros dispositivos de medición y control (excepto aparatos electromecánicos, control ambiental, medida, fluidos, instrumental analitico, irradiación y relojes)"
+    },
+    {
+      "codigoElementoCobertura": "334613",
+      "descripcionElementoCobertura": "Fabricación de medios de grabación magnéticos y ópticos"
+    },
+    {
+      "codigoElementoCobertura": "334614A",
+      "descripcionElementoCobertura": "Fabricación de medios de reproducción de software"
+    },
+    {
+      "codigoElementoCobertura": "334614B",
+      "descripcionElementoCobertura": "Fabricación de Disco compacto pregrabado - CD, DVD - (excepto software), cintas y dispositivos dde reproducción y de grabación"
+    },
+    {
+      "codigoElementoCobertura": "335110",
+      "descripcionElementoCobertura": "Fabricación de bombillas eléctricas y fabricación de piezas"
+    },
+    {
+      "codigoElementoCobertura": "335121A",
+      "descripcionElementoCobertura": "Fabricación de fijaciones de iluminación eléctrica para hogares - en metal"
+    },
+    {
+      "codigoElementoCobertura": "335121B",
+      "descripcionElementoCobertura": "Fabricación de fijaciones de iluminación eléctrica para hogares - en plástico"
+    },
+    {
+      "codigoElementoCobertura": "335122A",
+      "descripcionElementoCobertura": "Fabricación de accesorios de iluminación eléctrica residencial - en metal"
+    },
+    {
+      "codigoElementoCobertura": "335122B",
+      "descripcionElementoCobertura": "Fabricación de accesorios de iluminación eléctrica residencial - en plástico"
+    },
+    {
+      "codigoElementoCobertura": "335129A",
+      "descripcionElementoCobertura": "Fabricación de Otros Equipos de Iluminación - en Metal (excepto bombillas, fijaciones y accesorios)"
+    },
+    {
+      "codigoElementoCobertura": "335129B",
+      "descripcionElementoCobertura": "Fabricación de Otros Equipos de Iluminación - en Plástico (excepto bombillas, fijaciones y accesorios)"
+    },
+    {
+      "codigoElementoCobertura": "335220",
+      "descripcionElementoCobertura": "Fabricación de electrodomésticos´grandes"
+    },
+    {
+      "codigoElementoCobertura": "335311",
+      "descripcionElementoCobertura": "Fabricación de equipos de distribución y transformadores"
+    },
+    {
+      "codigoElementoCobertura": "335312",
+      "descripcionElementoCobertura": "Fabricación de motores y generadores"
+    },
+    {
+      "codigoElementoCobertura": "335313",
+      "descripcionElementoCobertura": "Fabricación de cuadros eléctricos y conmutadores"
+    },
+    {
+      "codigoElementoCobertura": "335314",
+      "descripcionElementoCobertura": "Fabricación de relés y control industrial"
+    },
+    {
+      "codigoElementoCobertura": "335911A",
+      "descripcionElementoCobertura": "Fabricación de baterías - electrolito no combustible"
+    },
+    {
+      "codigoElementoCobertura": "335911B",
+      "descripcionElementoCobertura": "Fabricación de baterías - electrolito  combustible (iones de litio)"
+    },
+    {
+      "codigoElementoCobertura": "335912A",
+      "descripcionElementoCobertura": "Fabricación de baterías primarias - metales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "335912B",
+      "descripcionElementoCobertura": "Fabricación de baterías primarias: metales combustibles (por ejemplo, litio)"
+    },
+    {
+      "codigoElementoCobertura": "335921",
+      "descripcionElementoCobertura": "Fabricación de cable de fibra óptica"
+    },
+    {
+      "codigoElementoCobertura": "335929",
+      "descripcionElementoCobertura": "Fabricación de cables de comunicación y energía"
+    },
+    {
+      "codigoElementoCobertura": "335931",
+      "descripcionElementoCobertura": "Fabricación de dispositivos conductores de electricidad"
+    },
+    {
+      "codigoElementoCobertura": "335932",
+      "descripcionElementoCobertura": "Fabricación de aislantes de corriente"
+    },
+    {
+      "codigoElementoCobertura": "335991",
+      "descripcionElementoCobertura": "Fabricación de productos de carbono y grafito."
+    },
+    {
+      "codigoElementoCobertura": "335999",
+      "descripcionElementoCobertura": "Fabricación de equipos eléctricos diversos"
+    },
+    {
+      "codigoElementoCobertura": "336111",
+      "descripcionElementoCobertura": "Fabricación de automóviles y camiones"
+    },
+    {
+      "codigoElementoCobertura": "336212",
+      "descripcionElementoCobertura": "Fabricación de remolques de camiones"
+    },
+    {
+      "codigoElementoCobertura": "336213",
+      "descripcionElementoCobertura": "Fabricación, construcción y/o reparación de casas rodantes"
+    },
+    {
+      "codigoElementoCobertura": "336214",
+      "descripcionElementoCobertura": "Fabricación de caravanas"
+    },
+    {
+      "codigoElementoCobertura": "336310A",
+      "descripcionElementoCobertura": "Fabricación de carburadores, pistones, anillos de pistones y válvulas"
+    },
+    {
+      "codigoElementoCobertura": "336310B",
+      "descripcionElementoCobertura": "Fabricación de motores de gasolina y de piezas"
+    },
+    {
+      "codigoElementoCobertura": "336320A",
+      "descripcionElementoCobertura": "Fabricación de equipos de iluminación para vehículos"
+    },
+    {
+      "codigoElementoCobertura": "336320B",
+      "descripcionElementoCobertura": "Fabricación de otros equipos eléctricos y electrónicos para vehículos a motor (excepto iluminación, elementos de motor, carburadores y válvulas)"
+    },
+    {
+      "codigoElementoCobertura": "336330",
+      "descripcionElementoCobertura": "Fabricación de componentes de dirección y suspensión de vehículos motorizados (excepto muelles)"
+    },
+    {
+      "codigoElementoCobertura": "336340",
+      "descripcionElementoCobertura": "Fabricación del sistema de frenos de vehículos motorizados"
+    },
+    {
+      "codigoElementoCobertura": "336350",
+      "descripcionElementoCobertura": "Fabricación de sistemas de transmisión en vehículos motorizados (tren de potencia)"
+    },
+    {
+      "codigoElementoCobertura": "336360",
+      "descripcionElementoCobertura": "Fabricación de asientos de vehículos a motor e interiores"
+    },
+    {
+      "codigoElementoCobertura": "336370",
+      "descripcionElementoCobertura": "Estampación de metal en vehículos a motor"
+    },
+    {
+      "codigoElementoCobertura": "336390A",
+      "descripcionElementoCobertura": "Fabricación de sistemas de aire acondicionado de vehículos de motor"
+    },
+    {
+      "codigoElementoCobertura": "336390B",
+      "descripcionElementoCobertura": "Fabricación de piezas de vehículos de motor (excepto iluminación, asientos, tren de potencia)"
+    },
+    {
+      "codigoElementoCobertura": "336411",
+      "descripcionElementoCobertura": "Fabricación de aeronaves - Producción limitada de madera y plástico"
+    },
+    {
+      "codigoElementoCobertura": "336412",
+      "descripcionElementoCobertura": "Fabricación de motores de aviación y piezas de motor"
+    },
+    {
+      "codigoElementoCobertura": "336413",
+      "descripcionElementoCobertura": "Fabricación de piezas de aviones y fabricación de equipos auxiliares"
+    },
+    {
+      "codigoElementoCobertura": "336414",
+      "descripcionElementoCobertura": "Fabricación de misiles guiados y vehículos espaciales"
+    },
+    {
+      "codigoElementoCobertura": "336415",
+      "descripcionElementoCobertura": "Fabricación de sistemas de propulsión de misiles guiados y vehículos espaciales"
+    },
+    {
+      "codigoElementoCobertura": "336419",
+      "descripcionElementoCobertura": "Fabricación de otros sistemas (excepto propulsión) de misiles guiados y vehículos espaciales y equipos auxiliares"
+    },
+    {
+      "codigoElementoCobertura": "336510",
+      "descripcionElementoCobertura": "Fabricación de material rodante"
+    },
+    {
+      "codigoElementoCobertura": "336611A",
+      "descripcionElementoCobertura": "Construcción y/o reparación de barcos de plastico o madera"
+    },
+    {
+      "codigoElementoCobertura": "336611B",
+      "descripcionElementoCobertura": "Construcción y/o reparación de barcos de metal"
+    },
+    {
+      "codigoElementoCobertura": "336612A",
+      "descripcionElementoCobertura": "Construcción y/o reparación de barcos de madera"
+    },
+    {
+      "codigoElementoCobertura": "336612B",
+      "descripcionElementoCobertura": "Construcción y/o reparación de barcos. Casco de metal pero equipos en plastico y madera"
+    },
+    {
+      "codigoElementoCobertura": "336612C",
+      "descripcionElementoCobertura": "Construcción y/o reparación de barcos. Todo metal"
+    },
+    {
+      "codigoElementoCobertura": "336991",
+      "descripcionElementoCobertura": "Fabricación y montaje de motocicletas y bicicletas."
+    },
+    {
+      "codigoElementoCobertura": "336992A",
+      "descripcionElementoCobertura": "Fabricación de vehículos blindados militares, tanques y componentes de tanques - En plástico"
+    },
+    {
+      "codigoElementoCobertura": "336992B",
+      "descripcionElementoCobertura": "Fabricación de vehículos blindados militares, tanques y componentes de tanques - En metal"
+    },
+    {
+      "codigoElementoCobertura": "336999",
+      "descripcionElementoCobertura": "Fabricación de equipos de transporte"
+    },
+    {
+      "codigoElementoCobertura": "337110",
+      "descripcionElementoCobertura": "Fabricación de armarios de madera"
+    },
+    {
+      "codigoElementoCobertura": "337121",
+      "descripcionElementoCobertura": "Fabricación de muebles tapizados"
+    },
+    {
+      "codigoElementoCobertura": "337122",
+      "descripcionElementoCobertura": "Fabricación de muebles de madera"
+    },
+    {
+      "codigoElementoCobertura": "337124",
+      "descripcionElementoCobertura": "Fabricación de muebles de metal para el hogar"
+    },
+    {
+      "codigoElementoCobertura": "337125",
+      "descripcionElementoCobertura": "Fabricación de muebles domésticos (excepto madera y metal) -  En plástico"
+    },
+    {
+      "codigoElementoCobertura": "337127A",
+      "descripcionElementoCobertura": "Fabricación de muebles institucionales - en madera"
+    },
+    {
+      "codigoElementoCobertura": "337127B",
+      "descripcionElementoCobertura": "Fabricación de muebles institucionales - en plástico"
+    },
+    {
+      "codigoElementoCobertura": "337127C",
+      "descripcionElementoCobertura": "Fabricación de muebles institucionales - en metal"
+    },
+    {
+      "codigoElementoCobertura": "337211",
+      "descripcionElementoCobertura": "Fabricación de muebles de madera para oficina"
+    },
+    {
+      "codigoElementoCobertura": "337212",
+      "descripcionElementoCobertura": "Carpinteria de madera a medida"
+    },
+    {
+      "codigoElementoCobertura": "337214A",
+      "descripcionElementoCobertura": "Fabricación de muebles de plástico para oficina"
+    },
+    {
+      "codigoElementoCobertura": "337214B",
+      "descripcionElementoCobertura": "Fabricación de muebles de metal para oficina"
+    },
+    {
+      "codigoElementoCobertura": "337215A",
+      "descripcionElementoCobertura": "Fabricación de vitrinas, separaciones, estanterias y taquillas en madera"
+    },
+    {
+      "codigoElementoCobertura": "337215B",
+      "descripcionElementoCobertura": "Fabricación de vitrinas, separaciones, estanterias y taquillas en plástico"
+    },
+    {
+      "codigoElementoCobertura": "337215C",
+      "descripcionElementoCobertura": "Fabricación de vitrinas, separaciones, estanterias y taquillas en metal"
+    },
+    {
+      "codigoElementoCobertura": "337910",
+      "descripcionElementoCobertura": "Fábrica de colchones"
+    },
+    {
+      "codigoElementoCobertura": "337920",
+      "descripcionElementoCobertura": "Fábrica de persianas y cortinas"
+    },
+    {
+      "codigoElementoCobertura": "339112",
+      "descripcionElementoCobertura": "Fabricación de instrumentos médicos y quirúrgicos - De metal y otros materiales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "339113",
+      "descripcionElementoCobertura": "Fabricación de aparatos médicos y quirúrgicos - De metal y otros materiales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "339114",
+      "descripcionElementoCobertura": "Fabricación de equipos y suministros dentales - De metal y otros materiales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "339115",
+      "descripcionElementoCobertura": "Fabricación de productos oftalmológicos"
+    },
+    {
+      "codigoElementoCobertura": "339116",
+      "descripcionElementoCobertura": "Laboratorios dentales"
+    },
+    {
+      "codigoElementoCobertura": "339910A",
+      "descripcionElementoCobertura": "Fabricación de bisutería y novedades, excepto metal."
+    },
+    {
+      "codigoElementoCobertura": "339910C",
+      "descripcionElementoCobertura": "Fabricación de bisutería y novedades en metal."
+    },
+    {
+      "codigoElementoCobertura": "339910D",
+      "descripcionElementoCobertura": "Fabricación de joyería (excepto ropa)"
+    },
+    {
+      "codigoElementoCobertura": "339910E",
+      "descripcionElementoCobertura": "Fabricación de vagilla de plata y metales preciosos"
+    },
+    {
+      "codigoElementoCobertura": "339910F",
+      "descripcionElementoCobertura": "Fabricación de material de joyería y piedras preciosas"
+    },
+    {
+      "codigoElementoCobertura": "339920",
+      "descripcionElementoCobertura": "Fabricación de artículos deportivos"
+    },
+    {
+      "codigoElementoCobertura": "339930A",
+      "descripcionElementoCobertura": "Fabricación de muñecas y juguetes de peluche"
+    },
+    {
+      "codigoElementoCobertura": "339930B",
+      "descripcionElementoCobertura": "Fabricación de juegos, juguetes y vehículos infantiles"
+    },
+    {
+      "codigoElementoCobertura": "339940A",
+      "descripcionElementoCobertura": "Fabricación de bolígrafos y lápices mecánicos"
+    },
+    {
+      "codigoElementoCobertura": "339940B",
+      "descripcionElementoCobertura": "Fabricación de lápices y materiales para pintura artística"
+    },
+    {
+      "codigoElementoCobertura": "339940C",
+      "descripcionElementoCobertura": "Fabricación de dispositivos de marcado"
+    },
+    {
+      "codigoElementoCobertura": "339940D",
+      "descripcionElementoCobertura": "Fabricación de papel carbón y cinta entintada"
+    },
+    {
+      "codigoElementoCobertura": "339950",
+      "descripcionElementoCobertura": "Fabricación de letreros"
+    },
+    {
+      "codigoElementoCobertura": "339991",
+      "descripcionElementoCobertura": "Fabricación de juntas y dispositivos de sellado."
+    },
+    {
+      "codigoElementoCobertura": "339992A",
+      "descripcionElementoCobertura": "Fabricación de instrumentos musicales. Excepto metal"
+    },
+    {
+      "codigoElementoCobertura": "339992C",
+      "descripcionElementoCobertura": "Fabricación de instrumentos musicales. De metal"
+    },
+    {
+      "codigoElementoCobertura": "339993A",
+      "descripcionElementoCobertura": "Fabricación de cierres, botones, agujas y pasadores - En plástico"
+    },
+    {
+      "codigoElementoCobertura": "339993B",
+      "descripcionElementoCobertura": "Fabricación de cierres, botones, agujas y pasadores - En metal"
+    },
+    {
+      "codigoElementoCobertura": "339994",
+      "descripcionElementoCobertura": "Fabricación de escobas, brochas, pinceles y cepillos en general."
+    },
+    {
+      "codigoElementoCobertura": "339995",
+      "descripcionElementoCobertura": "Fabricación de ataúdes"
+    },
+    {
+      "codigoElementoCobertura": "339999",
+      "descripcionElementoCobertura": "Fabricación de otros productos"
+    },
+    {
+      "codigoElementoCobertura": "413410",
+      "descripcionElementoCobertura": "Comerciales de cannabis"
+    },
+    {
+      "codigoElementoCobertura": "423110",
+      "descripcionElementoCobertura": "Venta de Automóviles y Otros Vehículos de Motor"
+    },
+    {
+      "codigoElementoCobertura": "423120",
+      "descripcionElementoCobertura": "Venta de suministros de vehículos y piezas nuevas"
+    },
+    {
+      "codigoElementoCobertura": "423130",
+      "descripcionElementoCobertura": "Venta de neumáticos y/o artículos de goma y/o caucho"
+    },
+    {
+      "codigoElementoCobertura": "423140",
+      "descripcionElementoCobertura": "Venta de partes de vehículos motorizados (usados)"
+    },
+    {
+      "codigoElementoCobertura": "423210",
+      "descripcionElementoCobertura": "Venta de colchones"
+    },
+    {
+      "codigoElementoCobertura": "423220",
+      "descripcionElementoCobertura": "Venta de muebles para el hogar"
+    },
+    {
+      "codigoElementoCobertura": "423310",
+      "descripcionElementoCobertura": "Venta  de madera y otros materiales de construcción"
+    },
+    {
+      "codigoElementoCobertura": "423320",
+      "descripcionElementoCobertura": "Almacén de cerámica, piedra y materiales de la construcción"
+    },
+    {
+      "codigoElementoCobertura": "423330",
+      "descripcionElementoCobertura": "Venta de tejados, revestimientos y materiales de aislamiento"
+    },
+    {
+      "codigoElementoCobertura": "423390",
+      "descripcionElementoCobertura": "Venta de otros materiales de construcción"
+    },
+    {
+      "codigoElementoCobertura": "423410",
+      "descripcionElementoCobertura": "Venta de equipo fotográficos"
+    },
+    {
+      "codigoElementoCobertura": "423420",
+      "descripcionElementoCobertura": "Venta de equipamiento de oficina"
+    },
+    {
+      "codigoElementoCobertura": "423430",
+      "descripcionElementoCobertura": "Venta de computadoras y equipos periféricos y  de software"
+    },
+    {
+      "codigoElementoCobertura": "423440",
+      "descripcionElementoCobertura": "Venta de otros equipos"
+    },
+    {
+      "codigoElementoCobertura": "423450",
+      "descripcionElementoCobertura": "Venta de equipos y suministros médicos, odontológicos y hospitalarios"
+    },
+    {
+      "codigoElementoCobertura": "423460",
+      "descripcionElementoCobertura": "Venta de productos oftalmológicos"
+    },
+    {
+      "codigoElementoCobertura": "423490",
+      "descripcionElementoCobertura": "Venta de equipos profesionales"
+    },
+    {
+      "codigoElementoCobertura": "423510",
+      "descripcionElementoCobertura": "Venta de metales y servicio de metales"
+    },
+    {
+      "codigoElementoCobertura": "423520",
+      "descripcionElementoCobertura": "Venta de carbón, mena y otros minerales"
+    },
+    {
+      "codigoElementoCobertura": "423610",
+      "descripcionElementoCobertura": "Venta de electrodomésticos y de productos eléctricos y electrónicos para el hogar"
+    },
+    {
+      "codigoElementoCobertura": "423620",
+      "descripcionElementoCobertura": "Venta de aparatos eléctricos, electrónicos, televisores y televisores"
+    },
+    {
+      "codigoElementoCobertura": "423690",
+      "descripcionElementoCobertura": "Almacén de maquinaria electrónica y sus componentes, material eléctrico"
+    },
+    {
+      "codigoElementoCobertura": "423710",
+      "descripcionElementoCobertura": "Venta de artículos de ferretería, menaje y bricolaje."
+    },
+    {
+      "codigoElementoCobertura": "423720",
+      "descripcionElementoCobertura": "Venta de Equipos y Suministros de fontanería y Calefacción (únicamente hidráulica)"
+    },
+    {
+      "codigoElementoCobertura": "423730",
+      "descripcionElementoCobertura": "Venta de equipos y suministros de calefacción y aire acondicionado"
+    },
+    {
+      "codigoElementoCobertura": "423740",
+      "descripcionElementoCobertura": "Venta de equipos y suministros de refrigeración"
+    },
+    {
+      "codigoElementoCobertura": "423810",
+      "descripcionElementoCobertura": "Vent de maquinaria y equipo para la construcción y la minería (excepto el pozo de petróleo)"
+    },
+    {
+      "codigoElementoCobertura": "423820",
+      "descripcionElementoCobertura": "Venta de maquinaria y equipo agrícola y de jardín."
+    },
+    {
+      "codigoElementoCobertura": "423830",
+      "descripcionElementoCobertura": "Venta de maquinaria industrial"
+    },
+    {
+      "codigoElementoCobertura": "423840",
+      "descripcionElementoCobertura": "Venta de suministros industriales"
+    },
+    {
+      "codigoElementoCobertura": "423850",
+      "descripcionElementoCobertura": "Venta de Equipos y Suministros a establecimientos"
+    },
+    {
+      "codigoElementoCobertura": "423860",
+      "descripcionElementoCobertura": "Venta  de equipos y suministros de transporte (excepto vehículos a motor)"
+    },
+    {
+      "codigoElementoCobertura": "423910",
+      "descripcionElementoCobertura": "Venta  de artículos y artículos deportivos y recreativos"
+    },
+    {
+      "codigoElementoCobertura": "423920",
+      "descripcionElementoCobertura": "Venta  de juguetes y hobbie"
+    },
+    {
+      "codigoElementoCobertura": "423930A",
+      "descripcionElementoCobertura": "Venta de materiales reciclados - materiales combustibles"
+    },
+    {
+      "codigoElementoCobertura": "423930B",
+      "descripcionElementoCobertura": "Venta de materiales reciclados - materiales no combustibles"
+    },
+    {
+      "codigoElementoCobertura": "423940",
+      "descripcionElementoCobertura": "Venta de joyería, relojes, piedras preciosas y metales preciosos"
+    },
+    {
+      "codigoElementoCobertura": "423990",
+      "descripcionElementoCobertura": "Ventas varias"
+    },
+    {
+      "codigoElementoCobertura": "424110",
+      "descripcionElementoCobertura": "Venta  de papel de imprenta y para escribir"
+    },
+    {
+      "codigoElementoCobertura": "424120",
+      "descripcionElementoCobertura": "Venta  de papelería y suministros de oficina."
+    },
+    {
+      "codigoElementoCobertura": "424130",
+      "descripcionElementoCobertura": "Venta de papel de Servicio Industrial y Personal"
+    },
+    {
+      "codigoElementoCobertura": "424210",
+      "descripcionElementoCobertura": "Comerciantes de medicamentos (farmacia) y Droguerías Diversas"
+    },
+    {
+      "codigoElementoCobertura": "424310",
+      "descripcionElementoCobertura": "Venta  de ropa, piezas y artículos."
+    },
+    {
+      "codigoElementoCobertura": "424320",
+      "descripcionElementoCobertura": "Venta de ropa y muebles para hombres y niños"
+    },
+    {
+      "codigoElementoCobertura": "424330",
+      "descripcionElementoCobertura": "Venta  de ropa y accesorios para mujeres, niños y bebés"
+    },
+    {
+      "codigoElementoCobertura": "424340",
+      "descripcionElementoCobertura": "Venta de calzado"
+    },
+    {
+      "codigoElementoCobertura": "424410",
+      "descripcionElementoCobertura": "Venta de comestibles"
+    },
+    {
+      "codigoElementoCobertura": "424420",
+      "descripcionElementoCobertura": "Venta  de alimentos congelados envasados"
+    },
+    {
+      "codigoElementoCobertura": "424430",
+      "descripcionElementoCobertura": "Venta de productos lácteos (excepto los secos o enlatados)"
+    },
+    {
+      "codigoElementoCobertura": "424440",
+      "descripcionElementoCobertura": "Venta de productos avícolas"
+    },
+    {
+      "codigoElementoCobertura": "424450",
+      "descripcionElementoCobertura": "Venta de productos de Confitería"
+    },
+    {
+      "codigoElementoCobertura": "424460",
+      "descripcionElementoCobertura": "Venta  de pescados y mariscos"
+    },
+    {
+      "codigoElementoCobertura": "424470",
+      "descripcionElementoCobertura": "Venta  de carne y productos de carne"
+    },
+    {
+      "codigoElementoCobertura": "424480",
+      "descripcionElementoCobertura": "Venta de frutas y verduras frescas"
+    },
+    {
+      "codigoElementoCobertura": "424490",
+      "descripcionElementoCobertura": "Venta de comestibles"
+    },
+    {
+      "codigoElementoCobertura": "424510",
+      "descripcionElementoCobertura": "Venta de grano y habichuelas"
+    },
+    {
+      "codigoElementoCobertura": "424520",
+      "descripcionElementoCobertura": "Venta de ganado"
+    },
+    {
+      "codigoElementoCobertura": "424590",
+      "descripcionElementoCobertura": "Venta  de Otros Productos Agrícolas"
+    },
+    {
+      "codigoElementoCobertura": "424610",
+      "descripcionElementoCobertura": "Venta  de materiales plásticos y formas básicas y formas"
+    },
+    {
+      "codigoElementoCobertura": "424690",
+      "descripcionElementoCobertura": "Venta productos químicos y productos afines"
+    },
+    {
+      "codigoElementoCobertura": "424710",
+      "descripcionElementoCobertura": "Estaciones de granel de petróleo y terminales"
+    },
+    {
+      "codigoElementoCobertura": "424720",
+      "descripcionElementoCobertura": "Venta de petróleo y productos derivados del petróleo (excepto estaciones y terminales de graneles)"
+    },
+    {
+      "codigoElementoCobertura": "424810",
+      "descripcionElementoCobertura": "Venta de Cerveza y Ale"
+    },
+    {
+      "codigoElementoCobertura": "424820",
+      "descripcionElementoCobertura": "Venta de vino y bebidas alcohólicas destiladas"
+    },
+    {
+      "codigoElementoCobertura": "424910",
+      "descripcionElementoCobertura": "Mayoristas de suministros agrícolas"
+    },
+    {
+      "codigoElementoCobertura": "424920",
+      "descripcionElementoCobertura": "Venta de libros y periódicos"
+    },
+    {
+      "codigoElementoCobertura": "424930",
+      "descripcionElementoCobertura": "Venta  de flores, viveros y suministros de floristerías"
+    },
+    {
+      "codigoElementoCobertura": "424940",
+      "descripcionElementoCobertura": "Venta de tabaco y productos de tabaco"
+    },
+    {
+      "codigoElementoCobertura": "424950",
+      "descripcionElementoCobertura": "Venta de pinturas, barnices y suministros"
+    },
+    {
+      "codigoElementoCobertura": "424990",
+      "descripcionElementoCobertura": "Venta de bienes no duraderos varios"
+    },
+    {
+      "codigoElementoCobertura": "425110",
+      "descripcionElementoCobertura": "Venta de productos electrónicos de empresa a empresa (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "425120",
+      "descripcionElementoCobertura": "Agentes de comercio al por mayor y corredores"
+    },
+    {
+      "codigoElementoCobertura": "441110",
+      "descripcionElementoCobertura": "Concesionarios de coches nuevos"
+    },
+    {
+      "codigoElementoCobertura": "441120",
+      "descripcionElementoCobertura": "Concesionarios de coches usados"
+    },
+    {
+      "codigoElementoCobertura": "441210",
+      "descripcionElementoCobertura": "Concesionario de vehículos recreativos (caravanas)"
+    },
+    {
+      "codigoElementoCobertura": "441222",
+      "descripcionElementoCobertura": "Concesionario de barcos"
+    },
+    {
+      "codigoElementoCobertura": "441228A",
+      "descripcionElementoCobertura": "Concesionarios de motos"
+    },
+    {
+      "codigoElementoCobertura": "441228B",
+      "descripcionElementoCobertura": "Concesionarios de vehículos de motor"
+    },
+    {
+      "codigoElementoCobertura": "441310",
+      "descripcionElementoCobertura": "Tienda de piezas de automóviles y tiendas de accesorios"
+    },
+    {
+      "codigoElementoCobertura": "441320",
+      "descripcionElementoCobertura": "Tienda de neumáticos y/o artículos de goma y/o caucho"
+    },
+    {
+      "codigoElementoCobertura": "442110",
+      "descripcionElementoCobertura": "Tiendas de muebles  (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "442210",
+      "descripcionElementoCobertura": "Tiendas de recubrimientos de suelos (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "442291",
+      "descripcionElementoCobertura": "Tiendas de tratamiento de ventanas  (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "442299",
+      "descripcionElementoCobertura": "Todas las demás tiendas de muebles para el hogar (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "443141",
+      "descripcionElementoCobertura": "Tiendas de electrodomésticos"
+    },
+    {
+      "codigoElementoCobertura": "443142A",
+      "descripcionElementoCobertura": "Tiendas de Radio, televisión y otras tiendas de electrónica"
+    },
+    {
+      "codigoElementoCobertura": "443142B",
+      "descripcionElementoCobertura": "Tiendas de Ordenadores y Software"
+    },
+    {
+      "codigoElementoCobertura": "443142C",
+      "descripcionElementoCobertura": "Tiendas de fotografía y suministros fotográficos"
+    },
+    {
+      "codigoElementoCobertura": "443142D",
+      "descripcionElementoCobertura": "Tiendas de Cintas pregrabadas, discos compactos y de discos"
+    },
+    {
+      "codigoElementoCobertura": "444110",
+      "descripcionElementoCobertura": "Tiendas de bricolage"
+    },
+    {
+      "codigoElementoCobertura": "444120",
+      "descripcionElementoCobertura": "Tiendas y tiendas de pintura y papel tapiz (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "444130",
+      "descripcionElementoCobertura": "Tienda de artículos de ferretería, menaje y bricolaje."
+    },
+    {
+      "codigoElementoCobertura": "444190",
+      "descripcionElementoCobertura": "Tienda de material de construcción"
+    },
+    {
+      "codigoElementoCobertura": "444220",
+      "descripcionElementoCobertura": "Viveros y centros de jardinería / tiendas"
+    },
+    {
+      "codigoElementoCobertura": "445110",
+      "descripcionElementoCobertura": "Supermercados y otras tiendas de comestibles (excepto tiendas de ultramarinos)"
+    },
+    {
+      "codigoElementoCobertura": "445120",
+      "descripcionElementoCobertura": "Colmados, ultramarinos"
+    },
+    {
+      "codigoElementoCobertura": "445210A",
+      "descripcionElementoCobertura": "Mercados de carne / mariscos - Tiendas / Mercado interior (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "445230A",
+      "descripcionElementoCobertura": "Mercados de frutas y verduras: tiendas / mercado interior (excepto mayoristas / almacenes minoristas)"
+    },
+    {
+      "codigoElementoCobertura": "445291",
+      "descripcionElementoCobertura": "Tiendas de productos horneados"
+    },
+    {
+      "codigoElementoCobertura": "445292",
+      "descripcionElementoCobertura": "Confitería y Tiendas de frutos secos"
+    },
+    {
+      "codigoElementoCobertura": "445299",
+      "descripcionElementoCobertura": "Tiendas de alimentos especializados"
+    },
+    {
+      "codigoElementoCobertura": "445310",
+      "descripcionElementoCobertura": "Tienda de cerveza, vino y licorerías"
+    },
+    {
+      "codigoElementoCobertura": "446110",
+      "descripcionElementoCobertura": "Farmacias"
+    },
+    {
+      "codigoElementoCobertura": "446120",
+      "descripcionElementoCobertura": "Tiendas de cosméticos, productos de belleza y tiendas de perfumes"
+    },
+    {
+      "codigoElementoCobertura": "446130",
+      "descripcionElementoCobertura": "Tiendas de productos ópticos"
+    },
+    {
+      "codigoElementoCobertura": "446191",
+      "descripcionElementoCobertura": "Tiendas suplemento de alimentos (salud)"
+    },
+    {
+      "codigoElementoCobertura": "446199",
+      "descripcionElementoCobertura": "Tiendas de salud y cuidado personal"
+    },
+    {
+      "codigoElementoCobertura": "447110",
+      "descripcionElementoCobertura": "Gasolinera sin otras actividades."
+    },
+    {
+      "codigoElementoCobertura": "448190",
+      "descripcionElementoCobertura": "Tiendas de Ropa"
+    },
+    {
+      "codigoElementoCobertura": "448210",
+      "descripcionElementoCobertura": "Zapaterías"
+    },
+    {
+      "codigoElementoCobertura": "448310",
+      "descripcionElementoCobertura": "Joyerias"
+    },
+    {
+      "codigoElementoCobertura": "448320",
+      "descripcionElementoCobertura": "Tiendas de equipaje y artículos de cuero"
+    },
+    {
+      "codigoElementoCobertura": "451110",
+      "descripcionElementoCobertura": "Tiendas de artículos deportivos"
+    },
+    {
+      "codigoElementoCobertura": "451120",
+      "descripcionElementoCobertura": "Tiendas de pasatiempos, juguetes y juegos"
+    },
+    {
+      "codigoElementoCobertura": "451130",
+      "descripcionElementoCobertura": "Tiendas de artículos de costura y piezas"
+    },
+    {
+      "codigoElementoCobertura": "451140",
+      "descripcionElementoCobertura": "Tiendas de Instrumentos Musicales y Suministros"
+    },
+    {
+      "codigoElementoCobertura": "451211",
+      "descripcionElementoCobertura": "Librerías"
+    },
+    {
+      "codigoElementoCobertura": "451212",
+      "descripcionElementoCobertura": "Distribuidores de Noticias y Quioscos"
+    },
+    {
+      "codigoElementoCobertura": "452210",
+      "descripcionElementoCobertura": "Grandes Almacenes, centro comercial"
+    },
+    {
+      "codigoElementoCobertura": "452311",
+      "descripcionElementoCobertura": "Almacenes de Clubes y Supercentros - venta importante de alimentos perecederos"
+    },
+    {
+      "codigoElementoCobertura": "452319A",
+      "descripcionElementoCobertura": "Todas las demás tiendas de productos en general: Mercancías mixtas Mercado interior"
+    },
+    {
+      "codigoElementoCobertura": "452319B",
+      "descripcionElementoCobertura": "Tiendas de mercancía general variada (excepto perecederos y con mercado interior)"
+    },
+    {
+      "codigoElementoCobertura": "453110",
+      "descripcionElementoCobertura": "Floristeria"
+    },
+    {
+      "codigoElementoCobertura": "453210",
+      "descripcionElementoCobertura": "Suministros de oficina y papelerías"
+    },
+    {
+      "codigoElementoCobertura": "453220",
+      "descripcionElementoCobertura": "Tiendas de regalos, novedades y souvenirs"
+    },
+    {
+      "codigoElementoCobertura": "453310",
+      "descripcionElementoCobertura": "Tiendas de mercancía usada"
+    },
+    {
+      "codigoElementoCobertura": "453910",
+      "descripcionElementoCobertura": "Tiendas de Mascotas y Suministros para Mascotas"
+    },
+    {
+      "codigoElementoCobertura": "453920",
+      "descripcionElementoCobertura": "Comerciantes de arte"
+    },
+    {
+      "codigoElementoCobertura": "453930",
+      "descripcionElementoCobertura": "Venta de casas móviles"
+    },
+    {
+      "codigoElementoCobertura": "453991",
+      "descripcionElementoCobertura": "Tiendas de tabaco (estanco)"
+    },
+    {
+      "codigoElementoCobertura": "453993",
+      "descripcionElementoCobertura": "Tiendas de tabaco (estanco)"
+    },
+    {
+      "codigoElementoCobertura": "453998",
+      "descripcionElementoCobertura": "Tiendas (excepto mascotas, arte, casas móviles, tabaco)"
+    },
+    {
+      "codigoElementoCobertura": "454110",
+      "descripcionElementoCobertura": "Vendedores por correspondencia o venta digital"
+    },
+    {
+      "codigoElementoCobertura": "454210",
+      "descripcionElementoCobertura": "Operadores de máquinas expendedoras"
+    },
+    {
+      "codigoElementoCobertura": "454310A",
+      "descripcionElementoCobertura": "Distribuidores de gasoil para calefacción"
+    },
+    {
+      "codigoElementoCobertura": "454310B",
+      "descripcionElementoCobertura": "Distribuidores de Gas Licuado de Petróleo (Gas Embotellado)"
+    },
+    {
+      "codigoElementoCobertura": "454310C",
+      "descripcionElementoCobertura": "Distribuidores de combustible (excepto gasoil y gas embotellado)"
+    },
+    {
+      "codigoElementoCobertura": "454390",
+      "descripcionElementoCobertura": "Establecimientos de venta directa"
+    },
+    {
+      "codigoElementoCobertura": "482111",
+      "descripcionElementoCobertura": "Vías de tren - Por ejemplo, Estaciones de ferrocarriles, unidades de control y depósito de trenes, pero sin incluir material rodante ni infraestructura."
+    },
+    {
+      "codigoElementoCobertura": "482112",
+      "descripcionElementoCobertura": "Equipamiento ferroviario"
+    },
+    {
+      "codigoElementoCobertura": "483111",
+      "descripcionElementoCobertura": "Transporte de carga en alta mar"
+    },
+    {
+      "codigoElementoCobertura": "483112",
+      "descripcionElementoCobertura": "Transporte de pasajeros en alta mar"
+    },
+    {
+      "codigoElementoCobertura": "483113",
+      "descripcionElementoCobertura": "Transporte de carga en la costa y en los Grandes Lagos"
+    },
+    {
+      "codigoElementoCobertura": "483114",
+      "descripcionElementoCobertura": "Transporte de pasajeros en la costa y en los Grandes Lagos"
+    },
+    {
+      "codigoElementoCobertura": "483211",
+      "descripcionElementoCobertura": "Transporte de carga por aguas interiores"
+    },
+    {
+      "codigoElementoCobertura": "483212",
+      "descripcionElementoCobertura": "Transporte de pasajeros por aguas interiores"
+    },
+    {
+      "codigoElementoCobertura": "484110",
+      "descripcionElementoCobertura": "Transporte de carga general, local"
+    },
+    {
+      "codigoElementoCobertura": "484121",
+      "descripcionElementoCobertura": "Transporte de carga general, larga distancia, carga de camiones"
+    },
+    {
+      "codigoElementoCobertura": "484122",
+      "descripcionElementoCobertura": "Transporte de carga general, larga distancia"
+    },
+    {
+      "codigoElementoCobertura": "484210",
+      "descripcionElementoCobertura": "Mudanzas domésticas y de oficina"
+    },
+    {
+      "codigoElementoCobertura": "484220",
+      "descripcionElementoCobertura": "Transporte especializado de carga (excepto bienes usados), local"
+    },
+    {
+      "codigoElementoCobertura": "484230",
+      "descripcionElementoCobertura": "Transporte especializado de carga (excepto bienes usados), larga distancia"
+    },
+    {
+      "codigoElementoCobertura": "485119",
+      "descripcionElementoCobertura": "Sistemas de transporte urbano"
+    },
+    {
+      "codigoElementoCobertura": "485210",
+      "descripcionElementoCobertura": "Sistemas de transporte interurbano"
+    },
+    {
+      "codigoElementoCobertura": "485310",
+      "descripcionElementoCobertura": "Servicio de Taxi y Limusuinas"
+    },
+    {
+      "codigoElementoCobertura": "485410",
+      "descripcionElementoCobertura": "Transporte escolar empleados, pasajeros y otros transportes en autobús"
+    },
+    {
+      "codigoElementoCobertura": "485510",
+      "descripcionElementoCobertura": "Industría de autobuses de alquiler"
+    },
+    {
+      "codigoElementoCobertura": "485999",
+      "descripcionElementoCobertura": "Tránsito y transporte terrestre de pasajeros"
+    },
+    {
+      "codigoElementoCobertura": "486110",
+      "descripcionElementoCobertura": "Oleoducto/Gasoducto Transporte de Petróleo Crudo"
+    },
+    {
+      "codigoElementoCobertura": "486910A",
+      "descripcionElementoCobertura": "Transporte por ductos de productos refinados de petróleo - Distribución"
+    },
+    {
+      "codigoElementoCobertura": "486910B",
+      "descripcionElementoCobertura": "Transporte por tubería de productos refinados de petróleo - Transmisión"
+    },
+    {
+      "codigoElementoCobertura": "486990A",
+      "descripcionElementoCobertura": "Todos los otros transportes de ductos - Distribución (excepto derivados del petroleo)"
+    },
+    {
+      "codigoElementoCobertura": "486990B",
+      "descripcionElementoCobertura": "Todos los otros transportes de tubería - Transporte (excepto derivados del petróleo)"
+    },
+    {
+      "codigoElementoCobertura": "488111",
+      "descripcionElementoCobertura": "Control de tráfico aéreo, operaciones aeroportuarias y otras actividades de apoyo al aeropuerto"
+    },
+    {
+      "codigoElementoCobertura": "488210",
+      "descripcionElementoCobertura": "Actividades de apoyo para el transporte ferroviario"
+    },
+    {
+      "codigoElementoCobertura": "488310",
+      "descripcionElementoCobertura": "Operaciones portuarias y portuarias y manejo de carga marítima."
+    },
+    {
+      "codigoElementoCobertura": "488330",
+      "descripcionElementoCobertura": "Servicios de Navegación para envíos"
+    },
+    {
+      "codigoElementoCobertura": "488390",
+      "descripcionElementoCobertura": "Otros. Actividades de apoyo para el transporte de agua"
+    },
+    {
+      "codigoElementoCobertura": "488410",
+      "descripcionElementoCobertura": "Talleres de mantenimiento rápido para vehículos"
+    },
+    {
+      "codigoElementoCobertura": "488510",
+      "descripcionElementoCobertura": "Agencia de transporte de carga"
+    },
+    {
+      "codigoElementoCobertura": "488991",
+      "descripcionElementoCobertura": "Embalajes"
+    },
+    {
+      "codigoElementoCobertura": "488999",
+      "descripcionElementoCobertura": "Todas las demás actividades de apoyo para el transporte"
+    },
+    {
+      "codigoElementoCobertura": "491110A",
+      "descripcionElementoCobertura": "Servicio Postal - Oficina de Correos"
+    },
+    {
+      "codigoElementoCobertura": "491110B",
+      "descripcionElementoCobertura": "Servicio Postal - Post logística de centros logísticos"
+    },
+    {
+      "codigoElementoCobertura": "492110",
+      "descripcionElementoCobertura": "Mensajería y servicios de entrega urgente"
+    },
+    {
+      "codigoElementoCobertura": "493110",
+      "descripcionElementoCobertura": "Almacenaje general"
+    },
+    {
+      "codigoElementoCobertura": "493120",
+      "descripcionElementoCobertura": "Almacenaje de refrigerados"
+    },
+    {
+      "codigoElementoCobertura": "493130",
+      "descripcionElementoCobertura": "Almacenamiento y almacenamiento de productos agrícolas"
+    },
+    {
+      "codigoElementoCobertura": "493190",
+      "descripcionElementoCobertura": "Otros. Almacenamiento y almacén"
+    },
+    {
+      "codigoElementoCobertura": "511110",
+      "descripcionElementoCobertura": "Imprenta de periódicos, publicaciones e impresión"
+    },
+    {
+      "codigoElementoCobertura": "511210",
+      "descripcionElementoCobertura": "Editores de software"
+    },
+    {
+      "codigoElementoCobertura": "512110",
+      "descripcionElementoCobertura": "Servicios de producción, distribución y servicios relacionados con películas cinematográficas y videos"
+    },
+    {
+      "codigoElementoCobertura": "512240",
+      "descripcionElementoCobertura": "Estudios de grabación de sonido"
+    },
+    {
+      "codigoElementoCobertura": "512250",
+      "descripcionElementoCobertura": "Grabación de discos y cintas magnéticas y distribución"
+    },
+    {
+      "codigoElementoCobertura": "515111",
+      "descripcionElementoCobertura": "Radios y cadenas de televisión, emisión y radiodifusión"
+    },
+    {
+      "codigoElementoCobertura": "515210",
+      "descripcionElementoCobertura": "Comunicaciones electrónicas por cable, inalámbrico, cableado, Internet"
+    },
+    {
+      "codigoElementoCobertura": "518210",
+      "descripcionElementoCobertura": "Procesamiento de datos, almacenamiento y servicios relacionados"
+    },
+    {
+      "codigoElementoCobertura": "519110",
+      "descripcionElementoCobertura": "Agencias de noticias y todos los demás servicios de información"
+    },
+    {
+      "codigoElementoCobertura": "519120",
+      "descripcionElementoCobertura": "Bibliotecas y Archivos"
+    },
+    {
+      "codigoElementoCobertura": "521110",
+      "descripcionElementoCobertura": "Bancos, cooperativas de crédito, instituciones de valores y otras instituciones financieras"
+    },
+    {
+      "codigoElementoCobertura": "522298",
+      "descripcionElementoCobertura": "Todos los demás intermediarios de crédito no depositario"
+    },
+    {
+      "codigoElementoCobertura": "524113",
+      "descripcionElementoCobertura": "Aseguradoras y servicios relacionados"
+    },
+    {
+      "codigoElementoCobertura": "531110A",
+      "descripcionElementoCobertura": "Arrendadores de edificios residenciales y viviendas"
+    },
+    {
+      "codigoElementoCobertura": "531110B",
+      "descripcionElementoCobertura": "Arrendadores de edificios residenciales y viviendas"
+    },
+    {
+      "codigoElementoCobertura": "531110C",
+      "descripcionElementoCobertura": "Arrendadores de edificios residenciales y viviendas: propiedad u ocupados por autoridades"
+    },
+    {
+      "codigoElementoCobertura": "531120",
+      "descripcionElementoCobertura": "Arrendadores de edificios no residenciales (excepto pequeños almacenes)"
+    },
+    {
+      "codigoElementoCobertura": "531130",
+      "descripcionElementoCobertura": "Arrendadores de mini almacenes y unidades de almacenamiento automático"
+    },
+    {
+      "codigoElementoCobertura": "531190",
+      "descripcionElementoCobertura": "Arrendadores de otras propiedades inmobiliarias"
+    },
+    {
+      "codigoElementoCobertura": "531210",
+      "descripcionElementoCobertura": "Oficinas de agentes inmobiliarios, gerentes, tasadores, corredores y otras actividades inmobiliarias"
+    },
+    {
+      "codigoElementoCobertura": "532111",
+      "descripcionElementoCobertura": "Renting o leasing de automoviles (SUV, furgonetas, camiones, vehiculos recreativos)"
+    },
+    {
+      "codigoElementoCobertura": "532210",
+      "descripcionElementoCobertura": "Alquiler de electrodomésticos y electrónica de consumo"
+    },
+    {
+      "codigoElementoCobertura": "532281",
+      "descripcionElementoCobertura": "Alquiler de Ropa formal y de disfraces"
+    },
+    {
+      "codigoElementoCobertura": "532282",
+      "descripcionElementoCobertura": "Alquiler de cintas y discos de video"
+    },
+    {
+      "codigoElementoCobertura": "532283",
+      "descripcionElementoCobertura": "Alquiler de equipos de salud en el hogar"
+    },
+    {
+      "codigoElementoCobertura": "532284",
+      "descripcionElementoCobertura": "Alquiler de bienes recreativos"
+    },
+    {
+      "codigoElementoCobertura": "532289",
+      "descripcionElementoCobertura": "Alquiler de todos los demás bienes de consumo"
+    },
+    {
+      "codigoElementoCobertura": "532310",
+      "descripcionElementoCobertura": "Centros de alquiler general"
+    },
+    {
+      "codigoElementoCobertura": "532411",
+      "descripcionElementoCobertura": "Alquiler y Arrendamiento de Maquinaria y Equipo de Oficina"
+    },
+    {
+      "codigoElementoCobertura": "532490",
+      "descripcionElementoCobertura": "Alquiler y Arrendamiento de Maquinaria y Equipo de Oficina"
+    },
+    {
+      "codigoElementoCobertura": "533110",
+      "descripcionElementoCobertura": "Arrendadores de activos intangibles no financieros (excepto trabajos con derechos de autor)"
+    },
+    {
+      "codigoElementoCobertura": "541110",
+      "descripcionElementoCobertura": "Oficinas de abogados, notarios, contabilidad, preparación de impuestos y servicios de nómina."
+    },
+    {
+      "codigoElementoCobertura": "541310",
+      "descripcionElementoCobertura": "Servicios de arquitectura, ingeniería y servicios relacionados"
+    },
+    {
+      "codigoElementoCobertura": "541380",
+      "descripcionElementoCobertura": "Laboratorios de pruebas"
+    },
+    {
+      "codigoElementoCobertura": "541410",
+      "descripcionElementoCobertura": "Estudio de grabación de música, sin imagen."
+    },
+    {
+      "codigoElementoCobertura": "541511",
+      "descripcionElementoCobertura": "Diseño de sistemas informáticos y servicios relacionados"
+    },
+    {
+      "codigoElementoCobertura": "541611",
+      "descripcionElementoCobertura": "Servicios de consultoría técnica, científica y de gestión"
+    },
+    {
+      "codigoElementoCobertura": "541713",
+      "descripcionElementoCobertura": "Investigación y desarrollo en nanotecnología, biotecnología y servicios de desarrollo"
+    },
+    {
+      "codigoElementoCobertura": "541720",
+      "descripcionElementoCobertura": "Investigación y Desarrollo en Ciencias Sociales y Humanidades"
+    },
+    {
+      "codigoElementoCobertura": "541810",
+      "descripcionElementoCobertura": "Publicidad, relaciones públicas y servicios relacionados"
+    },
+    {
+      "codigoElementoCobertura": "541910",
+      "descripcionElementoCobertura": "Investigación de mercado y sondeo de opinión pública"
+    },
+    {
+      "codigoElementoCobertura": "541921",
+      "descripcionElementoCobertura": "Estudios de fotografía, retrato"
+    },
+    {
+      "codigoElementoCobertura": "541922",
+      "descripcionElementoCobertura": "Fotografía comercial"
+    },
+    {
+      "codigoElementoCobertura": "541930",
+      "descripcionElementoCobertura": "Servicios de traducción e interpretación"
+    },
+    {
+      "codigoElementoCobertura": "541940",
+      "descripcionElementoCobertura": "Servicios veterinario"
+    },
+    {
+      "codigoElementoCobertura": "541990",
+      "descripcionElementoCobertura": "Servicios de traducción e interpretación"
+    },
+    {
+      "codigoElementoCobertura": "551111",
+      "descripcionElementoCobertura": "Oficinas de Holding del Banco y de otras compñías Holding, Servicios Administrativos y Apoyo de Instalaciones"
+    },
+    {
+      "codigoElementoCobertura": "561311",
+      "descripcionElementoCobertura": "Employment Placement Agencies"
+    },
+    {
+      "codigoElementoCobertura": "561410",
+      "descripcionElementoCobertura": "Servicios comerciales, servicios de apoyo empresarial, agencias de cobro, crédito Bureuas y servicios de reposesión"
+    },
+    {
+      "codigoElementoCobertura": "561510",
+      "descripcionElementoCobertura": "Agencias de viajes y servicios de reserva."
+    },
+    {
+      "codigoElementoCobertura": "561611",
+      "descripcionElementoCobertura": "Investigación y Servicios de Seguridad Relacionados"
+    },
+    {
+      "codigoElementoCobertura": "561710",
+      "descripcionElementoCobertura": "Servicios de exterminio y control de plagas"
+    },
+    {
+      "codigoElementoCobertura": "561720",
+      "descripcionElementoCobertura": "Servicios de limpieza"
+    },
+    {
+      "codigoElementoCobertura": "561730",
+      "descripcionElementoCobertura": "Servicios de jardinería"
+    },
+    {
+      "codigoElementoCobertura": "561740",
+      "descripcionElementoCobertura": "Servicios de limpieza de alfombras y tapicería"
+    },
+    {
+      "codigoElementoCobertura": "561790",
+      "descripcionElementoCobertura": "Servicios para edificios y viviendas"
+    },
+    {
+      "codigoElementoCobertura": "561910",
+      "descripcionElementoCobertura": "Servicios de embalaje y etiquetado"
+    },
+    {
+      "codigoElementoCobertura": "561920",
+      "descripcionElementoCobertura": "Organización de convenciones y ferias comerciales"
+    },
+    {
+      "codigoElementoCobertura": "561990",
+      "descripcionElementoCobertura": "Todos los otros servicios de soporte"
+    },
+    {
+      "codigoElementoCobertura": "562111",
+      "descripcionElementoCobertura": "Recogida de basura sólida"
+    },
+    {
+      "codigoElementoCobertura": "562112",
+      "descripcionElementoCobertura": "Recogida de basura peligrosa"
+    },
+    {
+      "codigoElementoCobertura": "562119",
+      "descripcionElementoCobertura": "Recogida de basura"
+    },
+    {
+      "codigoElementoCobertura": "562211",
+      "descripcionElementoCobertura": "Tratamiento y eliminación de residuos peligrosos"
+    },
+    {
+      "codigoElementoCobertura": "562212",
+      "descripcionElementoCobertura": "Vertedero de Residuos Sólidos"
+    },
+    {
+      "codigoElementoCobertura": "562213",
+      "descripcionElementoCobertura": "Incineradores de residuos sólidos"
+    },
+    {
+      "codigoElementoCobertura": "562219",
+      "descripcionElementoCobertura": "Residuos no peligrosos Tratamiento y eliminación"
+    },
+    {
+      "codigoElementoCobertura": "562910",
+      "descripcionElementoCobertura": "Servicios de reparación de sistemas de residuos"
+    },
+    {
+      "codigoElementoCobertura": "562920",
+      "descripcionElementoCobertura": "Instalaciones de recuperación de materiales y reciclado"
+    },
+    {
+      "codigoElementoCobertura": "562991",
+      "descripcionElementoCobertura": "Fosa Séptica y Servicios Relacionados"
+    },
+    {
+      "codigoElementoCobertura": "562998",
+      "descripcionElementoCobertura": "Servicios de gestión de residuos diversos"
+    },
+    {
+      "codigoElementoCobertura": "611110",
+      "descripcionElementoCobertura": "Escuelas primarias y secundarias"
+    },
+    {
+      "codigoElementoCobertura": "611210",
+      "descripcionElementoCobertura": "Colegios menores"
+    },
+    {
+      "codigoElementoCobertura": "611310",
+      "descripcionElementoCobertura": "Colegios, universidades y escuelas profesionales"
+    },
+    {
+      "codigoElementoCobertura": "611410",
+      "descripcionElementoCobertura": "Escuelas de Negocios y Secretariado"
+    },
+    {
+      "codigoElementoCobertura": "611420",
+      "descripcionElementoCobertura": "Escuela de informática"
+    },
+    {
+      "codigoElementoCobertura": "611430",
+      "descripcionElementoCobertura": "Capacitación en desarrollo profesional y gerencial"
+    },
+    {
+      "codigoElementoCobertura": "611511",
+      "descripcionElementoCobertura": "Escuelas de cosmetología y peluquería"
+    },
+    {
+      "codigoElementoCobertura": "611699",
+      "descripcionElementoCobertura": "Todas las escuelas e instrucciones diversas"
+    },
+    {
+      "codigoElementoCobertura": "611710",
+      "descripcionElementoCobertura": "Servicios de Apoyo Educativo"
+    },
+    {
+      "codigoElementoCobertura": "621111",
+      "descripcionElementoCobertura": "Consultorios de médicos, dentistas y otros profesionales de la salud."
+    },
+    {
+      "codigoElementoCobertura": "621492",
+      "descripcionElementoCobertura": "Centros de diálisis del riñón"
+    },
+    {
+      "codigoElementoCobertura": "621493",
+      "descripcionElementoCobertura": "Centros de cirugía ambulatoria y de emergencia independientes"
+    },
+    {
+      "codigoElementoCobertura": "621498",
+      "descripcionElementoCobertura": "Centros de atención ambulatoria"
+    },
+    {
+      "codigoElementoCobertura": "621511",
+      "descripcionElementoCobertura": "Laboratorios médicos y de diagnóstico"
+    },
+    {
+      "codigoElementoCobertura": "621610",
+      "descripcionElementoCobertura": "Atención médica domiciliaria y otros servicios de salud ambulatoria, incluidos bancos de sangre y órganos"
+    },
+    {
+      "codigoElementoCobertura": "622110",
+      "descripcionElementoCobertura": "Hospitales médicos y quirúrgicos generales"
+    },
+    {
+      "codigoElementoCobertura": "622210",
+      "descripcionElementoCobertura": "Hospitales psiquiátricos y de abuso de sustancias"
+    },
+    {
+      "codigoElementoCobertura": "623110",
+      "descripcionElementoCobertura": "Atención de enfermería, discapacidad intelectual y de desarrollo, e instalaciones de atención continua"
+    },
+    {
+      "codigoElementoCobertura": "624110",
+      "descripcionElementoCobertura": "Servicios para niños y jóvenes"
+    },
+    {
+      "codigoElementoCobertura": "624120",
+      "descripcionElementoCobertura": "Servicios para personas mayores y personas con discapacidad"
+    },
+    {
+      "codigoElementoCobertura": "624190",
+      "descripcionElementoCobertura": "Servicios individuales y familiares"
+    },
+    {
+      "codigoElementoCobertura": "624210",
+      "descripcionElementoCobertura": "Servicios de comida comunitaria"
+    },
+    {
+      "codigoElementoCobertura": "624221",
+      "descripcionElementoCobertura": "Refugios temporales"
+    },
+    {
+      "codigoElementoCobertura": "624229",
+      "descripcionElementoCobertura": "Otros servicios comunitarios de vivienda"
+    },
+    {
+      "codigoElementoCobertura": "624230",
+      "descripcionElementoCobertura": "Servicios de emergencia y otros servicios de socorro"
+    },
+    {
+      "codigoElementoCobertura": "624310",
+      "descripcionElementoCobertura": "Servicios sociales"
+    },
+    {
+      "codigoElementoCobertura": "624410",
+      "descripcionElementoCobertura": "Servicios de guardería infantil"
+    },
+    {
+      "codigoElementoCobertura": "711110",
+      "descripcionElementoCobertura": "Compañías de teatro y restaurantes con espectáculo en directo"
+    },
+    {
+      "codigoElementoCobertura": "711120",
+      "descripcionElementoCobertura": "Compañías de baile"
+    },
+    {
+      "codigoElementoCobertura": "711130",
+      "descripcionElementoCobertura": "Grupos musicales y artistas"
+    },
+    {
+      "codigoElementoCobertura": "711190",
+      "descripcionElementoCobertura": "Compañías de artes escénicas"
+    },
+    {
+      "codigoElementoCobertura": "711211",
+      "descripcionElementoCobertura": "Equipos deportivos y clubes"
+    },
+    {
+      "codigoElementoCobertura": "711212",
+      "descripcionElementoCobertura": "Pistas de carreras"
+    },
+    {
+      "codigoElementoCobertura": "711219",
+      "descripcionElementoCobertura": "Otros deportes espectadores"
+    },
+    {
+      "codigoElementoCobertura": "711310",
+      "descripcionElementoCobertura": "Promotores de artes escénicas, deportes y eventos similares con instalaciones - Estadios deportivos"
+    },
+    {
+      "codigoElementoCobertura": "711320",
+      "descripcionElementoCobertura": "Promotores de artes escénicas, deportes y eventos similares sin instalaciones"
+    },
+    {
+      "codigoElementoCobertura": "711410",
+      "descripcionElementoCobertura": "Agentes y gerentes de artistas, atletas, artistas y otras figuras públicas"
+    },
+    {
+      "codigoElementoCobertura": "711510",
+      "descripcionElementoCobertura": "Artistas independientes, escritores y artistas intérpretes o ejecutantes"
+    },
+    {
+      "codigoElementoCobertura": "712110",
+      "descripcionElementoCobertura": "Museos"
+    },
+    {
+      "codigoElementoCobertura": "712120",
+      "descripcionElementoCobertura": "Lugares Históricos - Incluyendo Patrimonio"
+    },
+    {
+      "codigoElementoCobertura": "712130",
+      "descripcionElementoCobertura": "Zoológicos y jardines botánicos"
+    },
+    {
+      "codigoElementoCobertura": "712190",
+      "descripcionElementoCobertura": "Parques naturales y otras instituciones similares"
+    },
+    {
+      "codigoElementoCobertura": "713110",
+      "descripcionElementoCobertura": "Parques de atracciones y temáticos"
+    },
+    {
+      "codigoElementoCobertura": "713120",
+      "descripcionElementoCobertura": "Sala de juegos recreativos"
+    },
+    {
+      "codigoElementoCobertura": "713210",
+      "descripcionElementoCobertura": "Casinos (excepto hoteles con casino)"
+    },
+    {
+      "codigoElementoCobertura": "713290",
+      "descripcionElementoCobertura": "Industrias de juego"
+    },
+    {
+      "codigoElementoCobertura": "713910",
+      "descripcionElementoCobertura": "Campos de golf y clubes de campo"
+    },
+    {
+      "codigoElementoCobertura": "713920",
+      "descripcionElementoCobertura": "Instalaciones de esqui"
+    },
+    {
+      "codigoElementoCobertura": "713930",
+      "descripcionElementoCobertura": "Marinas o muelles"
+    },
+    {
+      "codigoElementoCobertura": "713940",
+      "descripcionElementoCobertura": "Fitness and Recreational Sports Centers"
+    },
+    {
+      "codigoElementoCobertura": "713950",
+      "descripcionElementoCobertura": "Boleras"
+    },
+    {
+      "codigoElementoCobertura": "713990",
+      "descripcionElementoCobertura": "Industrias de entretenimiento y recreación"
+    },
+    {
+      "codigoElementoCobertura": "721110",
+      "descripcionElementoCobertura": "Hotel, casinos-hotel y moteles"
+    },
+    {
+      "codigoElementoCobertura": "721191",
+      "descripcionElementoCobertura": "Albergue, pensión"
+    },
+    {
+      "codigoElementoCobertura": "721199",
+      "descripcionElementoCobertura": "Alojamientos para viajeros (excepto hotel, motel, albergue, pensión)"
+    },
+    {
+      "codigoElementoCobertura": "721211",
+      "descripcionElementoCobertura": "Camping, instalaciones fijas"
+    },
+    {
+      "codigoElementoCobertura": "721214",
+      "descripcionElementoCobertura": "Campamentos recreativos y de vacaciones (excepto campamentos)"
+    },
+    {
+      "codigoElementoCobertura": "721310",
+      "descripcionElementoCobertura": "Alojamiento y pensiones, dormitorios y campos de trabajadores"
+    },
+    {
+      "codigoElementoCobertura": "722310",
+      "descripcionElementoCobertura": "Servicio de contratos de Alimentos"
+    },
+    {
+      "codigoElementoCobertura": "722320",
+      "descripcionElementoCobertura": "Catering"
+    },
+    {
+      "codigoElementoCobertura": "722330",
+      "descripcionElementoCobertura": "Servicios de comida móvil"
+    },
+    {
+      "codigoElementoCobertura": "722410",
+      "descripcionElementoCobertura": "Lugares para beber bebidas alcohólicas"
+    },
+    {
+      "codigoElementoCobertura": "722511",
+      "descripcionElementoCobertura": "Servicio completo de Restaurantes, cafeterías, buffets de parrilla"
+    },
+    {
+      "codigoElementoCobertura": "722515",
+      "descripcionElementoCobertura": "Barras de aperitivos y bebidas sin alcohol"
+    },
+    {
+      "codigoElementoCobertura": "811111",
+      "descripcionElementoCobertura": "Alquiler de automóviles, camiones / remolques y carabanas"
+    },
+    {
+      "codigoElementoCobertura": "811122",
+      "descripcionElementoCobertura": "Taller de reparación y reemplazo de cristales de automóviles"
+    },
+    {
+      "codigoElementoCobertura": "811192",
+      "descripcionElementoCobertura": "Lavado de automóviles"
+    },
+    {
+      "codigoElementoCobertura": "811198",
+      "descripcionElementoCobertura": "Reparaciones y mantenimiento de automóviles"
+    },
+    {
+      "codigoElementoCobertura": "811211",
+      "descripcionElementoCobertura": "Reparación y mantenimiento de equipos electrónicos y de precisión."
+    },
+    {
+      "codigoElementoCobertura": "811310",
+      "descripcionElementoCobertura": "Reparación y mantenimiento de maquinaria y equipo comercial e industrial (excepto automotriz y electrónica)"
+    },
+    {
+      "codigoElementoCobertura": "811411",
+      "descripcionElementoCobertura": "Reparación y mantenimiento de equipos de hogar y jardín"
+    },
+    {
+      "codigoElementoCobertura": "811412",
+      "descripcionElementoCobertura": "Reparación y mantenimiento de electrodomésticos"
+    },
+    {
+      "codigoElementoCobertura": "811420",
+      "descripcionElementoCobertura": "Tapicería y Reparación de Muebles"
+    },
+    {
+      "codigoElementoCobertura": "811430",
+      "descripcionElementoCobertura": "Reparación de calzado y pieles"
+    },
+    {
+      "codigoElementoCobertura": "811490",
+      "descripcionElementoCobertura": "Reparación y mantenimiento de otros artículos personales y domésticos"
+    },
+    {
+      "codigoElementoCobertura": "812111",
+      "descripcionElementoCobertura": "Servicios de cuidado personal"
+    },
+    {
+      "codigoElementoCobertura": "812210",
+      "descripcionElementoCobertura": "Funerarias y servicios funerarios"
+    },
+    {
+      "codigoElementoCobertura": "812220",
+      "descripcionElementoCobertura": "Cementerios y Crematorios"
+    },
+    {
+      "codigoElementoCobertura": "812310",
+      "descripcionElementoCobertura": "Lavanderías y tintorerías a monedas"
+    },
+    {
+      "codigoElementoCobertura": "812320",
+      "descripcionElementoCobertura": "Servicios de limpieza en seco y de lavandería (excepto a monedas)"
+    },
+    {
+      "codigoElementoCobertura": "812331",
+      "descripcionElementoCobertura": "Suministro de ropa"
+    },
+    {
+      "codigoElementoCobertura": "812332",
+      "descripcionElementoCobertura": "Lavanderías industriales"
+    },
+    {
+      "codigoElementoCobertura": "812910",
+      "descripcionElementoCobertura": "Servicios de cuidado de mascotas (excepto veterinarios)"
+    },
+    {
+      "codigoElementoCobertura": "812921",
+      "descripcionElementoCobertura": "Laboratorios de fotoacabado"
+    },
+    {
+      "codigoElementoCobertura": "812930",
+      "descripcionElementoCobertura": "Aparcamientos y garajes"
+    },
+    {
+      "codigoElementoCobertura": "812990",
+      "descripcionElementoCobertura": "Otros. Todos los otros servicios personales"
+    },
+    {
+      "codigoElementoCobertura": "813110",
+      "descripcionElementoCobertura": "Organizaciones religiosas"
+    },
+    {
+      "codigoElementoCobertura": "813211",
+      "descripcionElementoCobertura": "Fundaciones de donaciones y organizaciones de defensa social"
+    },
+    {
+      "codigoElementoCobertura": "813910",
+      "descripcionElementoCobertura": "Empresas, profesionales, laborales, políticas y similares"
+    },
+    {
+      "codigoElementoCobertura": "814110",
+      "descripcionElementoCobertura": "Servicios domésticos para el hogar"
+    },
+    {
+      "codigoElementoCobertura": "921110",
+      "descripcionElementoCobertura": "Oficinas ejecutivas, legislativas o de soporte al gobierno"
+    },
+    {
+      "codigoElementoCobertura": "922140",
+      "descripcionElementoCobertura": "Instituciones correccionales"
+    },
+    {
+      "codigoElementoCobertura": "922150",
+      "descripcionElementoCobertura": "Oficinas de libertad condicional y oficinas de libertad vigilada"
+    },
+    {
+      "codigoElementoCobertura": "922160",
+      "descripcionElementoCobertura": "Protección contra incendios"
+    },
+    {
+      "codigoElementoCobertura": "922190",
+      "descripcionElementoCobertura": "Actividades de justicia, orden público y seguridad"
+    },
+    {
+      "codigoElementoCobertura": "923110",
+      "descripcionElementoCobertura": "Administración de Programas de Recursos Humanos y Programas de Calidad Ambiental"
+    },
+    {
+      "codigoElementoCobertura": "925110",
+      "descripcionElementoCobertura": "Administración de Programas de Vivienda, Urbanismo y Desarrollo Comunitario."
+    },
+    {
+      "codigoElementoCobertura": "926110",
+      "descripcionElementoCobertura": "Administración del Programa Económico"
+    },
+    {
+      "codigoElementoCobertura": "927110",
+      "descripcionElementoCobertura": "Investigación y Tecnología Espacial"
+    },
+    {
+      "codigoElementoCobertura": "928110",
+      "descripcionElementoCobertura": "Seguridad Nacional"
+    },
+    {
+      "codigoElementoCobertura": "928120",
+      "descripcionElementoCobertura": "Asuntos Internacionales"
+    }
+  ]
+}

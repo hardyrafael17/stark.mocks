@@ -1,0 +1,49 @@
+{
+  "adressComponents": [
+    {
+      "addressComponentLongName": "Avinguda Diagonal",
+      "addressComponentShortName": "Avinguda Diagonal",
+      "addressComponentType": "route"
+    },
+    {
+      "addressComponentLongName": "Barcelona",
+      "addressComponentShortName": "Barcelona",
+      "addressComponentType": "locality"
+    },
+    {
+      "addressComponentLongName": "Barcelona",
+      "addressComponentShortName": "Barcelona",
+      "addressComponentType": "political"
+    },
+    {
+      "addressComponentLongName": "Barcelona",
+      "addressComponentShortName": "B",
+      "addressComponentType": "administrative_area_level_2"
+    },
+    {
+      "addressComponentLongName": "Barcelona",
+      "addressComponentShortName": "B",
+      "addressComponentType": "political"
+    },
+    {
+      "addressComponentLongName": "Catalunya",
+      "addressComponentShortName": "CT",
+      "addressComponentType": "administrative_area_level_1"
+    },
+    {
+      "addressComponentLongName": "Catalunya",
+      "addressComponentShortName": "CT",
+      "addressComponentType": "political"
+    },
+    {
+      "addressComponentLongName": "Spain",
+      "addressComponentShortName": "ES",
+      "addressComponentType": "country"
+    },
+    {
+      "addressComponentLongName": "Spain",
+      "addressComponentShortName": "ES",
+      "addressComponentType": "political"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "A",
+      "descripcionElementoCobertura": "Anual                         001012"
+    },
+    {
+      "codigoElementoCobertura": "S",
+      "descripcionElementoCobertura": "Semestral                     002006"
+    },
+    {
+      "codigoElementoCobertura": "T",
+      "descripcionElementoCobertura": "Trimestral                    004003"
+    },
+    {
+      "codigoElementoCobertura": "U",
+      "descripcionElementoCobertura": "Unica                         001000"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "listaOportunidad": [
+    {
+      "identificadorOportunidad": "EMZNGJIRCR794SFI",
+      "fechaEfectoOportunidad": "2022-11-11T23:00:00.000Z",
+      "primaEstimadaOportunidad": 4444,
+      "cuenta": {
+        "identificadorCuenta": "GP25725100268712",
+        "nombreCuenta": "Casa Santiveri Sl"
+      },
+      "lineaNegocio": {
+        "identificadorLineaNegocio": "ZZ01287BC6D1B6F6",
+        "nombreLineaNegocio": "General Liability"
+      },
+      "estadoOportunidad": {
+        "identificadorEstadoOportunidad": 905880001,
+        "descripcionEstadoOportunidad": "3 - Working"
+      },
+      "mediador": {
+        "identificadorMediador": "NA257CC8003F9591",
+        "nombreMediador": "MIGUEL VIZCAINO ASSEGURANCES, SL (Barcelona)"
+      },
+      "suscriptor": {
+        "identificadorSuscriptor": "EMFRM1U3J6NJRM6Y",
+        "nombreSuscriptor": "Pardo Galindo, Patricia"
+      },
+      "identificadorPoliza": "00000090828765",
+      "tipoOportunidad": {
+        "identificadorTipoOportunidad": 905880001,
+        "nombreTipoOportunidad": "Renewal"
+      }
+    }
+  ]
+}

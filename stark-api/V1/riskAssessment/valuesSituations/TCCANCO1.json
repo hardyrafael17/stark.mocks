@@ -1,0 +1,20 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "BC",
+      "descripcionElementoCobertura": "Banco"
+    },
+    {
+      "codigoElementoCobertura": "CD",
+      "descripcionElementoCobertura": "Ventanilla"
+    },
+    {
+      "codigoElementoCobertura": "CO",
+      "descripcionElementoCobertura": "Negocio Aceptado"
+    },
+    {
+      "codigoElementoCobertura": "IN",
+      "descripcionElementoCobertura": "Intermediario"
+    }
+  ]
+}

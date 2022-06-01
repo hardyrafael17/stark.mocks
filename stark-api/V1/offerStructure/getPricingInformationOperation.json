@@ -1,0 +1,14 @@
+{
+  "mpCotizacion": 0,
+  "primaComercialCotizacion": 1234,
+  "primaTecnica": 0,
+  "importeConceptosFinancieros": 0,
+  "importeBonusMalos": 0,
+  "sumaImportesTotales": 0,
+  "primaTotal": 0,
+  "importeCLEA": 0,
+  "importeCNS": 0,
+  "importeIPIS": 0,
+  "importeArbitrarioManual": 0,
+  "importeImpuestoOtrosAdicionales": 0
+}

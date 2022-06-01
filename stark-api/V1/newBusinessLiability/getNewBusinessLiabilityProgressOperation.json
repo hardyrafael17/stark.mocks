@@ -1,0 +1,186 @@
+{
+  "codigoOportunidad": "AIJQP6DIS2G5M1Q8",
+  "errors": [],
+  "fases": [
+    {
+      "codigoFaseOportunidad": "01",
+      "ordenFaseOportunidad": "0",
+      "pasos": [
+        {
+          "codigoPasoOportunidad": "01",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "02",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "03",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "04",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "05",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "06",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        }
+      ]
+    },
+    {
+      "codigoFaseOportunidad": "02",
+      "ordenFaseOportunidad": "0",
+      "pasos": [
+        {
+          "codigoPasoOportunidad": "01",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0",
+          "subPasos": [
+            {
+              "codigoPasoOportunidad": "01",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "02",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "03",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "04",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "05",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoOportunidad": "02",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "03",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0",
+          "subPasos": [
+            {
+              "codigoPasoOportunidad": "01",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "02",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "03",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "04",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoOportunidad": "04",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0",
+          "subPasos": [
+            {
+              "codigoPasoOportunidad": "01",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "02",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "03",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "04",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            },
+            {
+              "codigoPasoOportunidad": "05",
+              "estadoPasoOportunidad": "Completado",
+              "ordenPasoOportunidad": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoOportunidad": "05",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        }
+      ]
+    },
+    {
+      "codigoFaseOportunidad": "03",
+      "ordenFaseOportunidad": "0",
+      "pasos": [
+        {
+          "codigoPasoOportunidad": "01",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "02",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "03",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        },
+        {
+          "codigoPasoOportunidad": "04",
+          "estadoPasoOportunidad": "Completado",
+          "ordenPasoOportunidad": "0"
+        }
+      ]
+    },
+    {
+      "codigoFaseOportunidad": "04",
+      "ordenFaseOportunidad": "0",
+      "pasos": [
+        {
+          "codigoPasoOportunidad": "01",
+          "estadoPasoOportunidad": "En Curso",
+          "ordenPasoOportunidad": "0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "porcentajeCapacidadMaximaZurichGuidelinesGeneral": 7.5,
+  "importeCapacidadMaximaZurichGuidelinesGeneral": 37500000,
+  "importeCapacidadMaximaZurichGuidelinesConcreto": 293267.33999999997,
+  "porcentajeParticipacionGrossNet": 100,
+  "importeExposicionZurichGrossNet": 3910231.2,
+  "capacidadMaximaSuscriptor": 20000000,
+  "porcentajeParticipacionGross": 100,
+  "importeExposicionZurichGross": 3910231.2,
+  "importeEMLLineSetting": 3910231.2,
+  "porcentajeReaseguro":70,
+  "tipoContrato":"CDTICORE"
+}

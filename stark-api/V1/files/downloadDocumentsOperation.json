@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "contenidoArchivo": "http://localhost:3000/downloadpdf",
+      "nombreDocumento": "sample.pdf",
+      "tipoMimeArchivo": "application/pdf"
+    }
+  ],
+  "errors": []
+}

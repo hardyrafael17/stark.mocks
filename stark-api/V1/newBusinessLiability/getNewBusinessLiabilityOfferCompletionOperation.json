@@ -1,0 +1,41 @@
+{
+  "claveSecuenciaDomicilioTomador": "001",
+  "razonSocialMatriz": "CASA SANTIVERI PRUEBA",
+  "codigoFiliacion": "1027120545",
+  "tipoDocumento": "C",
+  "codigoNIFTomador": "B63803167",
+  "descripcionDireccionCliente": "Calle L'Escull 8 ,08034 BARCELONA BARCELONA ESPAÑA",
+  "codigoNegocio": "3200007126",
+  "codigoCondicionadoPoliza": "Condicionado R.C. EMPRESAS versión Hoteles",
+  "fechaInicioPoliza": "2021-11-04",
+  "fechaFinPoliza": "2022-11-03",
+  "duracionPoliza": "R",
+  "indicadorRenovacionAutomatica": true,
+  "indicadorParticipacionBeneficios": false,
+  "indicadorCoaseguro": false,
+  "indicadorTipoCoaseguro": "N",
+  "porcentajeCoaseguro": 0,
+  "importeLimiteGeneral": 1500000,
+  "primaNeta": 11799.97,
+  "primaTotal": 12761.68,
+  "tasaPorMil": 14.75,
+  "comisionProductoraPoliza": 0.12000000000000001,
+  "tipoCanalCobro": "BC",
+  "numeroCuentaBanco": "ES7401820999870011504710",
+  "intermediarioPagador": "0000092779",
+  "formaPago": "A",
+  "codigoTipoNegocioEmision": "D01",
+  "indicadorReciboUnico": "ReciboUnico",
+  "paisesLectura": [
+    {
+      "pais": "ESP",
+      "descripcionPais": "ESPAÑA",
+      "impuestoPais": 961.71,
+      "primaNeta": 11799.97
+    }
+  ],
+  "paisesEditables": [],
+  "aseguradosAdicionales": [],
+  "nombreTitular": "PEPE LOPEZ",
+  "cedingCompanies": []
+}

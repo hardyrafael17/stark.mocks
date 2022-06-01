@@ -1,0 +1,24 @@
+{
+  "predictions": [
+    {
+      "googlePlaceId": "EiRBdmVuaWRhIERpYWdvbmFsLCBCYXJjZWxvbmEsIEVzcGHDsWEiLiosChQKEgmdxNgPlKKkEhFycCOH463Q7xIUChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+      "streetAddress": "Avenida Diagonal, Barcelona, España"
+    },
+    {
+      "googlePlaceId": "ChIJmxv3gVCjpBIRsTVh3oG1i88",
+      "streetAddress": "Diagonal Mar Centro Comercial, Avenida Diagonal, Barcelona, España"
+    },
+    {
+      "googlePlaceId": "ChIJuRjO4nCYpBIRO_Qx1ayZyWo",
+      "streetAddress": "Diagonal DiR, Carrer de Ganduxer, Barcelona, España"
+    },
+    {
+      "googlePlaceId": "ChIJDWH6a5GipBIR1VjOxH3F6LI",
+      "streetAddress": "Diagonal, Barcelona, España"
+    },
+    {
+      "googlePlaceId": "ChIJpdy5p0WjpBIRoRvDne_4tyI",
+      "streetAddress": "Diagonal Mar, Barcelona, España"
+    }
+  ]
+}

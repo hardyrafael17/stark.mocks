@@ -1,0 +1,35 @@
+{
+  "polizas": [
+    {
+      "indicadorPoliza": "Complete",
+      "indicadorMovimientosPendientes": true,
+      "codigoPoliza": "00005073078155",
+      "versionPoliza": 0,
+      "indicadorPolizaBloqueada": "BorradoLogico",
+      "codigoTecnicoProducto": "00585",
+      "codigoComercialProducto": "00001",
+      "nombreProductora": "STARK TRDM MM",
+      "codigoEstructura": "6100",
+      "tipoMovimientoPoliza": "1",
+      "motivoMovimientoPoliza": "115",
+      "estadoPoliza": "Vigor",
+      "fechaInicioPoliza": "2022-01-15",
+      "fechaEfectoNatural": "2022-01-15",
+      "fechaEfectoMovimiento": "2022-01-15",
+      "fechaVencimiento": "2023-01-14",
+      "fechaFinEfectoOferta": "2023-01-13T23:00:00.000Z",
+      "tipoNIFTomador": "Juridica",
+      "tipoDocumento": "C",
+      "codigoNIFTomador": "B63803167",
+      "nombreTomador": "",
+      "nombreTomadorPrimerApellido": "CASA SANTIVERI SL",
+      "nombreTomadorSegundoApellido": "",
+      "intermediarioPagador": "0000006567",
+      "descripcionProductora": "BARCELONA-M.V. ASSEGURANCES,SL",
+      "tiempoUltimaModificacion": "2022-01-14-11.34.19.327501",
+      "primaTecnica": 5567.03,
+      "sumaImportesTotales": 1334.63,
+      "primaTotal": 6968.47
+    }
+  ]
+}

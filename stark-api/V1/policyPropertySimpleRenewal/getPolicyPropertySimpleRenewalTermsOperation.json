@@ -1,0 +1,498 @@
+{
+    "datosCobro": {
+        "tipoCanalCobro1Recibo": "IN",
+        "formaPago": "A",
+        "codigoIBAN": "ES7401820999870011504710",
+        "claveCobradora1Recibo": "0000004306",
+        "descripcionCobradoraPrincipal": "RENA-PUEYO MEDIACION",
+        "codigoEstructura": "6100",
+        "codigoCanalDistribucion": "0000000001",
+        "tablasCorporativas": [
+            {
+                "nombreCampo": "TCFORPAG",
+                "elementos": [
+                    {
+                        "codigoElemento": "A",
+                        "descripcionElemento": "Anual"
+                    },
+                    {
+                        "codigoElemento": "S",
+                        "descripcionElemento": "Semestral"
+                    },
+                    {
+                        "codigoElemento": "T",
+                        "descripcionElemento": "Trimestral"
+                    },
+                    {
+                        "codigoElemento": "U",
+                        "descripcionElemento": "Unica"
+                    }
+                ]
+            },
+            {
+                "nombreCampo": "TCCANCO1",
+                "elementos": [
+                    {
+                        "codigoElemento": "BC",
+                        "descripcionElemento": "Banco"
+                    },
+                    {
+                        "codigoElemento": "CD",
+                        "descripcionElemento": "Ventanilla"
+                    },
+                    {
+                        "codigoElemento": "CO",
+                        "descripcionElemento": "Negocio Aceptado"
+                    },
+                    {
+                        "codigoElemento": "IN",
+                        "descripcionElemento": "Intermediario"
+                    }
+                ]
+            }
+        ],
+        "nombreTitular": "PEPE LOPEZ",
+        "codigoFiliacion":"cod1234"
+    },
+    "prima": {
+        "porcentajeComision": 33,
+        "importeMP": 10036.64,
+        "ajusteTecnicoCotizacion": 10.12344,
+        "ajusteComercialCotizacion": 1.0321,
+        "primaNeta": 666.99,
+        "tasaPorMil": 2.098750913817794,
+        "sumaImportesTotales": 1720.5,
+        "primaTotal": 11857.49,
+        "porcentajeZrcObjetivo": 100,
+        "porcentajeZRCRenovacionAplicar": 100,
+        "porcentajeCiUR": 0
+    },
+    "coaseguro": {
+        "importeEMLLineSetting": 3910231.2,
+        "porcentajeParticipacion": 0,
+        "importeExposicionZurichGross": 0,
+        "porcentajeCoaseguro": 100,
+        "importeExposicionCoaseguro": 3910231.2,
+        "indicadorCoaseguro": false,
+        "indicadorTipoCoaseguro": "C",
+        "entidadesCedientes": [
+            {
+                "codigoFiliacion": "",
+                "codigoSecuenciaCompania": 1,
+                "porcentajeParticipacion": 0,
+                "porcentajeGastosCCS": 0,
+                "porcentajeGastosAdministracion": 0,
+                "nombreCompaniaCedente": ""
+            }
+        ],
+        "entidades": [
+            {
+                "codigoFiliacion": "0004334591",
+                "nombreCompania": "ALARCÓN ASPIAZU DE AMAT Y UNGOMORIZ Y.Y."
+            },
+            {
+                "codigoFiliacion": "0004333543",
+                "nombreCompania": "ALBIZURI ARINÑY, PIS. DE LONGODE Y OCHOTORENA"
+            },
+            {
+                "codigoFiliacion": "0004333482",
+                "nombreCompania": "ALI MUGUÍA Y.Y. BAEZABAL DE DEDEÑY"
+            },
+            {
+                "codigoFiliacion": "0004333775",
+                "nombreCompania": "ARISTEGUIETA DE FERRELI MIGUELARO, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0030239187",
+                "nombreCompania": "ARISTEGUIETA MIRANTES UNGO (DEDE) ARO.ARO."
+            },
+            {
+                "codigoFiliacion": "0012717164",
+                "nombreCompania": "ARO IRIBARREN AZPIAZU SISALDE"
+            },
+            {
+                "codigoFiliacion": "0004334567",
+                "nombreCompania": "ARO MIGUEL AMAT, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0012295905",
+                "nombreCompania": "ARO MIGUEL DE/DE MIRANTES DE YAROÑY"
+            },
+            {
+                "codigoFiliacion": "0016431546",
+                "nombreCompania": "ARO MIRANTES UNGO IRIBARREN DERAMÓN ARO"
+            },
+            {
+                "codigoFiliacion": "0019233297",
+                "nombreCompania": "ARO 1861 - BENGOECHEA ARO"
+            },
+            {
+                "codigoFiliacion": "0018967965",
+                "nombreCompania": "ARO 2007 - UNGO MANZARIAS 2007"
+            },
+            {
+                "codigoFiliacion": "0004333530",
+                "nombreCompania": "ASPIAZU BLAZQUEZ DE CASANUEVA,Y.Y. DE ROA. Y MURO."
+            },
+            {
+                "codigoFiliacion": "0004334562",
+                "nombreCompania": "ASPIAZU MIRANTES CEREIJAIS, Y.Y. DE ARO. Y UNGO."
+            },
+            {
+                "codigoFiliacion": "0029788698",
+                "nombreCompania": "BENGOECHEA DE"
+            },
+            {
+                "codigoFiliacion": "0004333548",
+                "nombreCompania": "CALZADA ARINÑPIS DE ROA., Y.Y."
+            },
+            {
+                "codigoFiliacion": "0010175563",
+                "nombreCompania": "CALZADA CASTROVIEJO DE FAJARDOMORIZ"
+            },
+            {
+                "codigoFiliacion": "0016810433",
+                "nombreCompania": "CALZADA IRIBARREN DE SISALDE"
+            },
+            {
+                "codigoFiliacion": "0015285925",
+                "nombreCompania": "CALZADA MANZARIAS 1200 ARO (DEDE MIRANTES MIGUEL SISALDE)"
+            },
+            {
+                "codigoFiliacion": "0010234197",
+                "nombreCompania": "CALZADA UNGOÑY CASTILLA OREJO,Y.Y., MIRANTES DE UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0021636720",
+                "nombreCompania": "CASTILLA MANZARIAS 1492"
+            },
+            {
+                "codigoFiliacion": "0013723562",
+                "nombreCompania": "CASTILLA MIRANTES OMENTE ARO (OREJO\u0019Y CASTILLA, MANZARIAS 4444)"
+            },
+            {
+                "codigoFiliacion": "0004333660",
+                "nombreCompania": "CASTILLA RAMÓN OMENTE, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0016646211",
+                "nombreCompania": "CASTILLA 1955 MANZARIAS MIGUEL"
+            },
+            {
+                "codigoFiliacion": "0004333486",
+                "nombreCompania": "CHAPADO                       MIGUEL                        JOAN"
+            },
+            {
+                "codigoFiliacion": "0031142400",
+                "nombreCompania": "DE IRIBARREN (MIGUEL) Y.Y. AROOREJO DE UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0012780432",
+                "nombreCompania": "DE MANZARIAS FAJARDO ARO,ARO.YAROÑY"
+            },
+            {
+                "codigoFiliacion": "0016645926",
+                "nombreCompania": "DE UNGO 2526 MANZARIAS OREJO`Y"
+            },
+            {
+                "codigoFiliacion": "0004334644",
+                "nombreCompania": "ESTEVE ARINÑY ASPIAZU Y UGARTERANO Y.Y."
+            },
+            {
+                "codigoFiliacion": "0014993704",
+                "nombreCompania": "FAJARDO MAEZTU BRICIANOS & AROGAMERO DE"
+            },
+            {
+                "codigoFiliacion": "0004333516",
+                "nombreCompania": "FERRO ASPIAZU CANIZARES Y.Y."
+            },
+            {
+                "codigoFiliacion": "0016646314",
+                "nombreCompania": "FONTIVEROS 2468 MANZARIAS AMATDE"
+            },
+            {
+                "codigoFiliacion": "0004333537",
+                "nombreCompania": "FORCADA ARO.DE ARO.Y MIGUEL."
+            },
+            {
+                "codigoFiliacion": "0028309455",
+                "nombreCompania": "FORCADA IRIBARREN ARO, CHAPADOY DE UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0029171467",
+                "nombreCompania": "GAMERO VINAMBRES DE BAEZABAL YY ARINÑY"
+            },
+            {
+                "codigoFiliacion": "0031082106",
+                "nombreCompania": "IRIBARREN CASTILLA MIRANTES DEARO.ARO ARO UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0031125755",
+                "nombreCompania": "IRIBARREN MIRANTES UNGO Y.Y.Y"
+            },
+            {
+                "codigoFiliacion": "0012403050",
+                "nombreCompania": "LADRADA MIGUEL MON.DE.ARO.ARO.UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0004333474",
+                "nombreCompania": "LAHOZ ASPIAZU Y UNGOÉMOJÓN, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0004333532",
+                "nombreCompania": "LORZA, ARO. ASPIAZU Y AGRA."
+            },
+            {
+                "codigoFiliacion": "0004333444",
+                "nombreCompania": "LOSSADA, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0004333592",
+                "nombreCompania": "MAZÓN ASPIAZU"
+            },
+            {
+                "codigoFiliacion": "0004334671",
+                "nombreCompania": "MIGUEL AMAT, ASPIAZU"
+            },
+            {
+                "codigoFiliacion": "0012735976",
+                "nombreCompania": "MIGUEL ARRATEGUIBEL ARO (DEÑDEUNGO ARO 1183)"
+            },
+            {
+                "codigoFiliacion": "0015613768",
+                "nombreCompania": "MIGUEL IRIBARREN ARO OMENTE DEUNGO"
+            },
+            {
+                "codigoFiliacion": "0004333554",
+                "nombreCompania": "MIGUEL IRIBARREN ARO, MIRANTES DE UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0002274053",
+                "nombreCompania": "MIGUEL OREJO DE ARO.Y MORIZ DEDE"
+            },
+            {
+                "codigoFiliacion": "0031290869",
+                "nombreCompania": "MIGUEL Y.Y ARO. UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0004333493",
+                "nombreCompania": "MIGUEL, Y.Y. DE ASPIAZU"
+            },
+            {
+                "codigoFiliacion": "0004333523",
+                "nombreCompania": "MIRANTES ARO MORIZ DE DE ARO.YUNGO."
+            },
+            {
+                "codigoFiliacion": "0004333475",
+                "nombreCompania": "MOBELLAN, PIS. DE ASPIAZU"
+            },
+            {
+                "codigoFiliacion": "0013397210",
+                "nombreCompania": "MON 1919 - Y Y MORÓN - MORÓN YCANADAS OMENTE SISALDE"
+            },
+            {
+                "codigoFiliacion": "0018929244",
+                "nombreCompania": "MORIZ DE MIRANTES UNGO Y.Y."
+            },
+            {
+                "codigoFiliacion": "0016646376",
+                "nombreCompania": "MORIZ MANZARIAS MIRANTES"
+            },
+            {
+                "codigoFiliacion": "0004467528",
+                "nombreCompania": "MORIZ MIGUEL MIGUEL Y.Y.ARO.DEDEÑY"
+            },
+            {
+                "codigoFiliacion": "0012033892",
+                "nombreCompania": "MORIZ OREJO VILLARMERÍN (DE) YDE."
+            },
+            {
+                "codigoFiliacion": "0030893350",
+                "nombreCompania": "MORÓN MIGUEL IRIBARREN ARO"
+            },
+            {
+                "codigoFiliacion": "0007227474",
+                "nombreCompania": "MOTA ASPIAZU, Y.Y. DE ASPIAZU Y OCHOTORENA"
+            },
+            {
+                "codigoFiliacion": "0004334068",
+                "nombreCompania": "OMENTE AMAT, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0018929228",
+                "nombreCompania": "OMENTE IRIBARREN AZPIAZU(DE)"
+            },
+            {
+                "codigoFiliacion": "0030233967",
+                "nombreCompania": "OMENTE IRIBARREN DE (DE MIGUEL)"
+            },
+            {
+                "codigoFiliacion": "0031991366",
+                "nombreCompania": "OMENTE OREJO MANZARIAS AZPIAZU(MIGUEL)"
+            },
+            {
+                "codigoFiliacion": "0016646168",
+                "nombreCompania": "OMENTE 3000 MANZARIAS MIGUEL"
+            },
+            {
+                "codigoFiliacion": "0004334668",
+                "nombreCompania": "OREJO"
+            },
+            {
+                "codigoFiliacion": "0004334586",
+                "nombreCompania": "OREJO OREJO MIGUEL-CASTILLA"
+            },
+            {
+                "codigoFiliacion": "0004333558",
+                "nombreCompania": "ORTIZ LAINCERA OLLOA DE MORETADE DE ARINÑY"
+            },
+            {
+                "codigoFiliacion": "0004333601",
+                "nombreCompania": "PATO OJERO ASPIAZU CANIZARES YCHAS Y.Y. DE ROA. Y UGARTE."
+            },
+            {
+                "codigoFiliacion": "0004333512",
+                "nombreCompania": "PIS ASPIAZU Y OCHOTORENA DE."
+            },
+            {
+                "codigoFiliacion": "0014846119",
+                "nombreCompania": "PIS GOROSTIETA, Y.Y BAEZABAL YY ARINÑY"
+            },
+            {
+                "codigoFiliacion": "0004333565",
+                "nombreCompania": "PIS ZARZOSA BARQUERÍN, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0004333310",
+                "nombreCompania": "RETORTILLO ARO MIRANTES Y.Y. YSANTIANES Y.Y.Y."
+            },
+            {
+                "codigoFiliacion": "0031518463",
+                "nombreCompania": "RETORTILLO ARRATEGUIBEL DE"
+            },
+            {
+                "codigoFiliacion": "0004333656",
+                "nombreCompania": "RIOJA ARO, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0004334578",
+                "nombreCompania": "RIOJA ZARZOSA"
+            },
+            {
+                "codigoFiliacion": "0004338951",
+                "nombreCompania": "ROA, MUGUÍA DE BAEZABAL DE ROAYÑY"
+            },
+            {
+                "codigoFiliacion": "0012736275",
+                "nombreCompania": "ROMÁN DE"
+            },
+            {
+                "codigoFiliacion": "0015262696",
+                "nombreCompania": "ROMÁN IRIBARREN (DE) SISALDE"
+            },
+            {
+                "codigoFiliacion": "0015243787",
+                "nombreCompania": "ROMÁN IRIBARREN (MIGUEL) DE"
+            },
+            {
+                "codigoFiliacion": "0004333608",
+                "nombreCompania": "ROMÁN OREJO DE ASPIAZU FORCADADE"
+            },
+            {
+                "codigoFiliacion": "0013330082",
+                "nombreCompania": "SAHUQUILLO SANTIANES DE ARO.Y.Y. ARO. UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0032001523",
+                "nombreCompania": "SISALDE BLAZQUEZ FELIPEZ DE DEOREJO"
+            },
+            {
+                "codigoFiliacion": "0004333451",
+                "nombreCompania": "TORREGROSA LOSSADA, Y.Y. DE DEBAYON Y OCHOTORENA"
+            },
+            {
+                "codigoFiliacion": "0004333557",
+                "nombreCompania": "UNGO AMAT"
+            },
+            {
+                "codigoFiliacion": "0012712517",
+                "nombreCompania": "UNGO BENGOECHEA SISALDE"
+            },
+            {
+                "codigoFiliacion": "0010113238",
+                "nombreCompania": "UNGO CHAPADO FERRELI MANZARIASUNGO, Y.Y."
+            },
+            {
+                "codigoFiliacion": "0012126270",
+                "nombreCompania": "UNGO IRIBARREN AZPIAZU (MIGUEL) SISALDE"
+            },
+            {
+                "codigoFiliacion": "0029854407",
+                "nombreCompania": "UNGO IRIBARREN MIGUEL DE"
+            },
+            {
+                "codigoFiliacion": "0012183677",
+                "nombreCompania": "UNGO MIRANTES MIGUEL SISALDE"
+            },
+            {
+                "codigoFiliacion": "0004333581",
+                "nombreCompania": "UNGO OREJO ASPIAZU IRIBARREN YAMAT Y.Y. DE ARO. Y MIGUEL."
+            },
+            {
+                "codigoFiliacion": "0020840799",
+                "nombreCompania": "UNGOÉMORÓN IRIBARREN MIRANTES UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0018082338",
+                "nombreCompania": "UNGOÉROMÁN IRIBARREN AZPIAZU YDE"
+            },
+            {
+                "codigoFiliacion": "0029394683",
+                "nombreCompania": "UNGOÉROMÁN OMENTE. UNGO. ARO. UNGOÑY"
+            },
+            {
+                "codigoFiliacion": "0009044616",
+                "nombreCompania": "VALENCINA ARRATEGUIBEL ARO. DEDEÑY"
+            },
+            {
+                "codigoFiliacion": "0002311104",
+                "nombreCompania": "VALENCINA,Y.Y.DE ASPIAZU Y AROASPIAZU"
+            },
+            {
+                "codigoFiliacion": "0004333665",
+                "nombreCompania": "VILLARMERÍN IRIBARREN AMAT.MONUNGO"
+            },
+            {
+                "codigoFiliacion": "0017122097",
+                "nombreCompania": "Y.Y. ASTOZAS IRIBARREN (MIGUEL) SISALDE"
+            },
+            {
+                "codigoFiliacion": "0021731334",
+                "nombreCompania": "Y.Y.ASTOZAS MIGUEL DE MIRANTESDE UNGOÑY"
+            }
+        ],
+        "tablasCorporativas": [
+            {
+                "nombreCampo": "INTICOAS",
+                "elementos": [
+                    {
+                        "codigoElemento": "A",
+                        "descripcionElemento": "Aceptado"
+                    },
+                    {
+                        "codigoElemento": "C",
+                        "descripcionElemento": "Cedido"
+                    },
+                    {
+                        "codigoElemento": "N",
+                        "descripcionElemento": "Sin Coaseguro"
+                    }
+                ]
+            }
+        ],
+        "indicadorReciboUnico": "ReciboUnico"
+    },
+    "narrative": {
+        "descripcionRationale": ""
+    }
+}

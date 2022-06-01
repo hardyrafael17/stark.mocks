@@ -1,0 +1,12 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "R",
+      "descripcionElementoCobertura": "Renovable"
+    },
+    {
+      "codigoElementoCobertura": "T",
+      "descripcionElementoCobertura": "Temporal"
+    }
+  ]
+}

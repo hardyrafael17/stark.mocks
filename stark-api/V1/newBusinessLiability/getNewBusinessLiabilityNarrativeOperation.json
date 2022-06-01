@@ -1,0 +1,116 @@
+{
+  "actividad": {
+    "descripcionRationale": "ACTIVIDAD"
+  },
+  "capacidad": {
+    "descripcionRationale": "CAPACIDAD"
+  },
+  "capacidadMaximaSuscriptor": 1,
+  "coaseguro": {
+    "descripcionRationale": "COASEGURO"
+  },
+  "codigoApetitoRiesgo": "CDAPETRI",
+  "codigoNaic": "CDACNAIC",
+  "cotizacion": {
+    "descripcionRationale": "COTIZACION"
+  },
+  "descripcionAgrupacion": "DSAGRUPA",
+  "energy": {
+    "descripcionRationale": "ENERGY"
+  },
+  "exportacionesUSA": {
+    "descripcionRationale": "USA"
+  },
+  "fechaVencimientoLTA": "2021-04-21",
+  "importeLimiteGeneral": 2,
+  "longTermAgreement": {
+    "descripcionRationale": "LTA"
+  },
+  "nombreNaic": "DSANAIC",
+  "pricingGPP": {
+    "descripcionRationale": "PRICING"
+  },
+  "primaQuoted": 3,
+  "primaTotal": 4,
+  "reaseguro": {
+    "descripcionRationale": "REASEGURO"
+  },
+  "relacionComercial": {
+    "descripcionRationale": "RELACION_COMERCIAL"
+  },
+  "renovacion": {
+    "descripcionRationale": "RENOVACION"
+  },
+  "riskGrading": {
+    "descripcionRationale": "RISKGRADING"
+  },
+  "siniestralidad": {
+    "descripcionRationale": "SINIESTRALIDAD"
+  },
+  "situaciones": [
+    {
+      "codigoNaic": "CDACNAIC",
+      "codigoObjetoSituaciones": "007",
+      "codigoPais": "ESP",
+      "codigoSecuenciaSituaciones": 2,
+      "descripcionRationale": "Spain",
+      "nombreNaic": "DSANAIC",
+      "solucionInternacional": "DSSOLINT"
+    },
+    {
+      "codigoNaic": "CDACNAIC",
+      "codigoObjetoSituaciones": "007",
+      "codigoPais": "FRA",
+      "codigoSecuenciaSituaciones": 3,
+      "descripcionRationale": "France",
+      "nombreNaic": "DSANAIC",
+      "solucionInternacional": "DSSOLINT"
+    },
+    {
+      "codigoNaic": "CDACNAIC",
+      "codigoObjetoSituaciones": "007",
+      "codigoPais": "DEU",
+      "codigoSecuenciaSituaciones": 5,
+      "descripcionRationale": "Germany",
+      "nombreNaic": "DSANAIC",
+      "solucionInternacional": "DSSOLINT"
+    },
+    {
+      "codigoNaic": "CDACNAIC",
+      "codigoObjetoSituaciones": "007",
+      "codigoPais": "ITA",
+      "codigoSecuenciaSituaciones": 7,
+      "descripcionRationale": "Italy",
+      "nombreNaic": "DSANAIC",
+      "solucionInternacional": "DSSOLINT"
+    }
+  ],
+  "stackingAndClash": {
+    "descripcionRationale": "STACKINGANDCLASH"
+  },
+  "tasaPorMil": 5,
+  "tipoCondicionadoPoliza": "CDORIGED",
+  "wholeAccountView": {
+    "descripcionRationale": "WHOLE_ACCOUNT_VIEW"
+  },
+  "wording": {
+    "descripcionRationale": "WORDING"
+  },
+  "wordingDeviations": [
+    {
+      "wordingDeviation": "Lorem"
+    },
+    {
+      "wordingDeviation": "ipsum"
+    },
+    {
+      "wordingDeviation": "dolor"
+    },
+    {
+      "wordingDeviation": "sit"
+    },
+    {
+      "wordingDeviation": "amet"
+    }
+  ]
+}

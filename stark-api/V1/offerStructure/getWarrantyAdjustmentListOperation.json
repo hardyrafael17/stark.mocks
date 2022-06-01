@@ -1,0 +1,46 @@
+{
+  "ajusteTecnicoCotizacion": 25835.92,
+  "listaAjusteGarantias": [
+    {
+      "codigoGarantia": "0000003224",
+      "nombreGarantia": "TODO RIESGO DAÑOS MATERIALES",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003225",
+      "nombreGarantia": "PB  TODO RIESGO DAÑOS MATERIALES",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003226",
+      "nombreGarantia": "BIENES REFRIGERADOS",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003227",
+      "nombreGarantia": "AVERIA INTERNA (MAQUINARIA)",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003228",
+      "nombreGarantia": "ROBO TODO RIESGO DAÑOS MATERIALES",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003233",
+      "nombreGarantia": "COBERTURAS OPCIONALES DAÑOS MATERIALES",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003236",
+      "nombreGarantia": "AVERIA INTERNA (EQ.ELECTRONICOS)",
+      "descuentoTecnicoGarantia": 0
+    },
+    {
+      "codigoGarantia": "0000003293",
+      "nombreGarantia": "TRDM LIMITES MAXIM. PLANTILLA DOCUM",
+      "descuentoTecnicoGarantia": 0
+    }
+  ],
+  "errors": []
+}

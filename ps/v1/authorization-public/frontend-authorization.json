@@ -1,0 +1,327 @@
+{
+  "permissions": {
+    "abilities": [
+      { "abilitySubject": "Button", "abilityActions": ["create", "read"] }
+    ],
+    "routes": [
+      {
+        "flowName": "RiskAssessmentViews",
+        "path": "/riskAssessment-views",
+        "component": "../layout/default-layout.vue",
+        "redirect": null,
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "RiskAssessmentFlow",
+            "path": "risk-assessment-flow",
+            "component": "../flows/risk-assessment/risk-assessment-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "OfferStructureViews",
+        "path": "/offerStructure-views",
+        "component": "../layout/default-layout.vue",
+        "redirect": null,
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "OfferStructureFlow",
+            "path": "offer-structure-flow",
+            "component": "../flows/offer-structure/offer-structure-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "Error",
+        "path": "/error",
+        "component": "../layout/default-public-layout.vue",
+        "redirect": "/error/404",
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": null,
+            "path": "404",
+            "component": "../flows/ea/error/ea-not-found-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "FlowViews",
+        "path": "/flows-views",
+        "component": "../layout/default-layout.vue",
+        "redirect": "/flows-views/opportunity-flow",
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "OpportunityFlow",
+            "path": "opportunity-flow",
+            "component": "../flows/opportunity/opportunity-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "PoliciesRoutes",
+        "path": "/policies",
+        "component": "../layout/default-layout.vue",
+        "redirect": null,
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "PolicySupplementsDocumentationFlow",
+            "path": ":policyId/versions/:version/supplements/documentation/",
+            "component": "../flows/policy/supplements/progress/documentation/documentation-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "PolicyFinderFlow",
+            "path": "/policies/",
+            "component": "../flows/policy/finder/policy-finder-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "PolicySupplementsRiskAssessmentFlow",
+            "path": ":policyId/versions/:version/supplements/risk-assessment/",
+            "component": "../flows/policy/supplements/progress/risk-assessment/risk-assessment-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "PolicyPropertySimpleRenewalFlow",
+            "path": ":policyId/versions/:version/property-simple-renewal/",
+            "component": "../flows/policy/lobs/property/renewal/simple/policy-property-simple-renewal-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "PolicySupplementsGeneralInformationFlow",
+            "path": ":policyId/versions/:version/supplements/general-information/",
+            "component": "../flows/policy/supplements/progress/general-information/general-information-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "OfferCompletionViews",
+        "path": "/offerCompletion-views",
+        "component": "../layout/default-layout.vue",
+        "redirect": null,
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "OfferCompletionFlow",
+            "path": "offer-completion-flow",
+            "component": "../flows/offer-completion/offer-completion-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "InfoGatheringViews",
+        "path": "/infoGathering-views",
+        "component": "../layout/default-layout.vue",
+        "redirect": "/infoGathering-views/info-gathering-flow",
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "InfoGatheringFlow",
+            "path": "info-gathering-flow",
+            "component": "../flows/info-gathering/info-gathering-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "HomeBase",
+        "path": "/",
+        "component": "../layout/default-layout.vue",
+        "redirect": "/flows-views/opportunity-flow",
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "HomeFlow",
+            "path": "home",
+            "component": "../flows/home/home-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "NewBusinessesRoutes",
+        "path": "/new-businesses",
+        "component": "../layout/default-layout.vue",
+        "redirect": null,
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "NewBusinessLiabilityFlow",
+            "path": "liability/opportunities/:opportunityId",
+            "component": "../flows/new-business/liability/new-business-liability-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      },
+      {
+        "flowName": "Security",
+        "path": "/sec",
+        "component": "../layout/default-public-layout.vue",
+        "redirect": "/sec/logout",
+        "props": false,
+        "isPublic": false,
+        "skipMultiOperation": false,
+        "children": [
+          {
+            "flowName": "EALoginFlow",
+            "path": "login",
+            "component": "../flows/ea/security/ea-login-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "EASessionExpiredFlow",
+            "path": "session-expired",
+            "component": "../flows/ea/security/ea-session-expired-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "EAUnauthorizedFlow",
+            "path": "unauthorized",
+            "component": "../flows/ea/security/ea-unauthorized-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "EALogoutFlow",
+            "path": "logout",
+            "component": "../flows/ea/security/ea-logout-flow.vue",
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          },
+          {
+            "flowName": "EADoLoginAction",
+            "path": "do-login",
+            "component": null,
+            "redirect": null,
+            "props": false,
+            "isPublic": false,
+            "skipMultiOperation": false
+          }
+        ]
+      }
+    ],
+    "menus": [
+      {
+        "menuTitle": "Home",
+        "flowName": "HomeFlow",
+        "path": "home",
+        "iconName": "anticon icon-home",
+        "url": null,
+        "menuType": "Flow"
+      },
+      {
+        "menuTitle": "Gestión de Oportunidad",
+        "flowName": null,
+        "path": null,
+        "iconName": "el-icon-search",
+        "url": null,
+        "menuType": "Group",
+        "children": [
+          {
+            "menuTitle": "Gestión de Oportunidad",
+            "flowName": "OpportunityFlow",
+            "path": "opportunity-flow",
+            "iconName": null,
+            "url": null,
+            "menuType": "Flow"
+          }
+        ]
+      },
+      {
+        "menuTitle": "Gestión de Carteras",
+        "flowName": null,
+        "path": null,
+        "iconName": "el-icon-suitcase",
+        "url": null,
+        "menuType": "Group",
+        "children": [
+          {
+            "menuTitle": "Gestión de Carteras",
+            "flowName": "PolicyFinderFlow",
+            "path": "/policies/",
+            "iconName": null,
+            "url": null,
+            "menuType": "Flow"
+          }
+        ]
+      }
+    ]
+  }
+}

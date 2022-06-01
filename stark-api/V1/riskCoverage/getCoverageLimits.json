@@ -1,0 +1,2976 @@
+{
+  "garantias": [
+    {
+      "id": "0000003269",
+      "description": "RC DE EXPLOTACION",
+      "save": "selected",
+      "optional": "required",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INRCEXPL",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMIEX",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIMAEX",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQEXM",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQEXM",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINEXM",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXEXM",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQEXC",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQEXC",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINEXC",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXEXC",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INBEMVI",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIBEMP",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIABEM",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRBEMP",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRBEMP",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINEMP",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXEMP",
+          "garantiaId": "0000003269",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000003296",
+      "description": "AMPLIACIONES RC EXPLOTACION",
+      "save": "selected",
+      "optional": "suggested",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INLOCATA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMLOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIALOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQLOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQLOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINLOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXLOC",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INTECPLA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "INBIENES",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIBCON",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIABCU",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRBCON",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRBCON",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINCON",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXCON",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INDAELTR",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLITRAB",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIATRA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRTRAB",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQTRA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINTRA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXTRA",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLISOBJ",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999.999
+        },
+        {
+          "id": "INPRODAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMDAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIADAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQDAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQDAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINDAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXDAT",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INRAYOSX",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMRAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIARAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQRAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQRAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINRAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXRAY",
+          "garantiaId": "0000003296",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Organización de Espectáculos Públicos",
+          "id": "INESPUBL",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Suministro y distribución de agua",
+          "id": "INSUAGUA",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "RC Publicitaria",
+          "id": "INPUBLI",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Titularidad y explotación de teatros, museos, Cines o instalaciones deportivas",
+          "id": "INTEATRO",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Servicio retirada de vehículos de la vía pública",
+          "id": "INRETVEH",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Depósitos municipales",
+          "id": "INDEPMUN",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "RC Titular de Coto",
+          "id": "INCOTOS",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "_comment": "Daño Mora",
+          "id": "INDMORAL",
+          "garantiaId": "0000003241",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000003238",
+      "description": "RC EXPLOTACION OTRAS AMPLIACIONES",
+      "save": "selected",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INBUQUES",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMBUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIABUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQBUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQBUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINBUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXBUQ",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INDRONES",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "NUMDRON",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999
+        },
+        {
+          "id": "NUPESDRO",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "TXUSODRO",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "",
+          "type": "N"
+        },
+        {
+          "id": "IMLIDRON",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIADRO",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRDRON",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRDRON",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINDRO",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXDRO",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRDROC",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRDROC",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMIDROC",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMADROC",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INFASUMI",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMSUM",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIASUM",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRFASU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRFASU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINFAS",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXFAS",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INPPPSUM",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPSU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INDADPR",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIDPUB",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIADPU",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INONDAS",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIONDA",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAOND",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRONDA",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRONDA",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINOND",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXOND",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDAMTOND",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": "50",
+          "type": "T",
+          "table": "KT8F01G",
+          "options": ["50", "51"]
+        },
+        {
+          "id": "NUMESCL",
+          "garantiaId": "0000003238",
+          "required": true,
+          "readonly": true,
+          "value": 12,
+          "type": "I",
+          "min": 0,
+          "max": 999
+        }
+      ]
+    },
+    {
+      "id": "0000003240",
+      "description": "RC EXPLOTACION HOTELES",
+      "save": "modifiable",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INCAJHOT",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLICAHO",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAHOT",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIOHOT",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRCAHO",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRCAHO",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINCAH",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXCAH",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INCAJHAB",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLICAHA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIACAJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIHABI",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRCAHA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRCAHA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINCHA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXCHA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INOBJHAB",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIOBJH",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAOBJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIOHAB",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQOBJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQOBJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINOBJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXOBJ",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INLAVAND",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIALAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIOLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXLAV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INOBJVEH",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIOBVV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXOBV",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INAPARCA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLAAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIOAPA",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMIAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAAPAR",
+          "garantiaId": "0000003240",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000000312",
+      "description": "RESP.CIVIL CONTAMINACION ACCIDENTAL",
+      "save": "selected",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INCONACC",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLICONT",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIACON",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRCONT",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRCONT",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINCNT",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXCNT",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDATERCA",
+          "garantiaId": "0000000312",
+          "required": true,
+          "readonly": false,
+          "value": "1",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3"]
+        }
+      ]
+    },
+    {
+      "id": "0000003221",
+      "description": "RC ACCIDENTES DE TRABAJO",
+      "save": "selected",
+      "optional": "suggested",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INACCTRA",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIACTR",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAATR",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CPLIMVIC",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": false,
+          "value": 1500,
+          "type": "I",
+          "min": 0,
+          "max": 999999999.999
+        },
+        {
+          "id": "IMFRACTR",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRACTR",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINACT",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXACT",
+          "garantiaId": "0000003221",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000003146",
+      "description": "PRODUCTOS / TRABAJOS ENTREGADOS",
+      "save": "selected",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INRCPROD",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIPROD",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAPRO",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 1500000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRPROM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRPROM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPRM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPRM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRPROC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 25000,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRPROC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPDC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPDC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDATERPR",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": "3",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3", "4"]
+        },
+        {
+          "id": "IMEXPROW",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INUNYMEZ",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXUNI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INGTOMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXMON",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDATERMO",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": "",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3", "4"]
+        },
+        {
+          "id": "INLICOGR",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "INRETPRD",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIRETI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIARET",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRRETI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRRETI",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINRET",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXRET",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDATERRP",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": "",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3", "4"]
+        },
+        {
+          "id": "INEXPORT",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMEXPORT",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INEXPIND",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIEXPO",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAUSA",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFREXPM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFREXPM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINEXP",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXEXP",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFREXPC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFREXPC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINEDC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXEDC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INVENDOR",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMVEN",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAVEN",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQVEM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQVEM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINVEM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXVEM",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQVEC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQVEC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINVEC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXVEC",
+          "garantiaId": "0000003146",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000000308",
+      "description": "RESP.CIVIL PROFESIONAL",
+      "save": "modifiable",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INRCPROF",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIPROF",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAPRF",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRPRFM",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRPRFM",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPRF",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPRF",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRPRFC",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRPRFC",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPRC",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPRC",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "INSUBMED",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMSME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIASME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRQSME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRQSME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINSME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXSME",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDAMTPRO",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": "50",
+          "type": "T",
+          "table": "KT8F01G",
+          "options": ["50", "51"]
+        },
+        {
+          "id": "NUMESCL",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": true,
+          "value": 12,
+          "type": "I",
+          "min": 0,
+          "max": 999
+        },
+        {
+          "id": "CDATERPI",
+          "garantiaId": "0000000308",
+          "required": true,
+          "readonly": false,
+          "value": "",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3"]
+        }
+      ]
+    },
+    {
+      "id": "0000003270",
+      "description": "RC ENTRE ASEGURADOS",
+      "save": "modifiable",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INRECASG",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIREAS",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIARCA",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRREAS",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRREAS",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINREA",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXREA",
+          "garantiaId": "0000003270",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000003271",
+      "description": "PERJUICIOS PATRIMONIALES PUROS",
+      "save": "modifiable",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INPATPUR",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": true,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIPATR",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIAPAT",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMFRPATR",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "POFRPATP",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 100
+        },
+        {
+          "id": "IMMINPAT",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMMAXPAT",
+          "garantiaId": "0000003271",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        }
+      ]
+    },
+    {
+      "id": "0000003169",
+      "description": "LIBERACION DE GASTOS",
+      "save": "modifiable",
+      "optional": "optional",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003169",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INLIBERG",
+          "garantiaId": "0000003169",
+          "required": true,
+          "readonly": false,
+          "value": "N",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        },
+        {
+          "id": "IMLIMLIB",
+          "garantiaId": "0000003169",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "IMLIALIB",
+          "garantiaId": "0000003169",
+          "required": true,
+          "readonly": false,
+          "value": 0,
+          "type": "I",
+          "min": 0,
+          "max": 999999999
+        },
+        {
+          "id": "CDATERLG",
+          "garantiaId": "0000003169",
+          "required": true,
+          "readonly": false,
+          "value": "1",
+          "type": "T",
+          "table": "KT8F1DG",
+          "options": ["1", "2", "3"]
+        }
+      ]
+    },
+    {
+      "id": "0000003145",
+      "description": "DIRECCION JURIDICA",
+      "save": "selected",
+      "optional": "required",
+      "coberturas": [
+        {
+          "id": "PORDCOMI",
+          "garantiaId": "0000003145",
+          "required": true,
+          "readonly": true,
+          "value": 0,
+          "type": "I",
+          "min": -99,
+          "max": 99999.999
+        },
+        {
+          "id": "INDIRJUR",
+          "garantiaId": "0000003145",
+          "required": true,
+          "readonly": true,
+          "value": "S",
+          "type": "T",
+          "table": "KTCTSNG",
+          "options": []
+        }
+      ]
+    }
+  ]
+}

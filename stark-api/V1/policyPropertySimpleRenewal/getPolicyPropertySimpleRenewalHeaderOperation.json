@@ -1,0 +1,64 @@
+{
+    "polizas": [
+        {
+            "indicadorPoliza": "Complete",
+            "codigoPoliza": "00005072704306",
+            "versionPoliza": 0,
+            "nombreCliente": "CASA SANTIVERI SL",
+            "nombreLineaNegocio": "STARK TRDM MM",
+            "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+            "fechaVencimiento": "2021-05-22",
+            "numeroDiasPreaviso": -146,
+            "primaNeta": 6032.29,
+            "numeroTierPoliza": 1,
+            "porcentajeLossRatio": 0,
+            "indicadorRenovacionAutomatica": true,
+            "porcentajeZrcObjetivo": 0,
+            "nombreSuscriptor": "De mier Macho, Carlota",
+            "fechaEfectoNatural": "2020-05-23",
+            "fechaPreaviso": "2021-03-23",
+            "porcentajeRetencion": 0
+        }
+    ],
+    "sumasAseguradas": [
+        {
+            "versionRenovacion": 4830011,
+            "versionUltimaCartera": 4830011
+        }
+    ],
+    "situaciones": [
+        {
+            "codigoSecuenciaSituaciones": 1,
+            "nombreAsegurado": "CONDIS",
+            "codigoAnalisisCompleto": "9",
+            "numeroGradingCombinado": 0,
+            "emlTotal": 1885782,
+            "codigoHazardGradeFlexa": "4",
+            "sumaAsegurada": 1571485
+        },
+        {
+            "codigoSecuenciaSituaciones": 2,
+            "nombreAsegurado": "CONDIS",
+            "codigoAnalisisCompleto": "9",
+            "numeroGradingCombinado": 0,
+            "emlTotal": 3910231.2,
+            "codigoHazardGradeFlexa": "4",
+            "sumaAsegurada": 3258526
+        }
+    ],
+    "siniestralidad": [],
+    "porcentajeDensidad": 0,
+    "oarqr": 0,
+    "porcentajeDensidadRequerida": 40,
+    "codigoHazardGrade": "4",
+    "pricing": {
+        "primaTotal": 7297.62,
+        "primaNeta": 6032.29,
+        "consorcioDmAutomatico": 843.05,
+        "consorcioPbAutomatico": 51.3,
+        "primaModelPrice": 6032.29,
+        "porcentajeApMp": 1
+    },
+    "importeCapacidadMaximaZurichGuidelinesConcreto": 586534.6799999999,
+    "importeExposicionZurichGrossNet": 3910231.2
+}

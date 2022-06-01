@@ -1,0 +1,29 @@
+{
+  "informacionBasica": {
+  "nombreCliente": "CASA SANTIVERI SL",
+  "nombreLineaNegocio": "Property",
+  "codigoPoliza":"00005072709586",
+  "fechaVencimiento": ""
+   },
+   "colocacion": {
+     "descripcionTipoMovimientoSiniestro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique.'",
+     "descripcionMotivoMovimientoSiniestro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique.",
+     "fechaEfectoMovimiento": "2022-07-11T22:00:00.000Z"
+   },
+   "detalleRiesgo": {
+     "nombreNaic": "DSANAIC",
+     "exclusiones": ["Exclusion1", "Exclusion2", "Exclusion3", "Exclusion4"],
+     "descripcionExclusion": "Descripcion Exclusion",
+     "sumaAsegurada": 56413215,
+     "indicadorRegularizacion": true
+   },
+   "estrategia": {
+     "descripcionEstrategiaRenovacionDirecto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique.",
+     "descripcionCambiosCuadroDirecto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique.",
+     "descripcionCambiosRiesgoLimitesCoberturasFranquicias": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique."
+   },
+   "primaCoste": {
+     "descripcionFormaPago": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices tempus efficitur. Maecenas eu risus in ex rhoncus cursus. Nunc vulputate aliquam justo, id mollis neque ullamcorper ac. Ut justo tortor, tempus eget velit quis, convallis convallis odio. Aliquam consectetur tellus dolor, quis venenatis turpis molestie at. Curabitur commodo ante at velit consectetur tincidunt. Duis et rhoncus tellus, et euismod nulla. Ut a mattis mauris. Duis porttitor scelerisque sodales. Praesent auctor arcu sit amet imperdiet tristique.",
+     "descripcionMediador": "BARCELONA-M.V. ASSEGURANCES,SL"
+   }
+ }

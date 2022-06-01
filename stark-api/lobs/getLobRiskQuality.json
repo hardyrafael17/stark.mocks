@@ -1,0 +1,22 @@
+{
+  "occurrences": [
+    {
+      "address": "CASA SANTIVERI                          CasaBarcelona",
+      "gradingDm": 101,
+      "gradingBi": 143,
+      "gradingCombined": 115.7,
+      "emlDaosMateria": 24628846,
+      "pmlDaosMateria": 0,
+      "emlPb": 475030
+    },
+    {
+      "address": "CASA SANTIVERI                          CasaPeñafiel",
+      "gradingDm": 102,
+      "gradingBi": 143,
+      "gradingCombined": 116.35,
+      "emlDaosMateria": 16747193,
+      "pmlDaosMateria": 0,
+      "emlPb": 4933454
+    }
+  ]
+}

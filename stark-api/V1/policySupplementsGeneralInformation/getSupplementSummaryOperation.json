@@ -1,0 +1,35 @@
+{
+  "fechaEfectoMovimiento": "2022-05-23",
+  "fechaVencimiento": "2023-05-22",
+  "tipoMovimientoPoliza": "8",
+  "motivoMovimientoPoliza": "581",
+  "primaTecnica": 5948.76,
+  "sumaImportesTotales": 1379.1599999999999,
+  "primaTotal": 7327.92,
+  "recibos": [
+    {
+      "primaNeta": 5948.76,
+      "sumaImportesTotales": 1379.1599999999999,
+      "primaTotal": 7327.92
+    },
+    { "primaNeta": 0, "sumaImportesTotales": 0, "primaTotal": 0 }
+  ],
+  "mensajeCliente": "",
+  "tablasCorporativas": [
+    {
+      "nombreCampo": "TCMOMOVP",
+      "elementos": [
+        {
+          "codigoElemento": "581",
+          "descripcionElemento": "Renovación póliza",
+          "tsultmod": "2020-03-31-10.22.09.815453"
+        },
+        {
+          "codigoElemento": "700",
+          "descripcionElemento": "Cambio CEC",
+          "tsultmod": "2020-03-31-10.22.24.900265"
+        }
+      ]
+    }
+  ]
+}

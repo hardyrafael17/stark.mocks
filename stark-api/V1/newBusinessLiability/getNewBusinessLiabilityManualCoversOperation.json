@@ -1,0 +1,11 @@
+{
+  "coberturasManuales": [
+    {
+      "codigoSecuenciaSituaciones": 1,
+      "codigoSecuencialGarantia": 6,
+      "descripcionCoberturaManual": "cover 1",
+      "codigoGarantia": "0000000308",
+      "codigoElementoCobertura": "INSUBMED"
+    }
+  ]
+}

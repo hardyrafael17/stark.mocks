@@ -1,0 +1,16 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "D01",
+      "descripcionElementoCobertura": "DOMESTICO"
+    },
+    {
+      "codigoElementoCobertura": "D02",
+      "descripcionElementoCobertura": "DOMESTICO INTERNACIONAL"
+    },
+    {
+      "codigoElementoCobertura": "R10",
+      "descripcionElementoCobertura": "DOMESTICO FACULTATIVO"
+    }
+  ]
+}

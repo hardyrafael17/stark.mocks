@@ -1,0 +1,23 @@
+{
+  "cuentaGPP": "115512",
+  "nombrePropio": "CASA SANTIVERI SL",
+  "enlaceHerramientaPrecio": "",
+  "nombreSuscriptor": "De mier Macho, Carlota",
+  "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+  "fechaEfectoOportunidad": "2021-06-17",
+  "versiones": [
+    {
+      "indicadorPrincipal": true,
+      "descripcionVersion": "Version manual cover",
+      "cuentaGPP": "115512",
+      "versionGPP": 1,
+      "codigoPoliza": "88005323117951",
+      "versionPoliza": 0,
+      "fechaRecepcion": "2021-12-13",
+      "importeLimiteGeneral": 6000000,
+      "importeFranquicia": 1500,
+      "primaTotal": 58812.59,
+      "primaQuoted": 60000.05
+    }
+  ]
+}

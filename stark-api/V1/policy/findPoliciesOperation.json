@@ -1,0 +1,72 @@
+{
+  "polizas": [
+    {
+      "indicadorPoliza": "Complete",
+      "codigoTecnicoProducto": "00585",
+      "codigoPoliza": "00005073078155",
+      "versionPoliza": 0,
+      "nombreCliente": "CASA SANTIVERI SL",
+      "nombreLineaNegocio": "STARK TRDM MM",
+      "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+      "fechaVencimiento": "2023-01-14",
+      "numeroDiasPreaviso": 302,
+      "primaNeta": 5633.84,
+      "numeroTierPoliza": 1,
+      "porcentajeLossRatio": 0,
+      "indicadorRenovacionAutomatica": true,
+      "porcentajeZrcObjetivo": 0,
+      "tipoMovimientoPoliza" :"8"
+    },
+    {
+      "indicadorPoliza": "Incomplete",
+      "codigoTecnicoProducto": "00585",
+      "codigoPoliza": "INC-00005073078155",
+      "versionPoliza": 1,
+      "nombreCliente": "suplemento",
+      "nombreLineaNegocio": "STARK TRDM MM",
+      "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+      "fechaVencimiento": "2023-01-14",
+      "numeroDiasPreaviso": 302,
+      "primaNeta": 5633.84,
+      "numeroTierPoliza": 1,
+      "porcentajeLossRatio": 0,
+      "indicadorRenovacionAutomatica": true,
+      "porcentajeZrcObjetivo": 0,
+      "tipoMovimientoPoliza" :"2"
+    },
+    {
+      "indicadorPoliza": "Incomplete",
+      "codigoTecnicoProducto": "00585",
+      "codigoPoliza": "INC-00005073078155",
+      "versionPoliza": 1,
+      "nombreCliente": "cartera",
+      "nombreLineaNegocio": "STARK TRDM MM",
+      "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+      "fechaVencimiento": "2023-01-14",
+      "numeroDiasPreaviso": 302,
+      "primaNeta": 5633.84,
+      "numeroTierPoliza": 1,
+      "porcentajeLossRatio": 0,
+      "indicadorRenovacionAutomatica": true,
+      "porcentajeZrcObjetivo": 0,
+      "tipoMovimientoPoliza" :"8"
+    },
+    {
+      "indicadorPoliza": "Incomplete",
+      "codigoTecnicoProducto": "00881",
+      "codigoPoliza": "INC-00005073078155",
+      "versionPoliza": 1,
+      "nombreCliente": "es RC",
+      "nombreLineaNegocio": "STARK TRDM MM",
+      "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL",
+      "fechaVencimiento": "2023-01-14",
+      "numeroDiasPreaviso": 302,
+      "primaNeta": 5633.84,
+      "numeroTierPoliza": 1,
+      "porcentajeLossRatio": 0,
+      "indicadorRenovacionAutomatica": true,
+      "porcentajeZrcObjetivo": 0,
+      "tipoMovimientoPoliza" :"8"
+    }
+  ]
+}

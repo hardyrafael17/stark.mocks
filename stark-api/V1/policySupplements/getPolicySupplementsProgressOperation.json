@@ -1,0 +1,167 @@
+{
+  "codigoPoliza": "00005073078155",
+  "versionPoliza": 1,
+  "errors": [],
+  "fases": [
+    {
+      "codigoFasePoliza": "01",
+      "ordenFasePoliza": "0",
+      "pasos": [
+        {
+          "codigoPasoPoliza": "01",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        },
+        {
+          "codigoPasoPoliza": "06",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        }
+      ]
+    },
+    {
+      "codigoFasePoliza": "02",
+      "ordenFasePoliza": "0",
+      "pasos": [
+        {
+          "codigoPasoPoliza": "01",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0",
+          "subPasos": [
+            {
+              "codigoPasoPoliza": "01",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "02",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "03",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "04",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "05",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoPoliza": "02",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        },
+        {
+          "codigoPasoPoliza": "03",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0",
+          "subPasos": [
+            {
+              "codigoPasoPoliza": "01",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "02",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "03",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "04",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoPoliza": "04",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0",
+          "subPasos": [
+            {
+              "codigoPasoPoliza": "01",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "02",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "03",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "04",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            },
+            {
+              "codigoPasoPoliza": "05",
+              "estadoPasoPoliza": "Completado",
+              "ordenPasoPoliza": "0"
+            }
+          ]
+        },
+        {
+          "codigoPasoPoliza": "05",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        }
+      ]
+    },
+    {
+      "codigoFasePoliza": "03",
+      "ordenFasePoliza": "0",
+      "pasos": [
+        {
+          "codigoPasoPoliza": "01",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        },
+        {
+          "codigoPasoPoliza": "02",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        },
+        {
+          "codigoPasoPoliza": "03",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        },
+        {
+          "codigoPasoPoliza": "04",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        }
+      ]
+    },
+    {
+      "codigoFasePoliza": "04",
+      "ordenFasePoliza": "0",
+      "pasos": [
+        {
+          "codigoPasoPoliza": "01",
+          "estadoPasoPoliza": "Completado",
+          "ordenPasoPoliza": "0"
+        }
+      ]
+    }
+  ]
+}

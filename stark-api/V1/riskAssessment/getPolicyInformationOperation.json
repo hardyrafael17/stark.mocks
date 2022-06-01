@@ -1,0 +1,20 @@
+{
+  "codigoNaic": "721110",
+  "margenDM": "5",
+  "codigoCondicionadoPoliza": "2/3.01.11.19",
+  "codigoNumeroPolizaReemplazo": "",
+  "tipoCondicionadoPoliza": "001",
+  "margenPb": "2",
+  "codigoTipoNegocioEmision": "D01",
+  "tipoProductoPoliza": "TRDM",
+  "capitalPbPoliza": 285000,
+  "incrementoDeGastosExtra": 0,
+  "limiteCombinado": 0,
+  "daniosMateriales": 0,
+  "importeEMLLineSetting": 3910231.2,
+  "interdependenciaCobertura": 0,
+  "perdidaDeBeneficios": 0,
+  "codigoSecuenciaSituacionPrincipal": 2,
+  "porcentajeRefrigerados": 0,
+  "porcentajeDevolucionMaximaPB": 20
+}

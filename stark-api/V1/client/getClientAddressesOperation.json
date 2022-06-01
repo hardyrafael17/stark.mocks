@@ -1,0 +1,17 @@
+{
+  "direcciones": [
+    {
+      "codigoDireccionCliente": "1",
+      "descripcionDireccionCliente": "1- Augusta 200 ,08021 BARCELONA BARCELONA ESPAÑA"
+    },
+    {
+      "codigoDireccionCliente": "2",
+      "descripcionDireccionCliente": "2- Nàpols 25 ,08018 BARCELONA BARCELONA ESPAÑA"
+    },
+    {
+      "codigoDireccionCliente": "001",
+      "descripcionDireccionCliente": "3- tallat2222, 43720, L'Arboç"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,42 @@
+{
+  "codigoDuns": "476544494",
+  "naicInforma": {
+    "codigoNaic": "111110",
+    "nombreNaic": "Explotación de Soja. Edificio, contenido y equipamiento",
+    "tipoNaic": "",
+    "codigoNaicFamilia": "1111"
+  },
+  "naicHorizon": {
+    "codigoNaic": "111412",
+    "nombreNaic": "Explotación de cannabis bajo techo",
+    "tipoNaic": "",
+    "codigoNaicFamilia": "2222"
+  },
+  "tipoDocumento": "C",
+  "codigoIdentificacionFiscal": "B63803167",
+  "codigoPostal": "",
+  "direccionTomador": "Vía Augusta 200 ,08021 BARCELONA BARCELONA ESPAÑA",
+  "segmentoCliente": { "codigoSegmento": "UN2NMV4HTMNCXCH3" },
+  "nombrePoblacionPagador": "",
+  "intermediario": {
+    "codigoIntermediario": "0000006567",
+    "nombreIntermediario": "BARCELONA-M.V. ASSEGURANCES,SL"
+  },
+  "ipz": "Domestic",
+  "nombreLineaNegocio": "Property",
+  "nombreProducto": "Material Damage and",
+  "nombreSubProducto": "General",
+  "negocio": { "tipoNegocio": "Nuevo", "nombreNegocio": "" },
+  "tipoRenovacionOportunidad": "Standard",
+  "fechaEfectoOportunidad": "2020-09-01T22:00:00.000Z",
+  "fechaExpiracionOportunidad": "2021-08-31T22:00:00.000Z",
+  "fechaEntregaOportunidad": "2022-06-17T00:00:59.000Z",
+  "etapaInicialVentas": "",
+  "primaEstimada": 4444,
+  "codigoMoneda": "EUR",
+  "suscriptor": { "codigoSuscriptor": "ZZMWE3LBZDAMUDPV" },
+  "codigoDireccionCliente": "001",
+  "codigoFiliacion": "1024075623",
+  "nombrePropio": "CASA SANTIVERI SL",
+  "indicadorTipoCoaseguro": "A"
+}

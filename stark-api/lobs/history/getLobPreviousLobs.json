@@ -1,0 +1,74 @@
+{
+  "occurrences": [
+    {
+      "insurancePolicyNumber": "00000064962897",
+      "businessLine": "Property",
+      "startDate": 20120701,
+      "endDate": 20220331,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 354120.88,
+      "commissions": 0.196,
+      "accidentRate": 0.076799
+    },
+    {
+      "insurancePolicyNumber": "00000065313645",
+      "businessLine": "General Liability",
+      "startDate": 20120701,
+      "endDate": 20220331,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 168225.04,
+      "commissions": 0.19,
+      "accidentRate": 0.000538
+    },
+    {
+      "insurancePolicyNumber": "00000073749244",
+      "businessLine": "Marine Cargo",
+      "startDate": 20140311,
+      "endDate": 20140312,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 150,
+      "commissions": 0.15000000000000002,
+      "accidentRate": 0
+    },
+    {
+      "insurancePolicyNumber": "00000080254238",
+      "businessLine": "Marine Cargo",
+      "startDate": 20150611,
+      "endDate": 20150715,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 235.51999999999998,
+      "commissions": 0.15000000000000002,
+      "accidentRate": 0
+    },
+    {
+      "insurancePolicyNumber": "00000081783722",
+      "businessLine": "Marine Cargo",
+      "startDate": 20150903,
+      "endDate": 20200902,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 3417.88,
+      "commissions": 0.20400000000000001,
+      "accidentRate": 0
+    },
+    {
+      "insurancePolicyNumber": "00089305001365",
+      "businessLine": "General Liability",
+      "startDate": 19930312,
+      "endDate": 20130331,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 0,
+      "commissions": 0,
+      "accidentRate": 0
+    },
+    {
+      "insurancePolicyNumber": "00089401000097",
+      "businessLine": "Property",
+      "startDate": 19940101,
+      "endDate": 20130331,
+      "broker": "BARCELONA-FERRER Y OJEDA",
+      "netPremium": 0,
+      "commissions": 0,
+      "accidentRate": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "listaValoresSelectorSituacion": [
+    {
+      "codigoElementoCobertura": "A",
+      "descripcionElementoCobertura": "Aceptado"
+    },
+    {
+      "codigoElementoCobertura": "C",
+      "descripcionElementoCobertura": "Cedido"
+    },
+    {
+      "codigoElementoCobertura": "N",
+      "descripcionElementoCobertura": "Sin Coaseguro"
+    }
+  ]
+}

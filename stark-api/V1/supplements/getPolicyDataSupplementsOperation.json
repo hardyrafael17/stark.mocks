@@ -1,0 +1,413 @@
+{
+  "datosPoliza": {
+    "nombreTomador": "",
+    "nombreTomadorPrimerApellido": "CASA SANTIVERI SL",
+    "nombreTomadorSegundoApellido": "",
+    "tipoMovimientoPoliza": "2",
+    "fechaEfectoNatural": "2022-01-15",
+    "fechaRegularizacion": "2023-01-14",
+    "duracionPoliza": "R",
+    "fechaEfectoMovimiento": "2022-01-15",
+    "fechaVencimientoOferta": "2023-01-14",
+    "motivoMovimientoPoliza": "999",
+    "codigoNIFTomador": "B63803167",
+    "codigoInternoCEC": "",
+    "indicadorEmisionRecibo": true,
+    "fechaInicioPoliza": "2022-01-15",
+    "tipoCanalCobro1Recibo": "IN",
+    "formaPago": "A",
+    "codigoIBAN": "",
+    "claveCobradora1Recibo": "0000004306",
+    "codigoContrato": "",
+    "numeroSuplemento": 0,
+    "indicadorUltimaSituacion": "U",
+    "indicadorBloqueoPoliza": true,
+    "codigoTecnicoProducto": "00585",
+    "codigoComercialProducto": "00001",
+    "codigoEstructura": "6100",
+    "codigoCanalDistribucion": "0000000001",
+    "estadoPoliza": "V",
+    "formaPagoSucesivos": "A",
+    "indicadorAnualidadCalculoComis": 1,
+    "indicadorTipoCoaseguro": "C",
+    "porcentajeCoaseguro": 0.6000000000000001,
+    "codigoFiliacionTomador": "1024075623",
+    "claveSecuenciaDomicilioTomador": "001",
+    "tipoNIFTomador": "J",
+    "codigoFiliacion": "1024075623",
+    "codigoBanco": "",
+    "codigoOficinaBanco": "",
+    "numeroDigitoControlBanco": "",
+    "numeroCuentaBanco": "",
+    "tipoComision": "R",
+    "tipoCanalCobroSucesivos": "IN",
+    "claveCobradoraSucesivos": "0000004306",
+    "claveIntermediarioProductor1": "0000006567",
+    "claveIntermediarioProductor2": "",
+    "claveIntermediarioProductor3": "",
+    "indicadorIdiomaPoliza": "ES",
+    "contadorVersionOrigenPoliza": 0,
+    "indicadorGeneracionExtorno": "S",
+    "indicadorReaseguroCedido": ""
+  },
+  "producto": { "nombreProductora": "STARK TRDM MM" },
+  "mediador": { "descripcionProductora": "BARCELONA-M.V. ASSEGURANCES,SL" },
+  "tomador": {
+    "domicilioCompactado": "Vía Augusta S/N ,08021 BARCELONA BARCELONA ESPAÑA"
+  },
+  "tablasCorporativas": [
+    {
+      "nombreCampo": "DUCONTRA",
+      "elementos": [
+        {
+          "codigoElemento": "R",
+          "descripcionElemento": "Renovable",
+          "tsultmod": "2019-10-15-19.51.35.641129"
+        },
+        {
+          "codigoElemento": "T",
+          "descripcionElemento": "Temporal",
+          "tsultmod": "2019-10-15-19.51.35.641164"
+        }
+      ]
+    },
+    {
+      "nombreCampo": "TCFORPAG",
+      "elementos": [
+        {
+          "codigoElemento": "A",
+          "descripcionElemento": "Anual",
+          "tsultmod": "2019-10-15-19.51.35.703854"
+        },
+        {
+          "codigoElemento": "S",
+          "descripcionElemento": "Semestral",
+          "tsultmod": "2019-10-15-19.51.35.703885"
+        },
+        {
+          "codigoElemento": "T",
+          "descripcionElemento": "Trimestral",
+          "tsultmod": "2019-10-15-19.51.35.703913"
+        },
+        {
+          "codigoElemento": "U",
+          "descripcionElemento": "Unica",
+          "tsultmod": "2019-10-15-19.51.35.703945"
+        }
+      ]
+    },
+    {
+      "nombreCampo": "TCMOMOVP",
+      "elementos": [
+        {
+          "codigoElemento": "104",
+          "descripcionElemento": "Cambio de tomador",
+          "tsultmod": "2020-03-31-10.14.30.455439"
+        },
+        {
+          "codigoElemento": "110",
+          "descripcionElemento": "Otros motivos",
+          "tsultmod": "2020-03-31-10.14.55.836358"
+        },
+        {
+          "codigoElemento": "119",
+          "descripcionElemento": "Modificación datos generales",
+          "tsultmod": "2020-03-31-10.15.00.119919"
+        },
+        {
+          "codigoElemento": "123",
+          "descripcionElemento": "Modificación comisiones",
+          "tsultmod": "2020-03-31-10.15.03.037720"
+        },
+        {
+          "codigoElemento": "133",
+          "descripcionElemento": "Modificación de objeto(s)",
+          "tsultmod": "2020-03-31-10.15.42.189432"
+        },
+        {
+          "codigoElemento": "138",
+          "descripcionElemento": "Modificación datos del Tomador",
+          "tsultmod": "2020-03-31-10.15.43.499794"
+        },
+        {
+          "codigoElemento": "139",
+          "descripcionElemento": "Modificación datos de la ofici",
+          "tsultmod": "2020-03-31-10.15.44.985538"
+        },
+        {
+          "codigoElemento": "180",
+          "descripcionElemento": "Cambio de vencimiento",
+          "tsultmod": "2020-03-31-10.15.47.042235"
+        },
+        {
+          "codigoElemento": "221",
+          "descripcionElemento": "Anulación de objeto(s)",
+          "tsultmod": "2020-03-31-10.15.55.586978"
+        },
+        {
+          "codigoElemento": "222",
+          "descripcionElemento": "Inclusión/exclusión situación",
+          "tsultmod": "2020-03-31-10.15.59.442173"
+        },
+        {
+          "codigoElemento": "223",
+          "descripcionElemento": "Modificación de asegurados",
+          "tsultmod": "2020-03-31-10.16.00.701419"
+        },
+        {
+          "codigoElemento": "259",
+          "descripcionElemento": "Modificación de objeto(s) / ga",
+          "tsultmod": "2020-03-31-10.16.02.007770"
+        },
+        {
+          "codigoElemento": "260",
+          "descripcionElemento": "Cambio de Código de Negocio",
+          "tsultmod": "2020-03-31-10.16.03.179985"
+        },
+        {
+          "codigoElemento": "281",
+          "descripcionElemento": "Creacion Recibos para Anualida",
+          "tsultmod": "2020-03-31-10.16.04.883051"
+        },
+        {
+          "codigoElemento": "282",
+          "descripcionElemento": "Cambio situacion riesgo/ activ",
+          "tsultmod": "2020-03-31-10.16.07.227879"
+        },
+        {
+          "codigoElemento": "283",
+          "descripcionElemento": "Acta interna",
+          "tsultmod": "2020-03-31-10.16.08.419442"
+        },
+        {
+          "codigoElemento": "287",
+          "descripcionElemento": "Cambio de propietario",
+          "tsultmod": "2020-03-31-10.16.12.420153"
+        },
+        {
+          "codigoElemento": "320",
+          "descripcionElemento": "Modificación de garantías",
+          "tsultmod": "2020-03-31-10.16.18.583903"
+        },
+        {
+          "codigoElemento": "324",
+          "descripcionElemento": "Modificación de capitales aseg",
+          "tsultmod": "2020-03-31-10.16.21.420613"
+        },
+        {
+          "codigoElemento": "350",
+          "descripcionElemento": "Modificación de TIER",
+          "tsultmod": "2020-03-31-10.16.28.195314"
+        },
+        {
+          "codigoElemento": "411",
+          "descripcionElemento": "Inclusión clausulado especial",
+          "tsultmod": "2020-03-31-10.16.31.862941"
+        },
+        {
+          "codigoElemento": "413",
+          "descripcionElemento": "Modificación clausulado",
+          "tsultmod": "2020-03-31-10.16.33.231538"
+        },
+        {
+          "codigoElemento": "426",
+          "descripcionElemento": "Modificación de beneficiario",
+          "tsultmod": "2020-03-31-10.16.36.035334"
+        },
+        {
+          "codigoElemento": "516",
+          "descripcionElemento": "Sustitución intermediarios",
+          "tsultmod": "2020-03-31-10.16.38.393115"
+        },
+        {
+          "codigoElemento": "527",
+          "descripcionElemento": "Modificaciones masivas persona",
+          "tsultmod": "2020-03-31-10.16.40.125669"
+        },
+        {
+          "codigoElemento": "605",
+          "descripcionElemento": "Alta prima única suces. Cap.",
+          "tsultmod": "2020-03-31-10.16.42.833597"
+        },
+        {
+          "codigoElemento": "649",
+          "descripcionElemento": "Fallecimiento beneficiario",
+          "tsultmod": "2020-03-31-10.16.52.968660"
+        },
+        {
+          "codigoElemento": "650",
+          "descripcionElemento": "Modificación importe prima",
+          "tsultmod": "2020-03-31-10.16.55.529959"
+        },
+        {
+          "codigoElemento": "651",
+          "descripcionElemento": "Modificación datos bancarios",
+          "tsultmod": "2020-03-31-10.16.56.531424"
+        },
+        {
+          "codigoElemento": "652",
+          "descripcionElemento": "Modificación domicilio",
+          "tsultmod": "2020-03-31-10.16.57.877552"
+        },
+        {
+          "codigoElemento": "655",
+          "descripcionElemento": "Modificación tipo / porcentaje",
+          "tsultmod": "2020-03-31-10.17.02.063970"
+        },
+        {
+          "codigoElemento": "656",
+          "descripcionElemento": "Sustitución intermediarios / m",
+          "tsultmod": "2020-03-31-10.17.05.000015"
+        },
+        {
+          "codigoElemento": "657",
+          "descripcionElemento": "Modificación duración",
+          "tsultmod": "2020-03-31-10.17.06.505101"
+        },
+        {
+          "codigoElemento": "658",
+          "descripcionElemento": "Modificación fecha nacimiento",
+          "tsultmod": "2020-03-31-10.17.08.216895"
+        },
+        {
+          "codigoElemento": "660",
+          "descripcionElemento": "Modificación opción comisión",
+          "tsultmod": "2020-03-31-10.17.12.554276"
+        },
+        {
+          "codigoElemento": "661",
+          "descripcionElemento": "Modificación nombre y apellido",
+          "tsultmod": "2020-03-31-10.17.15.220958"
+        },
+        {
+          "codigoElemento": "662",
+          "descripcionElemento": "Modificación NIF",
+          "tsultmod": "2020-03-31-10.17.17.055299"
+        },
+        {
+          "codigoElemento": "663",
+          "descripcionElemento": "Paralización pago prima",
+          "tsultmod": "2020-03-31-10.17.22.976066"
+        },
+        {
+          "codigoElemento": "664",
+          "descripcionElemento": "Reactivación pago prima",
+          "tsultmod": "2020-03-31-10.17.23.842734"
+        },
+        {
+          "codigoElemento": "665",
+          "descripcionElemento": "Modificación forma pago",
+          "tsultmod": "2020-03-31-10.17.25.142472"
+        },
+        {
+          "codigoElemento": "666",
+          "descripcionElemento": "Modificación fecha efecto natu",
+          "tsultmod": "2020-03-31-10.17.26.490252"
+        },
+        {
+          "codigoElemento": "667",
+          "descripcionElemento": "Modificación indicador prórrog",
+          "tsultmod": "2020-03-31-10.17.29.983717"
+        },
+        {
+          "codigoElemento": "669",
+          "descripcionElemento": "Aumento o disminución capital",
+          "tsultmod": "2020-03-31-10.17.32.533767"
+        },
+        {
+          "codigoElemento": "671",
+          "descripcionElemento": "Devolución recibo",
+          "tsultmod": "2020-03-31-10.17.40.902803"
+        },
+        {
+          "codigoElemento": "672",
+          "descripcionElemento": "Anulación recibo",
+          "tsultmod": "2020-03-31-10.17.42.109324"
+        },
+        {
+          "codigoElemento": "673",
+          "descripcionElemento": "Liquidación recibo",
+          "tsultmod": "2020-03-31-10.17.43.966688"
+        },
+        {
+          "codigoElemento": "700",
+          "descripcionElemento": "Cambio CEC",
+          "tsultmod": "2020-03-31-10.18.00.686572"
+        },
+        {
+          "codigoElemento": "803",
+          "descripcionElemento": "Modif. Coberturas adiconales",
+          "tsultmod": "2020-03-31-10.18.50.486591"
+        },
+        {
+          "codigoElemento": "999",
+          "descripcionElemento": "General",
+          "tsultmod": "2020-11-19-20.12.05.818328"
+        }
+      ]
+    },
+    {
+      "nombreCampo": "TCCANCO1",
+      "elementos": [
+        {
+          "codigoElemento": "BC",
+          "descripcionElemento": "Banco",
+          "tsultmod": "2019-10-15-19.51.35.698471"
+        },
+        {
+          "codigoElemento": "CD",
+          "descripcionElemento": "Ventanilla",
+          "tsultmod": "2019-10-15-19.51.35.698501"
+        },
+        {
+          "codigoElemento": "CO",
+          "descripcionElemento": "Negocio Aceptado",
+          "tsultmod": "2019-10-15-19.51.35.698535"
+        },
+        {
+          "codigoElemento": "IN",
+          "descripcionElemento": "Intermediario",
+          "tsultmod": "2019-10-15-19.51.35.698576"
+        }
+      ]
+    }
+  ],
+  "situaciones": [
+    {
+      "codigoSecuenciaSituaciones": 1,
+      "nombreAsegurado": "CONDIS",
+      "dniNifCifAsegurado": "36521956A",
+      "primerApellidoAsegurado": "PRUEBA",
+      "segundoApellido": "",
+      "nombreComercial": "PRUEBA  CONDIS",
+      "codigoFiliacionPrimerAsegurado": "1024075647",
+      "tipoDocumentoAseguradoBeneficiario": "N",
+      "tipoPersonaAsegurada": "F",
+      "descripcionSituacionCliente": "acceso sur",
+      "codigoEntidad": "",
+      "codigoIdentificacionFiscal": "",
+      "tipoDocumento": "C",
+      "indicadorCesionDerechos": false,
+      "titularCesionDerechos": "",
+      "indicadorAcreedorHipotecario": false
+    },
+    {
+      "codigoSecuenciaSituaciones": 2,
+      "nombreAsegurado": "CONDIS",
+      "dniNifCifAsegurado": "36521956A",
+      "primerApellidoAsegurado": "PRUEBA",
+      "segundoApellido": "",
+      "nombreComercial": "PRUEBA  CONDIS",
+      "codigoFiliacionPrimerAsegurado": "1024075647",
+      "tipoDocumentoAseguradoBeneficiario": "N",
+      "tipoPersonaAsegurada": "F",
+      "descripcionSituacionCliente": "acceso sur",
+      "codigoEntidad": "",
+      "codigoIdentificacionFiscal": "",
+      "tipoDocumento": "C",
+      "indicadorCesionDerechos": false,
+      "titularCesionDerechos": "",
+      "indicadorAcreedorHipotecario": false
+    }
+  ]
+}

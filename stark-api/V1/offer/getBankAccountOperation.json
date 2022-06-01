@@ -1,0 +1,12 @@
+{
+  "cuentas": [
+    {
+      "numeroCuentaBanco": "00851001599230913905",
+      "nombreTitular": "123tg",
+      "nombreCotitular": "",
+      "tiempoUltimaModificacion": "2021-11-09-16.19.50.246232",
+      "indicadorCuentaPrincipal": true,
+      "codigoIBAN": "ES1200851001599230913905"
+    }
+  ]
+}

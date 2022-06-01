@@ -1,0 +1,41 @@
+{
+  "importeLimiteGeneral": 1500000,
+  "importeLimiteAnualGeneral": 0,
+  "importeFranquiciaMaterial": 25000,
+  "importeFranquicia": 25000,
+  "codigoAmbitoTemporal": "51",
+  "codigoProductoRiesgoCivil": "SA",
+  "numeroRetroactividad": 0,
+  "periodoDescubrimiento": 24,
+  "periodoReclamacionERP": 0,
+  "codigoAmbitoTerritorial": "1",
+  "situaciones": [
+    {
+      "codigoSecuenciaSituaciones": 1,
+      "codigoObjetoSituaciones": "0000000039",
+      "vendors": [
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" },
+        { "nombreCampo": "" }
+      ],
+      "importeLimiteGeneral": 1500000,
+      "importeLimiteAnualGeneral": 0,
+      "importeLimitePorVictima": 0,
+      "importeFranquiciaMaterial": 25000,
+      "porcentajeFranquiciaMaterial": 0,
+      "importeFranquiciaMaterialMinima": 0,
+      "importeFranquiciaMaterialMaxima": 0,
+      "importeFranquicia": 25000,
+      "porcentajeFranquiciaCorporal": 0,
+      "importeFranquiciaCorporalMinima": 0,
+      "importeFranquiciaCorporalMaxima": 0
+    }
+  ]
+}
